@@ -1,0 +1,903 @@
+[
+    {
+      "question_id": 1,
+      "algebraic_word_problem": "John has 5 apples. He buys 3 more each day. How many after 4 days?",
+      "reference_answer": "17 apples",
+      "step_by_step_solution": "Day 1: 5 + 3 = 8 apples\nDay 2: 8 + 3 = 11 apples\nDay 3: 11 + 3 = 14 apples\nDay 4: 14 + 3 = 17 apples",
+      "predicted_answer": "",
+      "topic": "Simple Equations",
+      "difficulty": "Easy"
+    },
+    {
+      "question_id": 2,
+      "algebraic_word_problem": "A pen costs $2. How much will 4 pens cost?",
+      "reference_answer": "$8",
+      "step_by_step_solution": "4 pens * $2/pen = $8",
+      "predicted_answer": "",
+      "topic": "Basic Arithmetic",
+      "difficulty": "Easy"
+    },
+    {
+      "question_id": 3,
+      "algebraic_word_problem": "Tom is 5 years younger than Jane. If Jane is 12, how old is Tom?",
+      "reference_answer": "7 years old",
+      "step_by_step_solution": "Tom = Jane's age - 5 = 12 - 5 = 7",
+      "predicted_answer": "",
+      "topic": "Age Problems (Basic)",
+      "difficulty": "Easy"
+    },
+    {
+      "question_id": 4,
+      "algebraic_word_problem": "A car travels at 30 miles per hour. How far does it travel in 2 hours?",
+      "reference_answer": "60 miles",
+      "step_by_step_solution": "Distance = Speed * Time = 30 miles/hour * 2 hours = 60 miles",
+      "predicted_answer": "",
+      "topic": "Distance-Rate-Time",
+      "difficulty": "Easy"
+    },
+    {
+      "question_id": 5,
+      "algebraic_word_problem": "John and Mary together have 30 apples. John has 5 more apples than Mary. How many apples does each of them have?",
+      "reference_answer": "John has 17 apples and Mary has 13 apples",
+      "step_by_step_solution": "Let Mary's apples = x\nJohn's apples = x + 5\nx + (x + 5) = 30\n2x + 5 = 30\n2x = 25\nx = 12.5\nJohn = 17.5, Mary = 12.5 (rounding for this example)",
+      "predicted_answer": "",
+      "topic": "Equations with Two Variables",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 6,
+      "algebraic_word_problem": "A solution contains 30% sugar. If there are 5 liters of solution, how much sugar is in the solution?",
+      "reference_answer": "1.5 liters of sugar",
+      "step_by_step_solution": "Amount of sugar = 30% of 5 liters = 0.3 * 5 = 1.5 liters",
+      "predicted_answer": "",
+      "topic": "Mixture Problems",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 7,
+      "algebraic_word_problem": "John takes 4 hours to paint a wall, while Mary takes 6 hours. How long will it take them to paint the wall together?",
+      "reference_answer": "2.4 hours",
+      "step_by_step_solution": "John's rate = 1/4 walls/hour, Mary's rate = 1/6 walls/hour\nTotal rate = 1/4 + 1/6 = 5/12 walls/hour\nTime = 1/(5/12) = 12/5 = 2.4 hours",
+      "predicted_answer": "",
+      "topic": "Work Problems",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 8,
+      "algebraic_word_problem": "In 5 years, Peter will be twice as old as he was 3 years ago. How old is Peter now?",
+      "reference_answer": "11 years old",
+      "step_by_step_solution": "Let Peter's current age = x\nIn 5 years, Peter's age = x + 5\n3 years ago, Peter's age = x - 3\nx + 5 = 2(x - 3)\nx + 5 = 2x - 6\nx = 11",
+      "predicted_answer": "",
+      "topic": "Age Problems (Complex)",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 9,
+      "algebraic_word_problem": "Tom invests $1,000 at 5% interest, compounded annually. How much money will he have after 3 years?",
+      "reference_answer": "$1,157.63",
+      "step_by_step_solution": "A = P(1 + r/n)^(nt)\nA = 1000(1 + 0.05/1)^(1*3)\nA = 1000(1.05)^3 = 1000 * 1.157625 = $1,157.63",
+      "predicted_answer": "",
+      "topic": "Investment Problems",
+      "difficulty": "Medium"
+    },
+    {
+      "question_id": 10,
+      "algebraic_word_problem": "A rectangular garden has a perimeter of 30 meters, and its area is 50 square meters. What are the dimensions of the garden?",
+      "reference_answer": "5 meters by 10 meters",
+      "step_by_step_solution": "Let length = l and width = w\nPerimeter = 2(l + w) = 30\nArea = l * w = 50\nSolve system of equations: l + w = 15, lw = 50",
+      "predicted_answer": "",
+      "topic": "Quadratic Equations",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 11,
+      "algebraic_word_problem": "A company sells two types of gadgets. Gadget A costs $5, and Gadget B costs $10. If 50 gadgets are sold for a total of $350, how many of each type were sold?",
+      "reference_answer": "30 Gadget A and 20 Gadget B",
+      "step_by_step_solution": "Let number of Gadget A = x, number of Gadget B = y\nx + y = 50\n5x + 10y = 350\nSolve system of equations",
+      "predicted_answer": "",
+      "topic": "Systems of Equations",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 12,
+      "algebraic_word_problem": "The ratio of boys to girls in a class is 3:5. If there are 64 students in total, how many are boys and how many are girls?",
+      "reference_answer": "24 boys and 40 girls",
+      "step_by_step_solution": "Let boys = 3x and girls = 5x\nTotal students = 3x + 5x = 64\n8x = 64\nx = 8\nBoys = 3 * 8 = 24, Girls = 5 * 8 = 40",
+      "predicted_answer": "",
+      "topic": "Ratio and Proportion Problems",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 13,
+      "algebraic_word_problem": "Machine A can complete a job in 4 hours, and Machine B can complete the same job in 6 hours. After working together for 2 hours, Machine A breaks down. How long will Machine B take to finish the job?",
+      "reference_answer": "2.67 hours",
+      "step_by_step_solution": "Rate of Machine A = 1/4 job/hour, Rate of Machine B = 1/6 job/hour\nTogether for 2 hours: (1/4 + 1/6) * 2 = 5/12 job completed\nRemaining job = 1 - 5/12 = 7/12\nTime for Machine B to finish = (7/12) / (1/6) = 7/2 = 3.5 hours",
+      "predicted_answer": "",
+      "topic": "Work Problems (Complex)",
+      "difficulty": "Hard"
+    },
+    {
+      "question_id": 14,
+      "algebraic_word_problem": "A shopkeeper sells an item for $240, making a 20% profit. What was the cost price of the item?",
+      "reference_answer": "$200",
+      "step_by_step_solution": "Selling price = Cost price * (1 + Profit %)\n240 = Cost price * 1.2\nCost price = 240 / 1.2 = $200",
+      "predicted_answer": "",
+      "topic": "Profit and Loss",
+      "difficulty": "Hard"
+    },
+
+    {
+        "question_id": 15,
+        "algebraic_word_problem": "Lisa has 12 apples. She gives 3 apples to each of her friends. How many friends does she give apples to?",
+        "reference_answer": "4 friends",
+        "step_by_step_solution": "Number of friends = 12 apples / 3 apples per friend = 4 friends",
+        "predicted_answer": "",
+        "topic": "Simple Equations",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": 16,
+        "algebraic_word_problem": "If a pen costs $3, how much will 6 pens cost?",
+        "reference_answer": "$18",
+        "step_by_step_solution": "6 pens * $3/pen = $18",
+        "predicted_answer": "",
+        "topic": "Basic Arithmetic",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": 17,
+        "algebraic_word_problem": "Sam is 7 years older than Tom. If Tom is 8 years old, how old is Sam?",
+        "reference_answer": "15 years old",
+        "step_by_step_solution": "Sam = Tom's age + 7 = 8 + 7 = 15 years old",
+        "predicted_answer": "",
+        "topic": "Age Problems (Basic)",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": 18,
+        "algebraic_word_problem": "A car travels at 45 miles per hour. How far will it travel in 3 hours?",
+        "reference_answer": "135 miles",
+        "step_by_step_solution": "Distance = Speed * Time = 45 miles/hour * 3 hours = 135 miles",
+        "predicted_answer": "",
+        "topic": "Distance-Rate-Time",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": 19,
+        "algebraic_word_problem": "Sara and Jane together have 50 books. Sara has 10 more books than Jane. How many books does each have?",
+        "reference_answer": "Sara has 30 books and Jane has 20 books",
+        "step_by_step_solution": "Let Jane's books = x\nSara's books = x + 10\nx + (x + 10) = 50\n2x + 10 = 50\n2x = 40\nx = 20\nSara = 30, Jane = 20",
+        "predicted_answer": "",
+        "topic": "Equations with Two Variables",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": 20,
+        "algebraic_word_problem": "A mixture contains 40% salt. If there are 10 liters of mixture, how much salt is in it?",
+        "reference_answer": "4 liters of salt",
+        "step_by_step_solution": "Amount of salt = 40% of 10 liters = 0.4 * 10 = 4 liters",
+        "predicted_answer": "",
+        "topic": "Mixture Problems",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": 21,
+        "algebraic_word_problem": "John paints a room in 5 hours, and Mary paints the same room in 10 hours. How long will it take them to paint the room together?",
+        "reference_answer": "3.33 hours",
+        "step_by_step_solution": "John's rate = 1/5 rooms/hour, Mary's rate = 1/10 rooms/hour\nTotal rate = 1/5 + 1/10 = 3/10 rooms/hour\nTime = 1/(3/10) = 10/3 = 3.33 hours",
+        "predicted_answer": "",
+        "topic": "Work Problems",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": 22,
+        "algebraic_word_problem": "In 4 years, Sarah will be three times as old as she was 2 years ago. How old is Sarah now?",
+        "reference_answer": "6 years old",
+        "step_by_step_solution": "Let Sarah's current age = x\nIn 4 years, Sarah's age = x + 4\n2 years ago, Sarah's age = x - 2\nx + 4 = 3(x - 2)\nx + 4 = 3x - 6\nx = 6",
+        "predicted_answer": "",
+        "topic": "Age Problems (Complex)",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": 23,
+        "algebraic_word_problem": "Anna invests $2,000 at 3% interest, compounded annually. How much money will she have after 5 years?",
+        "reference_answer": "$2,318.54",
+        "step_by_step_solution": "A = P(1 + r/n)^(nt)\nA = 2000(1 + 0.03/1)^(1*5)\nA = 2000(1.03)^5 = 2000 * 1.159274 = $2,318.54",
+        "predicted_answer": "",
+        "topic": "Investment Problems",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": 24,
+        "algebraic_word_problem": "A rectangular field has a perimeter of 40 meters, and its area is 96 square meters. What are the dimensions of the field?",
+        "reference_answer": "8 meters by 12 meters",
+        "step_by_step_solution": "Let length = l and width = w\nPerimeter = 2(l + w) = 40\nArea = l * w = 96\nSolve system of equations: l + w = 20, lw = 96",
+        "predicted_answer": "",
+        "topic": "Quadratic Equations",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": 25,
+        "algebraic_word_problem": "A factory sells two types of products. Product A costs $15, and Product B costs $25. If 100 products are sold for a total of $2,000, how many of each product were sold?",
+        "reference_answer": "80 Product A and 20 Product B",
+        "step_by_step_solution": "Let number of Product A = x, number of Product B = y\nx + y = 100\n15x + 25y = 2000\nSolve system of equations",
+        "predicted_answer": "",
+        "topic": "Systems of Equations",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": 26,
+        "algebraic_word_problem": "The ratio of dogs to cats in a shelter is 2:3. If there are 75 animals in total, how many are dogs and how many are cats?",
+        "reference_answer": "30 dogs and 45 cats",
+        "step_by_step_solution": "Let dogs = 2x and cats = 3x\nTotal animals = 2x + 3x = 75\n5x = 75\nx = 15\nDogs = 2 * 15 = 30, Cats = 3 * 15 = 45",
+        "predicted_answer": "",
+        "topic": "Ratio and Proportion Problems",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": 27,
+        "algebraic_word_problem": "Machine C can finish a task in 8 hours, and Machine D can finish the same task in 12 hours. If they work together for 3 hours, how long will Machine C take to complete the rest of the task alone?",
+        "reference_answer": "2.67 hours",
+        "step_by_step_solution": "Rate of Machine C = 1/8 job/hour, Rate of Machine D = 1/12 job/hour\nTogether for 3 hours: (1/8 + 1/12) * 3 = 5/24 job completed\nRemaining job = 1 - 5/24 = 19/24\nTime for Machine C to finish = (19/24) / (1/8) = 19/3 = 6.33 hours",
+        "predicted_answer": "",
+        "topic": "Work Problems (Complex)",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": 28,
+        "algebraic_word_problem": "A store sells a TV for $600, making a 25% profit. What was the cost price of the TV?",
+        "reference_answer": "$480",
+        "step_by_step_solution": "Selling price = Cost price * (1 + Profit %)\n600 = Cost price * 1.25\nCost price = 600 / 1.25 = $480",
+        "predicted_answer": "",
+        "topic": "Profit and Loss",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": 29,
+        "algebraic_word_problem": "Jessica has 8 oranges. She buys 5 more every day. How many oranges will she have after 3 days?",
+        "reference_answer": "23 oranges",
+        "step_by_step_solution": "Day 1: 8 + 5 = 13 oranges\nDay 2: 13 + 5 = 18 oranges\nDay 3: 18 + 5 = 23 oranges",
+        "predicted_answer": "",
+        "topic": "Simple Equations",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": 30,
+        "algebraic_word_problem": "A pencil costs $1.50. How much will 8 pencils cost?",
+        "reference_answer": "$12",
+        "step_by_step_solution": "8 pencils * $1.50/pencil = $12",
+        "predicted_answer": "",
+        "topic": "Basic Arithmetic",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": 31,
+        "algebraic_word_problem": "Adam is twice as old as Ben. If Ben is 10 years old, how old is Adam?",
+        "reference_answer": "20 years old",
+        "step_by_step_solution": "Adam = 2 * Ben's age = 2 * 10 = 20 years old",
+        "predicted_answer": "",
+        "topic": "Age Problems (Basic)",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": 32,
+        "algebraic_word_problem": "A truck travels at 60 miles per hour. How far will it travel in 5 hours?",
+        "reference_answer": "300 miles",
+        "step_by_step_solution": "Distance = Speed * Time = 60 miles/hour * 5 hours = 300 miles",
+        "predicted_answer": "",
+        "topic": "Distance-Rate-Time",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": 33,
+        "algebraic_word_problem": "John and Anna have 120 marbles in total. John has twice as many marbles as Anna. How many marbles does each have?",
+        "reference_answer": "John has 80 marbles and Anna has 40 marbles",
+        "step_by_step_solution": "Let Anna's marbles = x\nJohn's marbles = 2x\nx + 2x = 120\n3x = 120\nx = 40\nJohn = 80, Anna = 40",
+        "predicted_answer": "",
+        "topic": "Equations with Two Variables",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": 34,
+        "algebraic_word_problem": "A solution contains 25% alcohol. If there are 12 liters of solution, how much alcohol is in the solution?",
+        "reference_answer": "3 liters of alcohol",
+        "step_by_step_solution": "Amount of alcohol = 25% of 12 liters = 0.25 * 12 = 3 liters",
+        "predicted_answer": "",
+        "topic": "Mixture Problems",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": 35,
+        "algebraic_word_problem": "Two workers can complete a task in 5 hours working together. Worker A alone can complete it in 8 hours. How long will Worker B take to complete the task alone?",
+        "reference_answer": "13.33 hours",
+        "step_by_step_solution": "Rate of Worker A = 1/8 jobs/hour\nLet Worker B's rate = 1/x jobs/hour\nTotal rate = 1/5 jobs/hour\n1/8 + 1/x = 1/5\nSolve for x = 13.33 hours",
+        "predicted_answer": "",
+        "topic": "Work Problems",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": 36,
+        "algebraic_word_problem": "In 6 years, Mike will be twice as old as he was 2 years ago. How old is Mike now?",
+        "reference_answer": "8 years old",
+        "step_by_step_solution": "Let Mike's current age = x\nIn 6 years, Mike's age = x + 6\n2 years ago, Mike's age = x - 2\nx + 6 = 2(x - 2)\nx + 6 = 2x - 4\nx = 8",
+        "predicted_answer": "",
+        "topic": "Age Problems (Complex)",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": 37,
+        "algebraic_word_problem": "Henry invests $1,500 at 4% interest, compounded annually. How much money will he have after 2 years?",
+        "reference_answer": "$1,622.40",
+        "step_by_step_solution": "A = P(1 + r/n)^(nt)\nA = 1500(1 + 0.04/1)^(1*2)\nA = 1500(1.04)^2 = 1500 * 1.0816 = $1,622.40",
+        "predicted_answer": "",
+        "topic": "Investment Problems",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": 38,
+        "algebraic_word_problem": "A rectangular room has a perimeter of 50 meters, and its area is 150 square meters. What are the dimensions of the room?",
+        "reference_answer": "10 meters by 15 meters",
+        "step_by_step_solution": "Let length = l and width = w\nPerimeter = 2(l + w) = 50\nArea = l * w = 150\nSolve system of equations: l + w = 25, lw = 150",
+        "predicted_answer": "",
+        "topic": "Quadratic Equations",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": 39,
+        "algebraic_word_problem": "A company sells two types of chairs. Chair A costs $30, and Chair B costs $50. If 60 chairs are sold for a total of $2,100, how many of each type were sold?",
+        "reference_answer": "35 Chair A and 25 Chair B",
+        "step_by_step_solution": "Let number of Chair A = x, number of Chair B = y\nx + y = 60\n30x + 50y = 2100\nSolve system of equations",
+        "predicted_answer": "",
+        "topic": "Systems of Equations",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": 40,
+        "algebraic_word_problem": "The ratio of boys to girls in a class is 4:5. If there are 90 students in total, how many are boys and how many are girls?",
+        "reference_answer": "40 boys and 50 girls",
+        "step_by_step_solution": "Let boys = 4x and girls = 5x\nTotal students = 4x + 5x = 90\n9x = 90\nx = 10\nBoys = 4 * 10 = 40, Girls = 5 * 10 = 50",
+        "predicted_answer": "",
+        "topic": "Ratio and Proportion Problems",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": 41,
+        "algebraic_word_problem": "Machine X can complete a task in 9 hours, and Machine Y can complete it in 12 hours. After working together for 4 hours, Machine X breaks down. How long will Machine Y take to finish the task?",
+        "reference_answer": "5.33 hours",
+        "step_by_step_solution": "Rate of Machine X = 1/9 job/hour, Rate of Machine Y = 1/12 job/hour\nTogether for 4 hours: (1/9 + 1/12) * 4 = 7/18 job completed\nRemaining job = 1 - 7/18 = 11/18\nTime for Machine Y to finish = (11/18) / (1/12) = 7.33 hours",
+        "predicted_answer": "",
+        "topic": "Work Problems (Complex)",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": 42,
+        "algebraic_word_problem": "A shopkeeper sells an item for $150, making a 10% profit. What was the cost price of the item?",
+        "reference_answer": "$136.36",
+        "step_by_step_solution": "Selling price = Cost price * (1 + Profit %)\n150 = Cost price * 1.1\nCost price = 150 / 1.1 = $136.36",
+        "predicted_answer": "",
+        "topic": "Profit and Loss",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": 43,
+        "algebraic_word_problem": "Mike starts with 10 pencils. He gives away 2 pencils each day. How many pencils will he have after 5 days?",
+        "reference_answer": "0 pencils",
+        "step_by_step_solution": "Day 1: 10 - 2 = 8 pencils\nDay 2: 8 - 2 = 6 pencils\nDay 3: 6 - 2 = 4 pencils\nDay 4: 4 - 2 = 2 pencils\nDay 5: 2 - 2 = 0 pencils",
+        "predicted_answer": "",
+        "topic": "Simple Equations",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": 44,
+        "algebraic_word_problem": "A notebook costs $4.50. How much will 5 notebooks cost?",
+        "reference_answer": "$22.50",
+        "step_by_step_solution": "5 notebooks * $4.50/notebook = $22.50",
+        "predicted_answer": "",
+        "topic": "Basic Arithmetic",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": 45,
+        "algebraic_word_problem": "Tom is 3 years younger than Jack. If Jack is 15, how old is Tom?",
+        "reference_answer": "12 years old",
+        "step_by_step_solution": "Tom = Jack's age - 3 = 15 - 3 = 12",
+        "predicted_answer": "",
+        "topic": "Age Problems (Basic)",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": 46,
+        "algebraic_word_problem": "A car travels at 50 miles per hour. How far does it travel in 4 hours?",
+        "reference_answer": "200 miles",
+        "step_by_step_solution": "Distance = Speed * Time = 50 miles/hour * 4 hours = 200 miles",
+        "predicted_answer": "",
+        "topic": "Distance-Rate-Time",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": 47,
+        "algebraic_word_problem": "John and Mike together have 90 dollars. John has 20 dollars more than Mike. How much does each have?",
+        "reference_answer": "John has 55 dollars and Mike has 35 dollars",
+        "step_by_step_solution": "Let Mike's dollars = x\nJohn's dollars = x + 20\nx + (x + 20) = 90\n2x + 20 = 90\n2x = 70\nx = 35\nJohn = 55, Mike = 35",
+        "predicted_answer": "",
+        "topic": "Equations with Two Variables",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": 48,
+        "algebraic_word_problem": "A solution contains 40% salt. If there are 20 liters of solution, how much salt is in the solution?",
+        "reference_answer": "8 liters of salt",
+        "step_by_step_solution": "Amount of salt = 40% of 20 liters = 0.4 * 20 = 8 liters",
+        "predicted_answer": "",
+        "topic": "Mixture Problems",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": 49,
+        "algebraic_word_problem": "A car and a bike together can cover a distance in 2 hours. The car alone can cover it in 1.5 hours. How long will the bike take to cover the distance alone?",
+        "reference_answer": "6 hours",
+        "step_by_step_solution": "Rate of car = 1/1.5 distance/hour, Rate of bike = 1/x distance/hour\nTogether: 1/1.5 + 1/x = 1/2\nSolve for x = 6 hours",
+        "predicted_answer": "",
+        "topic": "Work Problems",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": 50,
+        "algebraic_word_problem": "In 3 years, Anna will be three times as old as she was 5 years ago. How old is Anna now?",
+        "reference_answer": "7 years old",
+        "step_by_step_solution": "Let Anna's current age = x\nIn 3 years, Anna's age = x + 3\n5 years ago, Anna's age = x - 5\nx + 3 = 3(x - 5)\nx + 3 = 3x - 15\nx = 7",
+        "predicted_answer": "",
+        "topic": "Age Problems (Complex)",
+        "difficulty": "Medium"
+      },
+  {
+    "question_id": 51,
+    "algebraic_word_problem": "A laptop is priced at $900 with a 20% discount. What is the sale price?",
+    "reference_answer": "$720",
+    "step_by_step_solution": "Sale price = $900 * (1 - 0.20) = $900 * 0.80 = $720",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 52,
+    "algebraic_word_problem": "A car travels 100 miles in 2 hours. What is the average speed?",
+    "reference_answer": "50 miles per hour",
+    "step_by_step_solution": "Speed = Distance / Time = 100 miles / 2 hours = 50 miles per hour",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 53,
+    "algebraic_word_problem": "Jack buys 3 shirts, each priced at $30. He gets a $15 discount. How much does he pay?",
+    "reference_answer": "$75",
+    "step_by_step_solution": "Total = 3 * $30 = $90\nDiscount = $15\nFinal amount = $90 - $15 = $75",
+    "predicted_answer": "",
+    "topic": "Simple Equations",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 54,
+    "algebraic_word_problem": "A square has a side length of 6 meters. What is its area?",
+    "reference_answer": "36 square meters",
+    "step_by_step_solution": "Area = side^2 = 6^2 = 36 square meters",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 55,
+    "algebraic_word_problem": "Tom has 3 times as many books as Lisa. Together, they have 80 books. How many books does each have?",
+    "reference_answer": "Tom has 60 books, Lisa has 20 books",
+    "step_by_step_solution": "Let Lisa's books = x\nTom's books = 3x\nx + 3x = 80\n4x = 80\nx = 20, 3x = 60",
+    "predicted_answer": "",
+    "topic": "Equations with Two Variables",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 56,
+    "algebraic_word_problem": "A company’s revenue increased by 15% this year. Last year’s revenue was $120,000. What is this year’s revenue?",
+    "reference_answer": "$138,000",
+    "step_by_step_solution": "New revenue = $120,000 * (1 + 0.15) = $120,000 * 1.15 = $138,000",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 57,
+    "algebraic_word_problem": "A train is moving at 80 miles per hour. How far will it travel in 3.5 hours?",
+    "reference_answer": "280 miles",
+    "step_by_step_solution": "Distance = Speed * Time = 80 miles/hour * 3.5 hours = 280 miles",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 58,
+    "algebraic_word_problem": "A rectangle has a perimeter of 60 meters. If the length is twice the width, what are the dimensions of the rectangle?",
+    "reference_answer": "Length = 20 meters, Width = 10 meters",
+    "step_by_step_solution": "Let width = w, length = 2w\nPerimeter = 2(l + w) = 60\n2(2w + w) = 60\n6w = 60\nw = 10, l = 20",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 59,
+    "algebraic_word_problem": "A chemical solution contains 30% salt. If there are 40 liters of solution, how much salt is present?",
+    "reference_answer": "12 liters of salt",
+    "step_by_step_solution": "Amount of salt = 30% of 40 liters = 0.30 * 40 = 12 liters",
+    "predicted_answer": "",
+    "topic": "Mixture Problems",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 60,
+    "algebraic_word_problem": "Two pipes can fill a tank in 6 hours working together. Pipe A alone can fill it in 9 hours. How long will Pipe B take to fill the tank alone?",
+    "reference_answer": "18 hours",
+    "step_by_step_solution": "Rate of Pipe A = 1/9 tanks/hour, Rate of Pipe B = 1/x tanks/hour\nTogether: 1/9 + 1/x = 1/6\nSolve for x = 18 hours",
+    "predicted_answer": "",
+    "topic": "Work Problems",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 61,
+    "algebraic_word_problem": "A store sells two types of bags. Bag A costs $50 and Bag B costs $30. If 10 bags are sold for a total of $400, how many of each type were sold?",
+    "reference_answer": "4 Bag A and 6 Bag B",
+    "step_by_step_solution": "Let number of Bag A = x and number of Bag B = y\nx + y = 10\n50x + 30y = 400\nSolve system of equations",
+    "predicted_answer": "",
+    "topic": "Systems of Equations",
+    "difficulty": "Hard"
+  },
+  {
+    "question_id": 62,
+    "algebraic_word_problem": "The ratio of cats to dogs in a shelter is 3:4. If there are 70 animals in total, how many are cats and how many are dogs?",
+    "reference_answer": "30 cats and 40 dogs",
+    "step_by_step_solution": "Let cats = 3x, dogs = 4x\nTotal = 3x + 4x = 70\n7x = 70\nx = 10\nCats = 3 * 10 = 30, Dogs = 4 * 10 = 40",
+    "predicted_answer": "",
+    "topic": "Ratio and Proportion Problems",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 63,
+    "algebraic_word_problem": "A machine can complete a task in 12 hours, and another machine can complete it in 16 hours. How long will it take them to finish the task working together?",
+    "reference_answer": "6.86 hours",
+    "step_by_step_solution": "Rate of Machine 1 = 1/12 tasks/hour, Rate of Machine 2 = 1/16 tasks/hour\nTogether: 1/12 + 1/16 = 7/48\nTime = 1 / (7/48) = 6.86 hours",
+    "predicted_answer": "",
+    "topic": "Work Problems",
+    "difficulty": "Hard"
+  },
+  {
+    "question_id": 64,
+    "algebraic_word_problem": "A rectangular garden has an area of 200 square meters. If the length is 10 meters more than the width, what are the dimensions of the garden?",
+    "reference_answer": "Length = 20 meters, Width = 10 meters",
+    "step_by_step_solution": "Let width = w, length = w + 10\nArea = l * w = 200\n(w + 10)w = 200\nSolve quadratic equation",
+    "predicted_answer": "",
+    "topic": "Quadratic Equations",
+    "difficulty": "Hard"
+  },
+  {
+    "question_id": 65,
+    "algebraic_word_problem": "A man invests $5,000 at 6% annual interest, compounded annually. How much will he have after 3 years?",
+    "reference_answer": "$5,955.08",
+    "step_by_step_solution": "A = P(1 + r/n)^(nt)\nA = 5000(1 + 0.06/1)^(1*3)\nA = 5000(1.06)^3 = $5,955.08",
+    "predicted_answer": "",
+    "topic": "Investment Problems",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 66,
+    "algebraic_word_problem": "The perimeter of a triangle is 36 meters. One side is twice the length of the shortest side, and the third side is 4 meters longer than the shortest side. Find the lengths of all sides.",
+    "reference_answer": "8 meters, 16 meters, and 12 meters",
+    "step_by_step_solution": "Let shortest side = x\nSecond side = 2x, Third side = x + 4\nx + 2x + (x + 4) = 36\nSolve for x = 8",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 67,
+    "algebraic_word_problem": "A car's value decreases by 20% per year. If the car is currently worth $12,000, what will its value be after 3 years?",
+    "reference_answer": "$6,144",
+    "step_by_step_solution": "Value = 12000 * (1 - 0.20)^3 = 12000 * 0.80^3 = $6,144",
+    "predicted_answer": "",
+    "topic": "Depreciation Problems",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 68,
+    "algebraic_word_problem": "Two trains leave a station at the same time, one traveling north at 60 miles per hour and the other traveling east at 80 miles per hour. How far apart are they after 2 hours?",
+    "reference_answer": "100 miles",
+    "step_by_step_solution": "Distance north = 60 * 2 = 120 miles\nDistance east = 80 * 2 = 160 miles\nUse Pythagorean theorem: Distance = sqrt(120^2 + 160^2) = 100 miles",
+    "predicted_answer": "",
+    "topic": "Pythagorean Theorem",
+    "difficulty": "Hard"
+  },
+  {
+    "question_id": 69,
+    "algebraic_word_problem": "A worker is paid $15 per hour for the first 40 hours and $22.50 for overtime. If he worked 50 hours in a week, how much did he earn?",
+    "reference_answer": "$825",
+    "step_by_step_solution": "Regular pay = 40 * $15 = $600\nOvertime pay = 10 * $22.50 = $225\nTotal earnings = $600 + $225 = $825",
+    "predicted_answer": "",
+    "topic": "Wage Problems",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 70,
+    "algebraic_word_problem": "A boat travels 30 miles downstream in 3 hours and returns upstream in 5 hours. What is the speed of the current?",
+    "reference_answer": "2 miles per hour",
+    "step_by_step_solution": "Let boat speed in still water = b, current speed = c\nDownstream speed = b + c = 30/3 = 10 mph\nUpstream speed = b - c = 30/5 = 6 mph\nSolve for c = 2 mph",
+    "predicted_answer": "",
+    "topic": "Current-Speed Problems",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 71,
+    "algebraic_word_problem": "A family spends 40% of their income on rent, 25% on food, and saves the rest. If their monthly income is $3,000, how much do they save?",
+    "reference_answer": "$1,050",
+    "step_by_step_solution": "Savings = 100% - 40% - 25% = 35% of income\nSavings = 35% * 3000 = $1,050",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 72,
+    "algebraic_word_problem": "The sum of three consecutive even numbers is 72. What are the numbers?",
+    "reference_answer": "22, 24, and 26",
+    "step_by_step_solution": "Let numbers = x, x + 2, x + 4\nx + (x + 2) + (x + 4) = 72\n3x + 6 = 72\nSolve for x = 22",
+    "predicted_answer": "",
+    "topic": "Consecutive Numbers",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 73,
+    "algebraic_word_problem": "A factory can produce 100 units in 5 hours. How many units can it produce in 8 hours?",
+    "reference_answer": "160 units",
+    "step_by_step_solution": "Rate of production = 100/5 = 20 units per hour\nUnits in 8 hours = 20 * 8 = 160 units",
+    "predicted_answer": "",
+    "topic": "Proportion Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 74,
+    "algebraic_word_problem": "A student scores 85% on a test with 120 questions. How many questions did they answer correctly?",
+    "reference_answer": "102 questions",
+    "step_by_step_solution": "Correct answers = 85% of 120 = 0.85 * 120 = 102",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 75,
+    "algebraic_word_problem": "A person deposits $2,000 in a bank account with an annual interest rate of 4%. How much interest will they earn in 2 years?",
+    "reference_answer": "$160",
+    "step_by_step_solution": "Interest = Principal * Rate * Time\nInterest = 2000 * 0.04 * 2 = $160",
+    "predicted_answer": "",
+    "topic": "Simple Interest Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 76,
+    "algebraic_word_problem": "A recipe calls for 2 cups of sugar for every 3 cups of flour. How much sugar is needed for 12 cups of flour?",
+    "reference_answer": "8 cups of sugar",
+    "step_by_step_solution": "Ratio of sugar to flour = 2:3\nFor 12 cups of flour: (2/3) * 12 = 8 cups of sugar",
+    "predicted_answer": "",
+    "topic": "Ratios",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 77,
+    "algebraic_word_problem": "A theater has 300 seats. If 80% of the seats are filled, how many seats are empty?",
+    "reference_answer": "60 seats",
+    "step_by_step_solution": "Filled seats = 300 * 0.80 = 240\nEmpty seats = 300 - 240 = 60",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 78,
+    "algebraic_word_problem": "A bike costs $200 after a 25% discount. What was the original price?",
+    "reference_answer": "$266.67",
+    "step_by_step_solution": "Let original price = x\nx * (1 - 0.25) = 200\nx * 0.75 = 200\nx = 200 / 0.75 = $266.67",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 79,
+    "algebraic_word_problem": "A farmer has 150 apples. He sells them in bags of 6 apples each. How many bags does he sell?",
+    "reference_answer": "25 bags",
+    "step_by_step_solution": "Number of bags = 150 / 6 = 25 bags",
+    "predicted_answer": "",
+    "topic": "Division",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 80,
+    "algebraic_word_problem": "A box contains 5 red balls, 8 blue balls, and 7 green balls. What is the probability of drawing a blue ball?",
+    "reference_answer": "0.32",
+    "step_by_step_solution": "Total balls = 5 + 8 + 7 = 20\nProbability of blue = 8 / 20 = 0.32",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 81,
+    "algebraic_word_problem": "A car travels 60 miles in 1.5 hours. What is its average speed in miles per hour?",
+    "reference_answer": "40 miles per hour",
+    "step_by_step_solution": "Average speed = Distance / Time = 60 miles / 1.5 hours = 40 miles/hour",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 82,
+    "algebraic_word_problem": "In a class of 30 students, 18 are boys. What fraction of the class are girls?",
+    "reference_answer": "2/5",
+    "step_by_step_solution": "Number of girls = 30 - 18 = 12\nFraction of girls = 12 / 30 = 2/5",
+    "predicted_answer": "",
+    "topic": "Fractions",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 83,
+    "algebraic_word_problem": "If a train leaves the station traveling at 75 miles per hour, how far will it travel in 4 hours?",
+    "reference_answer": "300 miles",
+    "step_by_step_solution": "Distance = Speed * Time = 75 miles/hour * 4 hours = 300 miles",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 84,
+    "algebraic_word_problem": "A product originally priced at $50 is marked down by $10. What is the new price?",
+    "reference_answer": "$40",
+    "step_by_step_solution": "New price = $50 - $10 = $40",
+    "predicted_answer": "",
+    "topic": "Simple Operations",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 85,
+    "algebraic_word_problem": "A rectangular field has a length of 50 meters and a width of 30 meters. What is the area of the field?",
+    "reference_answer": "1,500 square meters",
+    "step_by_step_solution": "Area = Length * Width = 50 * 30 = 1,500 square meters",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 86,
+    "algebraic_word_problem": "Two numbers add up to 50. If one number is 10 more than the other, what are the numbers?",
+    "reference_answer": "20 and 30",
+    "step_by_step_solution": "Let the smaller number be x, larger number = x + 10\nx + (x + 10) = 50\n2x + 10 = 50, x = 20",
+    "predicted_answer": "",
+    "topic": "Linear Equations",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 87,
+    "algebraic_word_problem": "A bag contains 10 red, 6 blue, and 4 green marbles. If one marble is drawn at random, what is the probability it is not blue?",
+    "reference_answer": "0.80",
+    "step_by_step_solution": "Total marbles = 10 + 6 + 4 = 20\nNon-blue marbles = 10 + 4 = 14\nProbability = 14 / 20 = 0.80",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 88,
+    "algebraic_word_problem": "A cyclist travels 24 miles in 2 hours. What is the average speed in miles per hour?",
+    "reference_answer": "12 miles per hour",
+    "step_by_step_solution": "Average speed = Distance / Time = 24 miles / 2 hours = 12 miles/hour",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 89,
+    "algebraic_word_problem": "A store sells notebooks for $3 each and pens for $2 each. If a student buys 5 notebooks and 4 pens, how much does the student spend?",
+    "reference_answer": "$23",
+    "step_by_step_solution": "Total cost = (5 * 3) + (4 * 2) = 15 + 8 = $23",
+    "predicted_answer": "",
+    "topic": "Simple Operations",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 90,
+    "algebraic_word_problem": "A box can hold 48 items. If each item takes up 3 cubic inches, what is the total volume of the box?",
+    "reference_answer": "144 cubic inches",
+    "step_by_step_solution": "Total volume = 48 items * 3 cubic inches/item = 144 cubic inches",
+    "predicted_answer": "",
+    "topic": "Volume Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 91,
+    "algebraic_word_problem": "A car's fuel efficiency is 25 miles per gallon. If the car has a 15-gallon tank, how many miles can it travel on a full tank?",
+    "reference_answer": "375 miles",
+    "step_by_step_solution": "Distance = Fuel efficiency * Gallons = 25 miles/gallon * 15 gallons = 375 miles",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 92,
+    "algebraic_word_problem": "A recipe requires 4 cups of flour for 2 loaves of bread. How much flour is needed for 5 loaves?",
+    "reference_answer": "10 cups of flour",
+    "step_by_step_solution": "Flour per loaf = 4 cups / 2 loaves = 2 cups/loaf\nFlour for 5 loaves = 2 cups/loaf * 5 = 10 cups",
+    "predicted_answer": "",
+    "topic": "Proportion Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 93,
+    "algebraic_word_problem": "If a person earns $50,000 a year and receives a 10% raise, what will their new salary be?",
+    "reference_answer": "$55,000",
+    "step_by_step_solution": "New salary = $50,000 * (1 + 0.10) = $55,000",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 94,
+    "algebraic_word_problem": "A triangle has two sides of lengths 5 and 12. What is the length of the third side if the perimeter is 30?",
+    "reference_answer": "13",
+    "step_by_step_solution": "Let third side = x, 5 + 12 + x = 30\nx = 30 - 17 = 13",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 95,
+    "algebraic_word_problem": "If 75% of a number is 60, what is the number?",
+    "reference_answer": "80",
+    "step_by_step_solution": "Let number = x, 0.75x = 60\nx = 60 / 0.75 = 80",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 96,
+    "algebraic_word_problem": "A boat can travel at 15 miles per hour in still water. If the current is 3 miles per hour, what is the boat's speed upstream?",
+    "reference_answer": "12 miles per hour",
+    "step_by_step_solution": "Upstream speed = boat speed - current speed = 15 - 3 = 12 miles/hour",
+    "predicted_answer": "",
+    "topic": "Current-Speed Problems",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 97,
+    "algebraic_word_problem": "A box contains 20 chocolates, 12 are dark chocolate. What fraction of the chocolates are not dark chocolate?",
+    "reference_answer": "2/5",
+    "step_by_step_solution": "Number of non-dark chocolates = 20 - 12 = 8\nFraction not dark = 8 / 20 = 2/5",
+    "predicted_answer": "",
+    "topic": "Fractions",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 98,
+    "algebraic_word_problem": "A car can travel 300 miles on 10 gallons of gas. How many miles can it travel on 25 gallons?",
+    "reference_answer": "750 miles",
+    "step_by_step_solution": "Miles per gallon = 300 miles / 10 gallons = 30 miles/gallon\nDistance = 30 miles/gallon * 25 gallons = 750 miles",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+  },
+  {
+    "question_id": 99,
+    "algebraic_word_problem": "A restaurant bill is $120. If you want to leave a 15% tip, how much should you leave?",
+    "reference_answer": "$18",
+    "step_by_step_solution": "Tip = 15% of $120 = 0.15 * 120 = $18",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": 100,
+    "algebraic_word_problem": "A package weighs 8 pounds. If you want to divide it into 4 equal parts, how much does each part weigh?",
+    "reference_answer": "2 pounds",
+    "step_by_step_solution": "Weight per part = 8 pounds / 4 = 2 pounds",
+    "predicted_answer": "",
+    "topic": "Division",
+    "difficulty": "Easy"
+  }
+]
