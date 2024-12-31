@@ -1,9 +1,0 @@
-{
-    "question_id": 449,
-    "algebraic_word_problem": "If a car travels 100 miles at 50 mph, how long does the trip take?",
-    "reference_answer": "2 hours",
-    "step_by_step_solution": "Time = Distance / Speed = 100 miles / 50 mph = 2 hours.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

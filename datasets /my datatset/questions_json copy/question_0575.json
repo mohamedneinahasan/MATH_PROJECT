@@ -1,9 +1,0 @@
-{
-    "question_id": 575,
-    "algebraic_word_problem": "The sum of the ages of a father and his son is 50 years. If the father is 4 times as old as the son, how old are they now?",
-    "reference_answer": "Father: 40 years, Son: 10 years",
-    "step_by_step_solution": "Let son's age = x; Father's age = 4x; x + 4x = 50; 5x = 50; x = 10; Father = 40, Son = 10.",
-    "predicted_answer": "",
-    "topic": "Age Problems",
-    "difficulty": "Hard"
-}

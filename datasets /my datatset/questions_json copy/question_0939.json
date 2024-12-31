@@ -1,9 +1,0 @@
-{
-    "question_id": 939,
-    "algebraic_word_problem": "If the sum of a number and 15 is 35, what is the number?",
-    "reference_answer": "20",
-    "step_by_step_solution": "Let the number be x; x + 15 = 35; x = 35 - 15 = 20.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

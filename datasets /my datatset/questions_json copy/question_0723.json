@@ -1,9 +1,0 @@
-{
-    "question_id": 723,
-    "algebraic_word_problem": "If 5x + 3x = 64, what is the value of x?",
-    "reference_answer": "8",
-    "step_by_step_solution": "Combine like terms: 8x = 64; Divide by 8: x = 8.",
-    "predicted_answer": "",
-    "topic": "Polynomials",
-    "difficulty": "Easy"
-}

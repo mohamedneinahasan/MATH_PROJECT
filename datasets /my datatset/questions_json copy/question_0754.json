@@ -1,9 +1,0 @@
-{
-    "question_id": 754,
-    "algebraic_word_problem": "What is the next term in the sequence: 2, 4, 8, 16?",
-    "reference_answer": "32",
-    "step_by_step_solution": "The pattern is multiplying by 2: 16 \u00d7 2 = 32.",
-    "predicted_answer": "",
-    "topic": "Sequences and Series",
-    "difficulty": "Easy"
-}

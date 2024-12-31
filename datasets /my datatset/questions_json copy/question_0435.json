@@ -1,9 +1,0 @@
-{
-    "question_id": 435,
-    "algebraic_word_problem": "If an item is priced at $120 after a 20% discount, what was the original price?",
-    "reference_answer": "$150",
-    "step_by_step_solution": "Let original price = x. So, 0.8x = 120, hence x = 120 / 0.8 = 150.",
-    "predicted_answer": "",
-    "topic": "Discount",
-    "difficulty": "Hard"
-}

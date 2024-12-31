@@ -1,9 +1,0 @@
-{
-    "question_id": 896,
-    "algebraic_word_problem": "If a car travels 300 miles in 5 hours, what is its speed in miles per hour?",
-    "reference_answer": "60 mph",
-    "step_by_step_solution": "Speed = distance / time = 300 / 5 = 60 mph.",
-    "predicted_answer": "",
-    "topic": "Speed and Distance",
-    "difficulty": "Easy"
-}

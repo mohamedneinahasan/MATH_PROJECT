@@ -1,9 +1,0 @@
-{
-    "question_id": 649,
-    "algebraic_word_problem": "The average of six numbers is 30. If five of the numbers are 25, 27, 32, 35, and 28, what is the sixth number?",
-    "reference_answer": "33",
-    "step_by_step_solution": "Sum of six numbers = 30 * 6 = 180; Sum of five numbers = 25 + 27 + 32 + 35 + 28 = 147; Sixth number = 180 - 147 = 33.",
-    "predicted_answer": "",
-    "topic": "Average",
-    "difficulty": "Medium"
-}

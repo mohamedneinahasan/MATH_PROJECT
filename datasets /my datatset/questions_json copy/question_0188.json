@@ -1,9 +1,0 @@
-{
-    "question_id": 188,
-    "algebraic_word_problem": "If a triangle has a base of 15 cm and a height of 10 cm, what is its area?",
-    "reference_answer": "75 square cm",
-    "step_by_step_solution": "Area of triangle = (Base * Height) / 2 = (15 * 10) / 2 = 75 square cm",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

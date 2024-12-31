@@ -1,9 +1,0 @@
-{
-    "question_id": 56,
-    "algebraic_word_problem": "A company\u2019s revenue increased by 15% this year. Last year\u2019s revenue was $120,000. What is this year\u2019s revenue?",
-    "reference_answer": "$138,000",
-    "step_by_step_solution": "New revenue = $120,000 * (1 + 0.15) = $120,000 * 1.15 = $138,000",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

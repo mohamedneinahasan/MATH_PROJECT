@@ -1,9 +1,0 @@
-{
-    "question_id": 135,
-    "algebraic_word_problem": "If a bag contains 24 candies and you eat 1/4 of them, how many candies are left?",
-    "reference_answer": "18 candies",
-    "step_by_step_solution": "Candies eaten = 24 * (1/4) = 6\nCandies left = 24 - 6 = 18",
-    "predicted_answer": "",
-    "topic": "Fractions",
-    "difficulty": "Easy"
-}

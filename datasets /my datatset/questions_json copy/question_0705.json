@@ -1,9 +1,0 @@
-{
-    "question_id": 705,
-    "algebraic_word_problem": "A store sells 150 candies for $30. What is the cost of one candy?",
-    "reference_answer": "$0.20",
-    "step_by_step_solution": "Cost per candy = total cost \u00f7 number of candies = 30 \u00f7 150 = $0.20",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

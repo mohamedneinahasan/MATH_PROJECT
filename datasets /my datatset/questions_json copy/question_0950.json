@@ -1,9 +1,0 @@
-{
-    "question_id": 950,
-    "algebraic_word_problem": "If a pencil costs $0.75 and you buy 12 pencils, how much do you spend?",
-    "reference_answer": "$9",
-    "step_by_step_solution": "Total cost = cost per pencil \u00d7 number of pencils = 0.75 \u00d7 12 = 9.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

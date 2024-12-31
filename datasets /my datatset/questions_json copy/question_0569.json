@@ -1,9 +1,0 @@
-{
-    "question_id": 569,
-    "algebraic_word_problem": "A right triangle has one leg that is 5 cm shorter than the other leg. If the hypotenuse is 13 cm, what are the lengths of the legs?",
-    "reference_answer": "5 cm and 12 cm",
-    "step_by_step_solution": "Let the length of one leg be x; Then the other leg is x + 5; Using the Pythagorean theorem: x\u00b2 + (x + 5)\u00b2 = 13\u00b2; Solve for x.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

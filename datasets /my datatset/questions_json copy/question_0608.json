@@ -1,9 +1,0 @@
-{
-    "question_id": 608,
-    "algebraic_word_problem": "A scientist has a 40% alcohol solution and a 70% alcohol solution. How much of each should be mixed to obtain 120 liters of a 50% solution?",
-    "reference_answer": "80 liters of 40% solution and 40 liters of 70% solution",
-    "step_by_step_solution": "Let x = liters of 40% solution and y = liters of 70% solution; x + y = 120; 0.4x + 0.7y = 0.5 * 120; Solve the system.",
-    "predicted_answer": "",
-    "topic": "Mixture Problems",
-    "difficulty": "Hard"
-}

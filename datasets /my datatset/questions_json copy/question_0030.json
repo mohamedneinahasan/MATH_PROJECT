@@ -1,9 +1,0 @@
-{
-    "question_id": 30,
-    "algebraic_word_problem": "A pencil costs $1.50. How much will 8 pencils cost?",
-    "reference_answer": "$12",
-    "step_by_step_solution": "8 pencils * $1.50/pencil = $12",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

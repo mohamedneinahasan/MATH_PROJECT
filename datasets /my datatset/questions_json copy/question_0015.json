@@ -1,9 +1,0 @@
-{
-    "question_id": 15,
-    "algebraic_word_problem": "Lisa has 12 apples. She gives 3 apples to each of her friends. How many friends does she give apples to?",
-    "reference_answer": "4 friends",
-    "step_by_step_solution": "Number of friends = 12 apples / 3 apples per friend = 4 friends",
-    "predicted_answer": "",
-    "topic": "Simple Equations",
-    "difficulty": "Easy"
-}

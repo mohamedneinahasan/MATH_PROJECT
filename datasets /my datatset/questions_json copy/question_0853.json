@@ -1,9 +1,0 @@
-{
-    "question_id": 853,
-    "algebraic_word_problem": "If a number is squared and the result is 64, what is the number?",
-    "reference_answer": "8 or -8",
-    "step_by_step_solution": "Let the number be x; x\u00b2 = 64; x = \u00b18.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Medium"
-}

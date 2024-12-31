@@ -1,9 +1,0 @@
-{
-    "question_id": 459,
-    "algebraic_word_problem": "If a car travels at a speed of 45 mph for 3 hours, how far does it travel?",
-    "reference_answer": "135 miles",
-    "step_by_step_solution": "Distance = Speed \u00d7 Time = 45 mph \u00d7 3 hours = 135 miles.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

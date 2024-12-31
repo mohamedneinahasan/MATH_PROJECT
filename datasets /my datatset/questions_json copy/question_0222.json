@@ -1,9 +1,0 @@
-{
-    "question_id": 222,
-    "algebraic_word_problem": "If 7x - 5 = 16, what is the value of x?",
-    "reference_answer": "3",
-    "step_by_step_solution": "7x - 5 = 16\n7x = 16 + 5 = 21\nx = 21 / 7 = 3",
-    "predicted_answer": "",
-    "topic": "Algebraic Equations",
-    "difficulty": "Easy"
-}

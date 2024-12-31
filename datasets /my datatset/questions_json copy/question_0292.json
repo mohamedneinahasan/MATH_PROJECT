@@ -1,9 +1,0 @@
-{
-    "question_id": 292,
-    "algebraic_word_problem": "A school has 200 students, with 60% being girls. How many boys are in the school?",
-    "reference_answer": "80 boys",
-    "step_by_step_solution": "Number of girls = 60% of 200 = 0.60 * 200 = 120.\nNumber of boys = Total students - Number of girls = 200 - 120 = 80.",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

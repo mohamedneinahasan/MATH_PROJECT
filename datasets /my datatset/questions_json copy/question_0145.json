@@ -1,9 +1,0 @@
-{
-    "question_id": 145,
-    "algebraic_word_problem": "A car can travel 200 miles on 5 gallons of gas. How many miles can it travel on 12 gallons?",
-    "reference_answer": "480 miles",
-    "step_by_step_solution": "Miles per gallon = 200 / 5 = 40 miles/gallon\nDistance = 40 * 12 = 480 miles",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Medium"
-}

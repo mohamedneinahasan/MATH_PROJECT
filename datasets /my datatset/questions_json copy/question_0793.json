@@ -1,9 +1,0 @@
-{
-    "question_id": 793,
-    "algebraic_word_problem": "A car's value depreciates by 15% each year. If its initial value was $20,000, what will its value be after 2 years?",
-    "reference_answer": "$14,450",
-    "step_by_step_solution": "Value after 1 year = 20000 - (0.15 \u00d7 20000) = 17000; After 2 years = 17000 - (0.15 \u00d7 17000) = 14450.",
-    "predicted_answer": "",
-    "topic": "Exponential Decay",
-    "difficulty": "Hard"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 78,
-    "algebraic_word_problem": "A bike costs $200 after a 25% discount. What was the original price?",
-    "reference_answer": "$266.67",
-    "step_by_step_solution": "Let original price = x\nx * (1 - 0.25) = 200\nx * 0.75 = 200\nx = 200 / 0.75 = $266.67",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 956,
-    "algebraic_word_problem": "If a farmer has 12 acres of land and plants corn on 5 acres, what fraction of the land is planted with corn?",
-    "reference_answer": "5/12",
-    "step_by_step_solution": "Fraction planted = acres planted / total acres = 5/12.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

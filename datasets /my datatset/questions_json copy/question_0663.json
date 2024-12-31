@@ -1,9 +1,0 @@
-{
-    "question_id": 663,
-    "algebraic_word_problem": "The sum of two numbers is 20. If one number is 8, what is the other number?",
-    "reference_answer": "12",
-    "step_by_step_solution": "Let the other number be x: 8 + x = 20\nx = 20 - 8 = 12",
-    "predicted_answer": "",
-    "topic": "Basic Equations",
-    "difficulty": "Easy"
-}

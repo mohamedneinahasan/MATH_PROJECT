@@ -1,9 +1,0 @@
-{
-    "question_id": 257,
-    "algebraic_word_problem": "A man buys a bicycle for $120 and sells it for $150. What is his percentage profit?",
-    "reference_answer": "25%",
-    "step_by_step_solution": "Profit = Selling price - Cost price = 150 - 120 = $30\nPercentage profit = (Profit / Cost price) * 100 = (30 / 120) * 100 = 25%",
-    "predicted_answer": "",
-    "topic": "Profit and Loss",
-    "difficulty": "Medium"
-}

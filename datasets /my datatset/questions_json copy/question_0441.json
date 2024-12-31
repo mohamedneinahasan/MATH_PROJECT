@@ -1,9 +1,0 @@
-{
-    "question_id": 441,
-    "algebraic_word_problem": "If a man is twice as old as his son, and in 10 years, he will be 10 years older than twice his son's age, how old are they now?",
-    "reference_answer": "Father is 30, son is 15.",
-    "step_by_step_solution": "Let son's age = x, father's age = 2x. In 10 years: 2x + 10 = 10 + 2(x + 10). Solving gives 2x + 10 = 10 + 2x + 20; thus, no solution, they are 30 and 15.",
-    "predicted_answer": "",
-    "topic": "Age Problems",
-    "difficulty": "Hard"
-}

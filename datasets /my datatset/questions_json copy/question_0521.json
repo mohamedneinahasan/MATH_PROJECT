@@ -1,9 +1,0 @@
-{
-    "question_id": 521,
-    "algebraic_word_problem": "If the sides of a triangle measure 6 cm, 8 cm, and 10 cm, what is its area?",
-    "reference_answer": "24 cm\u00b2",
-    "step_by_step_solution": "Using Heron's formula: s = (6 + 8 + 10)/2 = 12; Area = \u221a[s(s-a)(s-b)(s-c)] = \u221a[12(12-6)(12-8)(12-10)] = \u221a[12 \u00d7 6 \u00d7 4 \u00d7 2] = 24 cm\u00b2.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

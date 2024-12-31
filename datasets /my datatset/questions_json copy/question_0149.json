@@ -1,9 +1,0 @@
-{
-    "question_id": 149,
-    "algebraic_word_problem": "If a recipe requires 4 cups of flour to make 2 cakes, how much flour is needed for 5 cakes?",
-    "reference_answer": "10 cups",
-    "step_by_step_solution": "Flour for 5 cakes = (4/2) * 5 = 10 cups",
-    "predicted_answer": "",
-    "topic": "Ratios",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 843,
-    "algebraic_word_problem": "If a triangle has sides of lengths 3 cm, 4 cm, and 5 cm, is it a right triangle?",
-    "reference_answer": "Yes",
-    "step_by_step_solution": "Check using Pythagorean theorem: 3\u00b2 + 4\u00b2 = 5\u00b2; 9 + 16 = 25; True, it's a right triangle.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

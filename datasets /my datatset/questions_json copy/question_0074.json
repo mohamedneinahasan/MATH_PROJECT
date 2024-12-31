@@ -1,9 +1,0 @@
-{
-    "question_id": 74,
-    "algebraic_word_problem": "A student scores 85% on a test with 120 questions. How many questions did they answer correctly?",
-    "reference_answer": "102 questions",
-    "step_by_step_solution": "Correct answers = 85% of 120 = 0.85 * 120 = 102",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Easy"
-}

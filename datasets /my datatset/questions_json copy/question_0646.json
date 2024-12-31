@@ -1,9 +1,0 @@
-{
-    "question_id": 646,
-    "algebraic_word_problem": "A rectangle has an area of 150 square meters and a width of 10 meters. What is its length?",
-    "reference_answer": "15 meters",
-    "step_by_step_solution": "Length = Area / Width = 150 / 10 = 15 meters.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

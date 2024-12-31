@@ -1,9 +1,0 @@
-{
-    "question_id": 537,
-    "algebraic_word_problem": "A bottle can hold 1.5 liters of water. How many bottles are needed to hold 12 liters of water?",
-    "reference_answer": "8 bottles",
-    "step_by_step_solution": "Bottles needed = 12 liters / 1.5 liters/bottle = 8 bottles.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

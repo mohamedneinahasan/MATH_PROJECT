@@ -1,9 +1,0 @@
-{
-    "question_id": 46,
-    "algebraic_word_problem": "A car travels at 50 miles per hour. How far does it travel in 4 hours?",
-    "reference_answer": "200 miles",
-    "step_by_step_solution": "Distance = Speed * Time = 50 miles/hour * 4 hours = 200 miles",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

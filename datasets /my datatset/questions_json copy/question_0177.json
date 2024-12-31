@@ -1,9 +1,0 @@
-{
-    "question_id": 177,
-    "algebraic_word_problem": "The sum of three consecutive numbers is 33. What are the numbers?",
-    "reference_answer": "10, 11, 12",
-    "step_by_step_solution": "Let the first number = x\nThen the numbers are x, x + 1, and x + 2\nx + (x + 1) + (x + 2) = 33\n3x + 3 = 33\n3x = 30\nx = 10\nThe numbers are 10, 11, and 12",
-    "predicted_answer": "",
-    "topic": "Algebraic Equations",
-    "difficulty": "Medium"
-}

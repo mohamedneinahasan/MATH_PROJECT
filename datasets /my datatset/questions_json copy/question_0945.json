@@ -1,9 +1,0 @@
-{
-    "question_id": 945,
-    "algebraic_word_problem": "If a number is increased by 7 and the result is 20, what is the number?",
-    "reference_answer": "13",
-    "step_by_step_solution": "Let the number be x; x + 7 = 20; x = 20 - 7 = 13.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

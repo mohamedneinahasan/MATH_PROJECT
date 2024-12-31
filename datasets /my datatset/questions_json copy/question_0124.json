@@ -1,9 +1,0 @@
-{
-    "question_id": 124,
-    "algebraic_word_problem": "If a bag of flour weighs 5 pounds, how much does 7 bags weigh?",
-    "reference_answer": "35 pounds",
-    "step_by_step_solution": "Total weight = 5 * 7 = 35 pounds",
-    "predicted_answer": "",
-    "topic": "Multiplication",
-    "difficulty": "Easy"
-}

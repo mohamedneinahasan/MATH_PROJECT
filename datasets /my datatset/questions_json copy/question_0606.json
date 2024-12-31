@@ -1,9 +1,0 @@
-{
-    "question_id": 606,
-    "algebraic_word_problem": "A store offers a 15% discount on an item, and then charges a 10% sales tax on the discounted price. If the final price is $187, what was the original price?",
-    "reference_answer": "$200",
-    "step_by_step_solution": "Let original price = x; Discounted price = 0.85x; Final price = 0.85x * 1.10 = $187; Solve for x.",
-    "predicted_answer": "",
-    "topic": "Percentages",
-    "difficulty": "Hard"
-}

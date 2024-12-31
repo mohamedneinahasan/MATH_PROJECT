@@ -1,9 +1,0 @@
-{
-    "question_id": 630,
-    "algebraic_word_problem": "A chemist has 200 ml of a 30% saline solution. How much pure water should be added to dilute it to a 20% solution?",
-    "reference_answer": "50 ml",
-    "step_by_step_solution": "Let x = ml of water added; New volume = 200 + x; Equation: 0.3 * 200 = 0.2 * (200 + x); Solve for x.",
-    "predicted_answer": "",
-    "topic": "Mixture Problems",
-    "difficulty": "Hard"
-}

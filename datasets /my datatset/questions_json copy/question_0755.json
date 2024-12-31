@@ -1,9 +1,0 @@
-{
-    "question_id": 755,
-    "algebraic_word_problem": "A box contains 20 apples. If you eat 3, what fraction of the apples is left?",
-    "reference_answer": "17/20",
-    "step_by_step_solution": "Remaining apples = 20 - 3 = 17; Fraction left = 17/20.",
-    "predicted_answer": "",
-    "topic": "Fractions",
-    "difficulty": "Easy"
-}

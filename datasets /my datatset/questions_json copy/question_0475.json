@@ -1,9 +1,0 @@
-{
-    "question_id": 475,
-    "algebraic_word_problem": "If a book costs $12 and is on sale for 30% off, what is the sale price?",
-    "reference_answer": "$8.40",
-    "step_by_step_solution": "Discount = 0.30 * 12 = 3.6; Sale price = 12 - 3.6 = 8.4.",
-    "predicted_answer": "",
-    "topic": "Discount",
-    "difficulty": "Easy"
-}

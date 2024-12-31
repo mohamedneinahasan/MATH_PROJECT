@@ -1,9 +1,0 @@
-{
-    "question_id": 543,
-    "algebraic_word_problem": "If you score 80 points on a test and the average score is 100, what is the percentage of your score compared to the average?",
-    "reference_answer": "80%",
-    "step_by_step_solution": "Percentage = (80/100) * 100 = 80%.",
-    "predicted_answer": "",
-    "topic": "Percentage",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 803,
-    "algebraic_word_problem": "If the average of three numbers is 15, what is their total sum?",
-    "reference_answer": "45",
-    "step_by_step_solution": "Total sum = Average \u00d7 Number of values = 15 \u00d7 3 = 45.",
-    "predicted_answer": "",
-    "topic": "Averages",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 230,
-    "algebraic_word_problem": "A bus travels 90 miles in 1.5 hours. What is its speed in miles per hour?",
-    "reference_answer": "60 miles per hour",
-    "step_by_step_solution": "Speed = Distance / Time\nSpeed = 90 / 1.5 = 60 miles per hour",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

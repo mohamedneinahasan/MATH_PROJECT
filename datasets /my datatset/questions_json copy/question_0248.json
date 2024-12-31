@@ -1,9 +1,0 @@
-{
-    "question_id": 248,
-    "algebraic_word_problem": "A man invests $2,000 at an interest rate of 6% per year. How much interest will he earn in 3 years?",
-    "reference_answer": "$360",
-    "step_by_step_solution": "Interest = Principal * Rate * Time\nInterest = 2000 * 0.06 * 3 = $360",
-    "predicted_answer": "",
-    "topic": "Interest Problems",
-    "difficulty": "Medium"
-}

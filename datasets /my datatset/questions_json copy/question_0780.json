@@ -1,9 +1,0 @@
-{
-    "question_id": 780,
-    "algebraic_word_problem": "Solve for x in the equation 5(x - 1) + 2 = 3(x + 4).",
-    "reference_answer": "x = 6",
-    "step_by_step_solution": "Expand: 5x - 5 + 2 = 3x + 12; Simplify: 5x - 3 = 3x + 12; 2x = 15; x = 7.5.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Hard"
-}

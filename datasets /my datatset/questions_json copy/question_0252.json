@@ -1,9 +1,0 @@
-{
-    "question_id": 252,
-    "algebraic_word_problem": "The length of a rectangle is 5 meters more than its width. If the perimeter is 30 meters, what are the dimensions?",
-    "reference_answer": "Length = 10 meters, Width = 5 meters",
-    "step_by_step_solution": "Let width = w and length = w + 5\nPerimeter = 2(w + (w + 5)) = 30\n2(2w + 5) = 30\n4w + 10 = 30\n4w = 20\nw = 5 meters\nLength = 5 + 5 = 10 meters",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

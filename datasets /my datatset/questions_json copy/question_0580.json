@@ -1,9 +1,0 @@
-{
-    "question_id": 580,
-    "algebraic_word_problem": "In a right triangle, one leg is twice as long as the other. If the hypotenuse is 10 cm, what are the lengths of the legs?",
-    "reference_answer": "4 cm and 8 cm",
-    "step_by_step_solution": "Let one leg be x, then the other is 2x; Using Pythagorean theorem: x\u00b2 + (2x)\u00b2 = 10\u00b2; Solve for x to get lengths.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

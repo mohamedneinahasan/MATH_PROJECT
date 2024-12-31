@@ -1,9 +1,0 @@
-{
-    "question_id": 412,
-    "algebraic_word_problem": "A bike costs $400. If it depreciates by 15% each year, what will its value be after 3 years?",
-    "reference_answer": "$273.48",
-    "step_by_step_solution": "Value = 400(1 - 0.15)^3 = 400(0.85)^3 \u2248 273.48.",
-    "predicted_answer": "",
-    "topic": "Exponential Decay",
-    "difficulty": "Hard"
-}

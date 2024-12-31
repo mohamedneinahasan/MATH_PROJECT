@@ -1,9 +1,0 @@
-{
-    "question_id": 914,
-    "algebraic_word_problem": "If a swimmer swims at a speed of 2 m/s, how far will they swim in 10 seconds?",
-    "reference_answer": "20 m",
-    "step_by_step_solution": "Distance = speed \u00d7 time = 2 \u00d7 10 = 20.",
-    "predicted_answer": "",
-    "topic": "Speed and Distance",
-    "difficulty": "Easy"
-}

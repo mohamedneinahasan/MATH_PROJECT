@@ -1,9 +1,0 @@
-{
-    "question_id": 425,
-    "algebraic_word_problem": "If a student scores 90% on 4 tests and 80% on 3 tests, what is their overall average score?",
-    "reference_answer": "86.29%",
-    "step_by_step_solution": "Total score = 90 * 4 + 80 * 3 = 360 + 240 = 600. Total tests = 4 + 3 = 7. Average = 600 / 7 \u2248 86.29%.",
-    "predicted_answer": "",
-    "topic": "Average",
-    "difficulty": "Hard"
-}

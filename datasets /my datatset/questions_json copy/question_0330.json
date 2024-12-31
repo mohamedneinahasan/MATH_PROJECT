@@ -1,9 +1,0 @@
-{
-    "question_id": 330,
-    "algebraic_word_problem": "A store sells apples for $2 each. How much do 6 apples cost?",
-    "reference_answer": "$12",
-    "step_by_step_solution": "Total cost = Price per apple * Number of apples = 2 * 6 = $12.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

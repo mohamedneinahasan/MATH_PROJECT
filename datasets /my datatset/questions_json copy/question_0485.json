@@ -1,9 +1,0 @@
-{
-    "question_id": 485,
-    "algebraic_word_problem": "If the perimeter of a square is 36 cm, what is the length of one side?",
-    "reference_answer": "9 cm",
-    "step_by_step_solution": "Perimeter = 4 \u00d7 side; 36 = 4 \u00d7 side; side = 36 / 4 = 9 cm.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

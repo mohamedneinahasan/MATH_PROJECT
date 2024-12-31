@@ -1,9 +1,0 @@
-{
-    "question_id": 929,
-    "algebraic_word_problem": "If a truck travels 240 miles in 4 hours, what is its speed?",
-    "reference_answer": "60 mph",
-    "step_by_step_solution": "Speed = distance / time = 240 / 4 = 60.",
-    "predicted_answer": "",
-    "topic": "Speed and Distance",
-    "difficulty": "Easy"
-}

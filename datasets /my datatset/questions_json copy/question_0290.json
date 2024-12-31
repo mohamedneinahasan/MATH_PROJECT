@@ -1,9 +1,0 @@
-{
-    "question_id": 290,
-    "algebraic_word_problem": "If the ratio of cats to dogs in a shelter is 2:3 and there are 15 dogs, how many cats are there?",
-    "reference_answer": "10 cats",
-    "step_by_step_solution": "Let cats = 2x and dogs = 3x.\n3x = 15 => x = 5\nCats = 2 * 5 = 10.",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion",
-    "difficulty": "Medium"
-}

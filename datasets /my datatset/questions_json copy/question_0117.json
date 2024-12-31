@@ -1,9 +1,0 @@
-{
-    "question_id": 117,
-    "algebraic_word_problem": "If a class has 25 students and 15 of them are girls, what fraction of the class are boys?",
-    "reference_answer": "2/5",
-    "step_by_step_solution": "Number of boys = 25 - 15 = 10\nFraction of boys = 10 / 25 = 2/5",
-    "predicted_answer": "",
-    "topic": "Fractions",
-    "difficulty": "Easy"
-}

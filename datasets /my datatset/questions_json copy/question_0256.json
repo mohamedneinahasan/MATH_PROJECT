@@ -1,9 +1,0 @@
-{
-    "question_id": 256,
-    "algebraic_word_problem": "The ratio of cats to dogs in a pet store is 2:3. If there are 30 dogs, how many cats are there?",
-    "reference_answer": "20 cats",
-    "step_by_step_solution": "Let the number of cats = 2x and dogs = 3x\n3x = 30\nx = 10\nNumber of cats = 2 * 10 = 20",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 770,
-    "algebraic_word_problem": "If a triangle has sides of lengths 5 cm, 12 cm, and 13 cm, is it a right triangle?",
-    "reference_answer": "Yes",
-    "step_by_step_solution": "Using Pythagorean theorem: 5^2 + 12^2 = 13^2; 25 + 144 = 169; It is a right triangle.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

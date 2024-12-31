@@ -1,9 +1,0 @@
-{
-    "question_id": 676,
-    "algebraic_word_problem": "A train travels at a speed of 80 km/h. How far will it travel in 2.5 hours?",
-    "reference_answer": "200 km",
-    "step_by_step_solution": "Distance = speed \u00d7 time = 80 km/h \u00d7 2.5 h = 200 km",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Medium"
-}

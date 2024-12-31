@@ -1,9 +1,0 @@
-{
-    "question_id": 317,
-    "algebraic_word_problem": "A farmer has 50 sheep and buys 25 more. How many sheep does he have now?",
-    "reference_answer": "75 sheep",
-    "step_by_step_solution": "Total sheep = Initial sheep + Bought sheep = 50 + 25 = 75 sheep.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

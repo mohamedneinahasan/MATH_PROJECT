@@ -1,9 +1,0 @@
-{
-    "question_id": 364,
-    "algebraic_word_problem": "A water tank can fill in 3 hours, while another can fill the same tank in 5 hours. If both are opened together, how long will it take to fill the tank?",
-    "reference_answer": "1.5 hours",
-    "step_by_step_solution": "Rate of first tank = 1/3 tank/hour, second = 1/5 tank/hour. Combined rate = 1/3 + 1/5 = 8/15 tank/hour. Time to fill = 1 / (8/15) = 15/8 = 1.875 hours.",
-    "predicted_answer": "",
-    "topic": "Work Problems",
-    "difficulty": "Hard"
-}

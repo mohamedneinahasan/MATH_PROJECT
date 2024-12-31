@@ -1,9 +1,0 @@
-{
-    "question_id": 536,
-    "algebraic_word_problem": "A class of students is made up of 12 boys and 8 girls. What is the ratio of boys to girls?",
-    "reference_answer": "3:2",
-    "step_by_step_solution": "Ratio = 12:8 = 3:2.",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion",
-    "difficulty": "Medium"
-}

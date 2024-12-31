@@ -1,9 +1,0 @@
-{
-    "question_id": 938,
-    "algebraic_word_problem": "What is the area of a rectangle with a length of 12 cm and a width of 5 cm?",
-    "reference_answer": "60 cm\u00b2",
-    "step_by_step_solution": "Area = length \u00d7 width = 12 \u00d7 5 = 60.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

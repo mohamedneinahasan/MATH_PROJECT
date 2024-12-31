@@ -1,9 +1,0 @@
-{
-    "question_id": 968,
-    "algebraic_word_problem": "If the sum of three consecutive integers is 57, what are the integers?",
-    "reference_answer": "18, 19, 20",
-    "step_by_step_solution": "Let the integers be x, x+1, x+2; x + (x+1) + (x+2) = 57; 3x + 3 = 57; 3x = 54; x = 18.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Medium"
-}

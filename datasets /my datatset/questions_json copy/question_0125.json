@@ -1,9 +1,0 @@
-{
-    "question_id": 125,
-    "algebraic_word_problem": "A cyclist travels 15 miles in 1 hour and 30 minutes. What is their average speed in miles per hour?",
-    "reference_answer": "10 miles per hour",
-    "step_by_step_solution": "Time in hours = 1.5 hours\nAverage speed = Distance / Time = 15 / 1.5 = 10 miles/hour",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Medium"
-}

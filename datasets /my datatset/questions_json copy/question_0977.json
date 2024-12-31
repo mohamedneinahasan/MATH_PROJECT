@@ -1,9 +1,0 @@
-{
-    "question_id": 977,
-    "algebraic_word_problem": "If a pizza has a radius of 8 inches, what is its area? (Use \u03c0 \u2248 3.14)",
-    "reference_answer": "201.06 in\u00b2",
-    "step_by_step_solution": "Area = \u03c0r\u00b2 = 3.14 \u00d7 (8)\u00b2 = 201.06.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

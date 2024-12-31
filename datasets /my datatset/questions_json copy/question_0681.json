@@ -1,9 +1,0 @@
-{
-    "question_id": 681,
-    "algebraic_word_problem": "A bookstore has 120 books. If 30 books are sold, how many books are left?",
-    "reference_answer": "90 books",
-    "step_by_step_solution": "120 - 30 = 90",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

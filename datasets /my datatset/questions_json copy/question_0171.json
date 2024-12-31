@@ -1,9 +1,0 @@
-{
-    "question_id": 171,
-    "algebraic_word_problem": "The price of an item increased from $120 to $150. What is the percentage increase?",
-    "reference_answer": "25%",
-    "step_by_step_solution": "Percentage increase = (Change in price / Original price) * 100 = (150 - 120) / 120 * 100 = 30/120 * 100 = 25%",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

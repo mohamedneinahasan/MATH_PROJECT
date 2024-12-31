@@ -1,9 +1,0 @@
-{
-    "question_id": 387,
-    "algebraic_word_problem": "If a sphere has a radius of 5 cm, what is its volume?",
-    "reference_answer": "523.6 cm\u00b3",
-    "step_by_step_solution": "Volume = (4/3)\u03c0r\u00b3 = (4/3)\u03c0(5)\u00b3 = (4/3)\u03c0(125) = 523.6 cm\u00b3.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

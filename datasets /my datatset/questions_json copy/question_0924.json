@@ -1,9 +1,0 @@
-{
-    "question_id": 924,
-    "algebraic_word_problem": "If a number is divided by 4 and the result is 7, what is the number?",
-    "reference_answer": "28",
-    "step_by_step_solution": "Let the number be x; x / 4 = 7; x = 7 \u00d7 4 = 28.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

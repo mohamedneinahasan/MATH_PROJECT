@@ -1,9 +1,0 @@
-{
-    "question_id": 592,
-    "algebraic_word_problem": "A rectangular garden is 4 meters longer than it is wide. If the perimeter of the garden is 48 meters, what are the dimensions?",
-    "reference_answer": "Width: 12 meters, Length: 16 meters",
-    "step_by_step_solution": "Let width = x; Then length = x + 4; 2(x + (x + 4)) = 48; Solve for x to find dimensions.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

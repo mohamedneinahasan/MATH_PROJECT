@@ -1,9 +1,0 @@
-{
-    "question_id": 267,
-    "algebraic_word_problem": "A recipe requires 2 cups of flour for every 3 cups of sugar. How much flour is needed if there are 9 cups of sugar?",
-    "reference_answer": "6 cups of flour",
-    "step_by_step_solution": "Ratio of flour to sugar = 2:3\nIf sugar = 9 cups, then flour = (2/3) * 9 = 6 cups of flour.",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion",
-    "difficulty": "Medium"
-}

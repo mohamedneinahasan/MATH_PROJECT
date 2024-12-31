@@ -1,9 +1,0 @@
-{
-    "question_id": 512,
-    "algebraic_word_problem": "If there are 200 students in a school and 120 of them are girls, what percentage are boys?",
-    "reference_answer": "40%",
-    "step_by_step_solution": "Boys = 200 - 120 = 80; Percentage = (80/200) * 100 = 40%.",
-    "predicted_answer": "",
-    "topic": "Percentage",
-    "difficulty": "Medium"
-}

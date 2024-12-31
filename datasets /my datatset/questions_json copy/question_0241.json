@@ -1,9 +1,0 @@
-{
-    "question_id": 241,
-    "algebraic_word_problem": "A man buys 4 bags of rice for $60. What is the cost per bag?",
-    "reference_answer": "$15 per bag",
-    "step_by_step_solution": "Cost per bag = Total cost / Number of bags\nCost per bag = 60 / 4 = $15 per bag",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

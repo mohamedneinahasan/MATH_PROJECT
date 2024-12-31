@@ -1,9 +1,0 @@
-{
-    "question_id": 481,
-    "algebraic_word_problem": "If you have 12 candies and you eat 3, how many do you have left?",
-    "reference_answer": "9 candies",
-    "step_by_step_solution": "Remaining candies = 12 - 3 = 9.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

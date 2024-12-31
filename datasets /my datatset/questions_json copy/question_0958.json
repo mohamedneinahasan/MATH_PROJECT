@@ -1,9 +1,0 @@
-{
-    "question_id": 958,
-    "algebraic_word_problem": "What is the perimeter of a square with a side length of 9 cm?",
-    "reference_answer": "36 cm",
-    "step_by_step_solution": "Perimeter = 4 \u00d7 side = 4 \u00d7 9 = 36.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

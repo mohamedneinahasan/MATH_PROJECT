@@ -1,9 +1,0 @@
-{
-    "question_id": 883,
-    "algebraic_word_problem": "If a book has 300 pages and you read 20 pages a day, how long will it take to finish the book?",
-    "reference_answer": "15 days",
-    "step_by_step_solution": "Days = total pages / pages per day = 300 / 20 = 15.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

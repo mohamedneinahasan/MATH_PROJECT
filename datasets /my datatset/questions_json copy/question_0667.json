@@ -1,9 +1,0 @@
-{
-    "question_id": 667,
-    "algebraic_word_problem": "There are 24 students in a class. If the teacher wants to arrange them in groups of 6, how many groups can be formed?",
-    "reference_answer": "4 groups",
-    "step_by_step_solution": "24 \u00f7 6 = 4 groups",
-    "predicted_answer": "",
-    "topic": "Basic Division",
-    "difficulty": "Easy"
-}

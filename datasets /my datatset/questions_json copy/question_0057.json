@@ -1,9 +1,0 @@
-{
-    "question_id": 57,
-    "algebraic_word_problem": "A train is moving at 80 miles per hour. How far will it travel in 3.5 hours?",
-    "reference_answer": "280 miles",
-    "step_by_step_solution": "Distance = Speed * Time = 80 miles/hour * 3.5 hours = 280 miles",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Medium"
-}

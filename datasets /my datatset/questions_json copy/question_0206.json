@@ -1,9 +1,0 @@
-{
-    "question_id": 206,
-    "algebraic_word_problem": "If 2y - 5 = 11, what is the value of y?",
-    "reference_answer": "8",
-    "step_by_step_solution": "2y - 5 = 11\n2y = 11 + 5 = 16\ny = 16 / 2 = 8",
-    "predicted_answer": "",
-    "topic": "Algebraic Equations",
-    "difficulty": "Easy"
-}

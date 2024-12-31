@@ -1,9 +1,0 @@
-{
-    "question_id": 730,
-    "algebraic_word_problem": "The sum of a number and 8 is 20. What is the number?",
-    "reference_answer": "12",
-    "step_by_step_solution": "Let the number be x; x + 8 = 20; x = 20 - 8 = 12.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

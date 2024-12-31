@@ -1,9 +1,0 @@
-{
-    "question_id": 49,
-    "algebraic_word_problem": "A car and a bike together can cover a distance in 2 hours. The car alone can cover it in 1.5 hours. How long will the bike take to cover the distance alone?",
-    "reference_answer": "6 hours",
-    "step_by_step_solution": "Rate of car = 1/1.5 distance/hour, Rate of bike = 1/x distance/hour\nTogether: 1/1.5 + 1/x = 1/2\nSolve for x = 6 hours",
-    "predicted_answer": "",
-    "topic": "Work Problems",
-    "difficulty": "Medium"
-}

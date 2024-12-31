@@ -1,9 +1,0 @@
-{
-    "question_id": 37,
-    "algebraic_word_problem": "Henry invests $1,500 at 4% interest, compounded annually. How much money will he have after 2 years?",
-    "reference_answer": "$1,622.40",
-    "step_by_step_solution": "A = P(1 + r/n)^(nt)\nA = 1500(1 + 0.04/1)^(1*2)\nA = 1500(1.04)^2 = 1500 * 1.0816 = $1,622.40",
-    "predicted_answer": "",
-    "topic": "Investment Problems",
-    "difficulty": "Medium"
-}

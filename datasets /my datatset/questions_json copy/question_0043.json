@@ -1,9 +1,0 @@
-{
-    "question_id": 43,
-    "algebraic_word_problem": "Mike starts with 10 pencils. He gives away 2 pencils each day. How many pencils will he have after 5 days?",
-    "reference_answer": "0 pencils",
-    "step_by_step_solution": "Day 1: 10 - 2 = 8 pencils\nDay 2: 8 - 2 = 6 pencils\nDay 3: 6 - 2 = 4 pencils\nDay 4: 4 - 2 = 2 pencils\nDay 5: 2 - 2 = 0 pencils",
-    "predicted_answer": "",
-    "topic": "Simple Equations",
-    "difficulty": "Easy"
-}

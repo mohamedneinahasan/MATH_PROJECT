@@ -1,9 +1,0 @@
-{
-    "question_id": 123,
-    "algebraic_word_problem": "A concert has 200 seats. If 85% of the seats are sold, how many seats are still available?",
-    "reference_answer": "30 seats",
-    "step_by_step_solution": "Sold seats = 200 * 0.85 = 170\nAvailable seats = 200 - 170 = 30",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

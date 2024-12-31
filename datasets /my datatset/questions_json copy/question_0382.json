@@ -1,9 +1,0 @@
-{
-    "question_id": 382,
-    "algebraic_word_problem": "If the sides of a triangle are in the ratio 3:4:5 and the perimeter is 60 cm, what are the lengths of the sides?",
-    "reference_answer": "The sides are 9 cm, 12 cm, and 15 cm.",
-    "step_by_step_solution": "Let the sides be 3x, 4x, and 5x. Then 3x + 4x + 5x = 60. 12x = 60, so x = 5. Therefore, the sides are 15 cm, 20 cm, and 25 cm.",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion",
-    "difficulty": "Hard"
-}

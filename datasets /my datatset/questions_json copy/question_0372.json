@@ -1,9 +1,0 @@
-{
-    "question_id": 372,
-    "algebraic_word_problem": "A group of 5 friends has a total age of 150 years. If one friend leaves and the average age of the remaining friends is 31, what was the age of the friend who left?",
-    "reference_answer": "24 years old",
-    "step_by_step_solution": "Total age of remaining 4 friends = 31 * 4 = 124. Age of friend who left = 150 - 124 = 26.",
-    "predicted_answer": "",
-    "topic": "Averages",
-    "difficulty": "Hard"
-}

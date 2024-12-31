@@ -1,9 +1,0 @@
-{
-    "question_id": 721,
-    "algebraic_word_problem": "What is 2^3 multiplied by 2^4?",
-    "reference_answer": "128",
-    "step_by_step_solution": "Using the rule of exponents: 2^3 * 2^4 = 2^(3+4) = 2^7 = 128.",
-    "predicted_answer": "",
-    "topic": "Exponents and Powers",
-    "difficulty": "Easy"
-}

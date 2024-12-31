@@ -1,9 +1,0 @@
-{
-    "question_id": 250,
-    "algebraic_word_problem": "A bus covers 150 miles in 3 hours. What is its speed in miles per hour?",
-    "reference_answer": "50 miles per hour",
-    "step_by_step_solution": "Speed = Distance / Time\nSpeed = 150 / 3 = 50 miles per hour",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

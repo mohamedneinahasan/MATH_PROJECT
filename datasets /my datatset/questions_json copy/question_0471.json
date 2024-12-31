@@ -1,9 +1,0 @@
-{
-    "question_id": 471,
-    "algebraic_word_problem": "A pizza costs $10, and there is a 20% discount. What is the sale price?",
-    "reference_answer": "$8",
-    "step_by_step_solution": "Discount = 0.20 * 10 = 2; Sale price = 10 - 2 = 8.",
-    "predicted_answer": "",
-    "topic": "Discount",
-    "difficulty": "Easy"
-}

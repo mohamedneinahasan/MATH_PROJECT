@@ -1,9 +1,0 @@
-{
-    "question_id": 533,
-    "algebraic_word_problem": "If a person jogs 3 miles in 30 minutes, what is their speed in miles per hour?",
-    "reference_answer": "6 mph",
-    "step_by_step_solution": "Speed = Distance / Time = 3 miles / 0.5 hours = 6 mph.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Medium"
-}

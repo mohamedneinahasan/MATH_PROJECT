@@ -1,9 +1,0 @@
-{
-    "question_id": 456,
-    "algebraic_word_problem": "A man is 3 times as old as his daughter. In 15 years, he will be twice as old as her. How old are they now?",
-    "reference_answer": "Father is 45, daughter is 15.",
-    "step_by_step_solution": "Let daughter's age = x. Father's age = 3x. In 15 years: 3x + 15 = 2(x + 15). Solving gives 3x + 15 = 2x + 30; thus, x = 15.",
-    "predicted_answer": "",
-    "topic": "Age Problems",
-    "difficulty": "Hard"
-}

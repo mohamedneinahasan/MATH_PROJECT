@@ -1,9 +1,0 @@
-{
-    "question_id": 625,
-    "algebraic_word_problem": "A cyclist travels the first half of a route at 20 km/h and the second half at 30 km/h. What is the average speed for the entire journey?",
-    "reference_answer": "24 km/h",
-    "step_by_step_solution": "Average speed = 2 * (20 * 30) / (20 + 30).",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

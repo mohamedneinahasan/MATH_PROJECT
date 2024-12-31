@@ -1,9 +1,0 @@
-{
-    "question_id": 227,
-    "algebraic_word_problem": "A man buys 6 pencils for $3. How much will 20 pencils cost at the same rate?",
-    "reference_answer": "$10",
-    "step_by_step_solution": "Cost per pencil = $3 / 6 = $0.50 per pencil\nCost of 20 pencils = 20 * 0.50 = $10",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion",
-    "difficulty": "Easy"
-}

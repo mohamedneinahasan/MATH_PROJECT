@@ -1,9 +1,0 @@
-{
-    "question_id": 25,
-    "algebraic_word_problem": "A factory sells two types of products. Product A costs $15, and Product B costs $25. If 100 products are sold for a total of $2,000, how many of each product were sold?",
-    "reference_answer": "80 Product A and 20 Product B",
-    "step_by_step_solution": "Let number of Product A = x, number of Product B = y\nx + y = 100\n15x + 25y = 2000\nSolve system of equations",
-    "predicted_answer": "",
-    "topic": "Systems of Equations",
-    "difficulty": "Hard"
-}

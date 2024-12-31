@@ -1,9 +1,0 @@
-{
-    "question_id": 2,
-    "algebraic_word_problem": "A pen costs $2. How much will 4 pens cost?",
-    "reference_answer": "$8",
-    "step_by_step_solution": "4 pens * $2/pen = $8",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

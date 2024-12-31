@@ -1,9 +1,0 @@
-{
-    "question_id": 577,
-    "algebraic_word_problem": "The length of a rectangle is 3 times its width. If the perimeter of the rectangle is 64 cm, what are its dimensions?",
-    "reference_answer": "Width: 8 cm, Length: 24 cm",
-    "step_by_step_solution": "Let width = x; Length = 3x; 2(x + 3x) = 64; 8x = 64; x = 8; Length = 24.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

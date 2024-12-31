@@ -1,9 +1,0 @@
-{
-    "question_id": 474,
-    "algebraic_word_problem": "If a rectangle has a length of 8 cm and a width of 3 cm, what is its perimeter?",
-    "reference_answer": "22 cm",
-    "step_by_step_solution": "Perimeter = 2(length + width) = 2(8 + 3) = 22 cm.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

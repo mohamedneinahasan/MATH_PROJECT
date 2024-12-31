@@ -1,9 +1,0 @@
-{
-    "question_id": 717,
-    "algebraic_word_problem": "If a car costs $20,000 and depreciates by 15% each year, what is its value after 1 year?",
-    "reference_answer": "$17,000",
-    "step_by_step_solution": "Value after 1 year = $20,000 - 0.15 \u00d7 $20,000 = $20,000 - $3,000 = $17,000",
-    "predicted_answer": "",
-    "topic": "Depreciation Problems",
-    "difficulty": "Medium"
-}

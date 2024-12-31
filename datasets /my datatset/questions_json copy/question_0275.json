@@ -1,9 +1,0 @@
-{
-    "question_id": 275,
-    "algebraic_word_problem": "A store has a sale of 15% off on all items. If an item originally costs $200, what is the discount amount?",
-    "reference_answer": "$30",
-    "step_by_step_solution": "Discount = 15% of $200 = 0.15 * 200 = $30.",
-    "predicted_answer": "",
-    "topic": "Discount Problems",
-    "difficulty": "Easy"
-}

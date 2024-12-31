@@ -1,9 +1,0 @@
-{
-    "question_id": 307,
-    "algebraic_word_problem": "A soccer team has 11 players. If 3 players are substitutes, what fraction of the team are substitutes?",
-    "reference_answer": "3/11",
-    "step_by_step_solution": "Fraction of substitutes = Number of substitutes / Total players = 3 / 11.",
-    "predicted_answer": "",
-    "topic": "Fraction Problems",
-    "difficulty": "Easy"
-}

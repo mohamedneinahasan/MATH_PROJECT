@@ -1,9 +1,0 @@
-{
-    "question_id": 623,
-    "algebraic_word_problem": "A bicyclist travels 30 km/h on flat ground, but her speed decreases by 10% on each subsequent incline. After three inclines, what is her speed?",
-    "reference_answer": "21.87 km/h",
-    "step_by_step_solution": "Speed after each incline: 30 * (0.9)^3 = 21.87 km/h.",
-    "predicted_answer": "",
-    "topic": "Percentages",
-    "difficulty": "Hard"
-}

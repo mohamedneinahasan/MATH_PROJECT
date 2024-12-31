@@ -1,9 +1,0 @@
-{
-    "question_id": 278,
-    "algebraic_word_problem": "A man earns $2,500 a month. How much does he earn in a year?",
-    "reference_answer": "$30,000",
-    "step_by_step_solution": "Yearly earnings = Monthly earnings * 12 = 2500 * 12 = $30,000.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

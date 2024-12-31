@@ -1,9 +1,0 @@
-{
-    "question_id": 95,
-    "algebraic_word_problem": "If 75% of a number is 60, what is the number?",
-    "reference_answer": "80",
-    "step_by_step_solution": "Let number = x, 0.75x = 60\nx = 60 / 0.75 = 80",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 823,
-    "algebraic_word_problem": "If a number is divided by 5 and then 7 is subtracted, the result is 3. What is the number?",
-    "reference_answer": "x = 50",
-    "step_by_step_solution": "Let the number be x; x/5 - 7 = 3; x/5 = 10; x = 50.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Hard"
-}

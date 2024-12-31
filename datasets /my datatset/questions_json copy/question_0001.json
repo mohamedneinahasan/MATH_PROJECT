@@ -1,9 +1,0 @@
-{
-    "question_id": 1,
-    "algebraic_word_problem": "John has 5 apples. He buys 3 more each day. How many after 4 days?",
-    "reference_answer": "17 apples",
-    "step_by_step_solution": "Day 1: 5 + 3 = 8 apples\nDay 2: 8 + 3 = 11 apples\nDay 3: 11 + 3 = 14 apples\nDay 4: 14 + 3 = 17 apples",
-    "predicted_answer": "",
-    "topic": "Simple Equations",
-    "difficulty": "Easy"
-}

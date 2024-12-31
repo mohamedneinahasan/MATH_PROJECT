@@ -1,9 +1,0 @@
-{
-    "question_id": 520,
-    "algebraic_word_problem": "A cyclist travels at a speed of 12 mph for 1.5 hours. How far does the cyclist travel?",
-    "reference_answer": "18 miles",
-    "step_by_step_solution": "Distance = Speed \u00d7 Time = 12 mph \u00d7 1.5 hours = 18 miles.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Medium"
-}

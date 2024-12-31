@@ -1,9 +1,0 @@
-{
-    "question_id": 498,
-    "algebraic_word_problem": "A boat can travel at a speed of 15 miles per hour in still water. If it travels downstream at 20 miles per hour, what is the speed of the current?",
-    "reference_answer": "5 miles per hour",
-    "step_by_step_solution": "Speed of current = downstream speed - speed of boat = 20 - 15 = 5 mph.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Medium"
-}

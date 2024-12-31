@@ -1,9 +1,0 @@
-{
-    "question_id": 436,
-    "algebraic_word_problem": "If a square's area is 64 cm\u00b2, what is the length of one side?",
-    "reference_answer": "8 cm",
-    "step_by_step_solution": "Area = side\u00b2, so side = \u221a64 = 8 cm.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

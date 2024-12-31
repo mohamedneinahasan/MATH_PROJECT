@@ -1,9 +1,0 @@
-{
-    "question_id": 985,
-    "algebraic_word_problem": "If a dozen eggs cost $3, how much do 3 dozen cost?",
-    "reference_answer": "$9",
-    "step_by_step_solution": "Cost of 3 dozen = cost per dozen \u00d7 3 = 3 \u00d7 3 = 9.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

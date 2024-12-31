@@ -1,9 +1,0 @@
-{
-    "question_id": 77,
-    "algebraic_word_problem": "A theater has 300 seats. If 80% of the seats are filled, how many seats are empty?",
-    "reference_answer": "60 seats",
-    "step_by_step_solution": "Filled seats = 300 * 0.80 = 240\nEmpty seats = 300 - 240 = 60",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Easy"
-}

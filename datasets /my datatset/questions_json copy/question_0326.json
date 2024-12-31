@@ -1,9 +1,0 @@
-{
-    "question_id": 326,
-    "algebraic_word_problem": "A car travels 240 miles in 4 hours. What is its average speed?",
-    "reference_answer": "60 miles per hour",
-    "step_by_step_solution": "Average speed = Total distance / Total time = 240 miles / 4 hours = 60 mph.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

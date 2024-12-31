@@ -1,9 +1,0 @@
-{
-    "question_id": 701,
-    "algebraic_word_problem": "A rectangular swimming pool is 25 meters long and 10 meters wide. What is the area of the pool?",
-    "reference_answer": "250 square meters",
-    "step_by_step_solution": "Area = length \u00d7 width = 25 \u00d7 10 = 250 square meters",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

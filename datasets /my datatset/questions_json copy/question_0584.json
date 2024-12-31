@@ -1,9 +1,0 @@
-{
-    "question_id": 584,
-    "algebraic_word_problem": "A car travels from city A to city B at a speed of 50 km/h and returns at a speed of 70 km/h. What is the average speed for the entire trip?",
-    "reference_answer": "58.33 km/h",
-    "step_by_step_solution": "Let the distance be d; Time for A to B = d/50; Time for B to A = d/70; Average speed = Total distance / Total time.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

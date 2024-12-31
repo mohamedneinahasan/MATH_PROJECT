@@ -1,9 +1,0 @@
-{
-    "question_id": 698,
-    "algebraic_word_problem": "A cyclist travels 120 km in 4 hours. What is his average speed?",
-    "reference_answer": "30 km/h",
-    "step_by_step_solution": "Average speed = total distance \u00f7 total time = 120 km \u00f7 4 h = 30 km/h",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

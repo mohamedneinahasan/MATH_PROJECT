@@ -1,9 +1,0 @@
-{
-    "question_id": 788,
-    "algebraic_word_problem": "A farmer has chickens and cows. If there are 20 heads and 56 legs in total, how many chickens are there?",
-    "reference_answer": "12 chickens",
-    "step_by_step_solution": "Let chickens be x and cows be y; x + y = 20; 2x + 4y = 56; Solving gives x = 12, y = 8.",
-    "predicted_answer": "",
-    "topic": "Systems of Equations",
-    "difficulty": "Hard"
-}

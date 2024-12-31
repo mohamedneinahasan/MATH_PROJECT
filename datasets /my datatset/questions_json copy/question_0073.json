@@ -1,9 +1,0 @@
-{
-    "question_id": 73,
-    "algebraic_word_problem": "A factory can produce 100 units in 5 hours. How many units can it produce in 8 hours?",
-    "reference_answer": "160 units",
-    "step_by_step_solution": "Rate of production = 100/5 = 20 units per hour\nUnits in 8 hours = 20 * 8 = 160 units",
-    "predicted_answer": "",
-    "topic": "Proportion Problems",
-    "difficulty": "Easy"
-}

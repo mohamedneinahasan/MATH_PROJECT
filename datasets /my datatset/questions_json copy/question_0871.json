@@ -1,9 +1,0 @@
-{
-    "question_id": 871,
-    "algebraic_word_problem": "If 6x - 4 = 14, what is the value of x?",
-    "reference_answer": "x = 3",
-    "step_by_step_solution": "Add 4 to both sides: 6x = 18; Divide by 6: x = 3.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 113,
-    "algebraic_word_problem": "If a car can travel 120 miles on 4 gallons of gas, what is its fuel efficiency in miles per gallon?",
-    "reference_answer": "30 miles per gallon",
-    "step_by_step_solution": "Fuel efficiency = Distance / Gallons = 120 / 4 = 30 miles/gallon",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

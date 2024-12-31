@@ -1,9 +1,0 @@
-{
-    "question_id": 708,
-    "algebraic_word_problem": "A tank holds 500 liters of water. If 150 liters are used, how much water is left in the tank?",
-    "reference_answer": "350 liters",
-    "step_by_step_solution": "Water left = 500 - 150 = 350 liters",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

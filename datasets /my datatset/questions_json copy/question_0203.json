@@ -1,9 +1,0 @@
-{
-    "question_id": 203,
-    "algebraic_word_problem": "A triangle has sides of 7 cm, 10 cm, and 12 cm. What is the perimeter of the triangle?",
-    "reference_answer": "29 cm",
-    "step_by_step_solution": "Perimeter = sum of all sides\nPerimeter = 7 + 10 + 12 = 29 cm",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

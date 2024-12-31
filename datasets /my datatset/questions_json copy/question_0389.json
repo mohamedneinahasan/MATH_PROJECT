@@ -1,9 +1,0 @@
-{
-    "question_id": 389,
-    "algebraic_word_problem": "A family buys a house for $250,000 and sells it for a 10% profit. What is the selling price?",
-    "reference_answer": "$275,000",
-    "step_by_step_solution": "Selling price = Purchase price + (0.10 * Purchase price) = 250000 + 25000 = $275,000.",
-    "predicted_answer": "",
-    "topic": "Profit and Loss",
-    "difficulty": "Hard"
-}

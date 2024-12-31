@@ -1,9 +1,0 @@
-{
-    "question_id": 431,
-    "algebraic_word_problem": "If a cylinder has a radius of 3 cm and a height of 10 cm, what is its volume?",
-    "reference_answer": "94.2 cm\u00b3",
-    "step_by_step_solution": "Volume = \u03c0r\u00b2h = \u03c0(3)\u00b2(10) = \u03c0(9)(10) \u2248 94.2 cm\u00b3.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

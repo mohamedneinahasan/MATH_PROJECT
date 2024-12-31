@@ -1,9 +1,0 @@
-{
-    "question_id": 789,
-    "algebraic_word_problem": "If the ratio of the lengths of two sides of a rectangle is 3:2 and the perimeter is 50 cm, what are the lengths of the sides?",
-    "reference_answer": "18 cm and 12 cm",
-    "step_by_step_solution": "Let the sides be 3x and 2x; Perimeter = 2(3x + 2x) = 50; 10x = 50; x = 5; Sides are 15 cm and 10 cm.",
-    "predicted_answer": "",
-    "topic": "Ratios and Proportions",
-    "difficulty": "Medium"
-}

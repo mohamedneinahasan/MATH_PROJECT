@@ -1,9 +1,0 @@
-{
-    "question_id": 941,
-    "algebraic_word_problem": "If the price of a dress is $80 after a 20% discount, what was the original price?",
-    "reference_answer": "$100",
-    "step_by_step_solution": "Let original price = x; 0.8x = 80; x = 80 / 0.8 = 100.",
-    "predicted_answer": "",
-    "topic": "Percentages",
-    "difficulty": "Medium"
-}

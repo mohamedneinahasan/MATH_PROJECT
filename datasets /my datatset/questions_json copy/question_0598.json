@@ -1,9 +1,0 @@
-{
-    "question_id": 598,
-    "algebraic_word_problem": "A cyclist travels 30 km at a speed of 15 km/h and then returns at a speed of 10 km/h. What is the average speed for the entire trip?",
-    "reference_answer": "12 km/h",
-    "step_by_step_solution": "Total distance = 60 km; Total time = (30/15) + (30/10); Average speed = total distance / total time.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

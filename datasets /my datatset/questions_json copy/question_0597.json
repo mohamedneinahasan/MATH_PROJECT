@@ -1,9 +1,0 @@
-{
-    "question_id": 597,
-    "algebraic_word_problem": "A company has a fixed cost of $2000 and a variable cost of $10 per item produced. If the price of each item is $20, how many items must be sold to break even?",
-    "reference_answer": "200 items",
-    "step_by_step_solution": "Break-even occurs when total revenue = total costs; 20x = 2000 + 10x; Solve for x to find break-even point.",
-    "predicted_answer": "",
-    "topic": "Finance",
-    "difficulty": "Hard"
-}

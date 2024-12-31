@@ -1,9 +1,0 @@
-{
-    "question_id": 212,
-    "algebraic_word_problem": "The ratio of boys to girls in a class is 5:6. If there are 66 students, how many boys are there?",
-    "reference_answer": "30 boys",
-    "step_by_step_solution": "Let the number of boys = 5x and girls = 6x\n5x + 6x = 66\n11x = 66\nx = 6\nBoys = 5 * 6 = 30",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion",
-    "difficulty": "Medium"
-}

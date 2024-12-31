@@ -1,9 +1,0 @@
-{
-    "question_id": 151,
-    "algebraic_word_problem": "A man buys a shirt for $80 and sells it at a 25% profit. What is the selling price?",
-    "reference_answer": "$100",
-    "step_by_step_solution": "Profit = 25% of 80 = 0.25 * 80 = $20\nSelling price = 80 + 20 = $100",
-    "predicted_answer": "",
-    "topic": "Profit and Loss",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 99,
-    "algebraic_word_problem": "A restaurant bill is $120. If you want to leave a 15% tip, how much should you leave?",
-    "reference_answer": "$18",
-    "step_by_step_solution": "Tip = 15% of $120 = 0.15 * 120 = $18",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 321,
-    "algebraic_word_problem": "If a book is read by 4 people and each person reads 20 pages, how many pages have been read in total?",
-    "reference_answer": "80 pages",
-    "step_by_step_solution": "Total pages read = Number of people * Pages per person = 4 * 20 = 80 pages.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

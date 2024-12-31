@@ -1,9 +1,0 @@
-{
-    "question_id": 318,
-    "algebraic_word_problem": "If a shirt originally costs $30 and is on sale for $24, what is the percentage discount?",
-    "reference_answer": "20%",
-    "step_by_step_solution": "Discount = (Original Price - Sale Price) / Original Price * 100 = (30 - 24) / 30 * 100 = 20%.",
-    "predicted_answer": "",
-    "topic": "Discount Problems",
-    "difficulty": "Medium"
-}

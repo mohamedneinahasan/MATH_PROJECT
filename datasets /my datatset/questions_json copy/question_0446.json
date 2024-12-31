@@ -1,9 +1,0 @@
-{
-    "question_id": 446,
-    "algebraic_word_problem": "A car travels 120 miles in 2 hours. What is its average speed in mph?",
-    "reference_answer": "60 mph",
-    "step_by_step_solution": "Average speed = Total distance / Total time = 120 miles / 2 hours = 60 mph.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

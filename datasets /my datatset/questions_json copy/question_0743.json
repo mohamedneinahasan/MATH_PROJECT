@@ -1,9 +1,0 @@
-{
-    "question_id": 743,
-    "algebraic_word_problem": "If 2x + 3y = 12 and x = 3, what is the value of y?",
-    "reference_answer": "y = 2",
-    "step_by_step_solution": "Substitute x into the equation: 2(3) + 3y = 12; 6 + 3y = 12; 3y = 6; y = 2.",
-    "predicted_answer": "",
-    "topic": "Systems of Equations",
-    "difficulty": "Medium"
-}

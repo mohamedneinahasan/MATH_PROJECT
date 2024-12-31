@@ -1,9 +1,0 @@
-{
-    "question_id": 50,
-    "algebraic_word_problem": "In 3 years, Anna will be three times as old as she was 5 years ago. How old is Anna now?",
-    "reference_answer": "7 years old",
-    "step_by_step_solution": "Let Anna's current age = x\nIn 3 years, Anna's age = x + 3\n5 years ago, Anna's age = x - 5\nx + 3 = 3(x - 5)\nx + 3 = 3x - 15\nx = 7",
-    "predicted_answer": "",
-    "topic": "Age Problems (Complex)",
-    "difficulty": "Medium"
-}

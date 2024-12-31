@@ -1,9 +1,0 @@
-{
-    "question_id": 423,
-    "algebraic_word_problem": "If a train travels 200 miles at a speed of 50 mph, how long does the trip take?",
-    "reference_answer": "4 hours",
-    "step_by_step_solution": "Time = Distance / Speed = 200 miles / 50 mph = 4 hours.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

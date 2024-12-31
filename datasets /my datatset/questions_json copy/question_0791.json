@@ -1,9 +1,0 @@
-{
-    "question_id": 791,
-    "algebraic_word_problem": "If a rectangle's length is increased by 5 and width decreased by 2, how does the area change if the original area was 48 cm\u00b2?",
-    "reference_answer": "New area = 6 cm\u00b2",
-    "step_by_step_solution": "Let length = l and width = w; Original area = lw = 48; New area = (l + 5)(w - 2). Calculate changes accordingly.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

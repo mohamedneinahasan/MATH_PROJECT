@@ -1,9 +1,0 @@
-{
-    "question_id": 482,
-    "algebraic_word_problem": "A rectangle has a length of 5 meters and a width of 3 meters. What is its area?",
-    "reference_answer": "15 square meters",
-    "step_by_step_solution": "Area = length \u00d7 width = 5 m \u00d7 3 m = 15 m\u00b2.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

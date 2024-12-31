@@ -1,9 +1,0 @@
-{
-    "question_id": 501,
-    "algebraic_word_problem": "A fruit basket contains 5 apples and 3 oranges. How many pieces of fruit are there in total?",
-    "reference_answer": "8 pieces of fruit",
-    "step_by_step_solution": "Total fruit = 5 apples + 3 oranges = 8 pieces of fruit.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

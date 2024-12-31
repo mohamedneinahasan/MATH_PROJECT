@@ -1,9 +1,0 @@
-{
-    "question_id": 836,
-    "algebraic_word_problem": "A store is having a sale of 20% off on all items. If an item costs $50 before the discount, what is the sale price?",
-    "reference_answer": "$40",
-    "step_by_step_solution": "Discount = 20% of 50 = 0.2 \u00d7 50 = 10; Sale price = 50 - 10 = 40.",
-    "predicted_answer": "",
-    "topic": "Percentages",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 559,
-    "algebraic_word_problem": "A box contains 5 red, 7 blue, and 8 green balls. If two balls are drawn randomly, what is the probability that both balls are of different colors?",
-    "reference_answer": "0.65",
-    "step_by_step_solution": "Total ways to pick 2 balls = C(20, 2) = 190; Ways to pick 2 of the same color = C(5, 2) + C(7, 2) + C(8, 2) = 10 + 21 + 28 = 59; Different colors = 190 - 59 = 131; Probability = 131/190 = 0.65.",
-    "predicted_answer": "",
-    "topic": "Probability",
-    "difficulty": "Hard"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 71,
-    "algebraic_word_problem": "A family spends 40% of their income on rent, 25% on food, and saves the rest. If their monthly income is $3,000, how much do they save?",
-    "reference_answer": "$1,050",
-    "step_by_step_solution": "Savings = 100% - 40% - 25% = 35% of income\nSavings = 35% * 3000 = $1,050",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Easy"
-}

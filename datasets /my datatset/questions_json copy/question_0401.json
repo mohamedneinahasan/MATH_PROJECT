@@ -1,9 +1,0 @@
-{
-    "question_id": 401,
-    "algebraic_word_problem": "The total cost for 3 shirts and 2 pairs of pants is $120. If a shirt costs $20, what is the cost of a pair of pants?",
-    "reference_answer": "$30",
-    "step_by_step_solution": "Let cost of pants = p. Total cost = 3(20) + 2p = 120. Solving gives 60 + 2p = 120; thus, 2p = 60, so p = 30.",
-    "predicted_answer": "",
-    "topic": "Algebra",
-    "difficulty": "Hard"
-}

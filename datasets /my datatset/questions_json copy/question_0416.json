@@ -1,9 +1,0 @@
-{
-    "question_id": 416,
-    "algebraic_word_problem": "If a store sells 120 shirts in January and 150 shirts in February, what is the percent increase in sales?",
-    "reference_answer": "25%",
-    "step_by_step_solution": "Increase = 150 - 120 = 30. Percent increase = (30 / 120) * 100 = 25%.",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Hard"
-}

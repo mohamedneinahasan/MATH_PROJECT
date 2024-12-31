@@ -1,9 +1,0 @@
-{
-    "question_id": 538,
-    "algebraic_word_problem": "If the sum of three consecutive integers is 48, what are the integers?",
-    "reference_answer": "15, 16, and 17",
-    "step_by_step_solution": "Let the integers be x, x+1, x+2; Then x + (x+1) + (x+2) = 48; 3x + 3 = 48; 3x = 45; x = 15.",
-    "predicted_answer": "",
-    "topic": "Algebra",
-    "difficulty": "Hard"
-}

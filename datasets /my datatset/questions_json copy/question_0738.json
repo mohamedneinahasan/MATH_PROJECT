@@ -1,9 +1,0 @@
-{
-    "question_id": 738,
-    "algebraic_word_problem": "If the ratio of a to b is 2:3 and b is 12, what is the value of a?",
-    "reference_answer": "8",
-    "step_by_step_solution": "Using the ratio: 2/3 = a/12; 2*12 = 3a; 24 = 3a; a = 24/3 = 8.",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion",
-    "difficulty": "Medium"
-}

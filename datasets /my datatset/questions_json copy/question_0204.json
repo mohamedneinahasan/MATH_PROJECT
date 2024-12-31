@@ -1,9 +1,0 @@
-{
-    "question_id": 204,
-    "algebraic_word_problem": "A man borrows $1,200 at a 5% annual interest rate. How much interest will he owe after 3 years?",
-    "reference_answer": "$180",
-    "step_by_step_solution": "Interest = Principal * Rate * Time\nInterest = 1200 * 0.05 * 3 = $180",
-    "predicted_answer": "",
-    "topic": "Interest Problems",
-    "difficulty": "Medium"
-}

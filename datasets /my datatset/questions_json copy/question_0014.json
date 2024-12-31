@@ -1,9 +1,0 @@
-{
-    "question_id": 14,
-    "algebraic_word_problem": "A shopkeeper sells an item for $240, making a 20% profit. What was the cost price of the item?",
-    "reference_answer": "$200",
-    "step_by_step_solution": "Selling price = Cost price * (1 + Profit %)\n240 = Cost price * 1.2\nCost price = 240 / 1.2 = $200",
-    "predicted_answer": "",
-    "topic": "Profit and Loss",
-    "difficulty": "Hard"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 369,
-    "algebraic_word_problem": "A cylinder has a radius of 2 cm and a height of 10 cm. What is its surface area?",
-    "reference_answer": "75.4 cm\u00b2",
-    "step_by_step_solution": "Surface area = 2\u03c0r(h + r) = 2\u03c0(2)(10 + 2) = 2\u03c0(2)(12) = 48\u03c0 \u2248 75.4 cm\u00b2.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

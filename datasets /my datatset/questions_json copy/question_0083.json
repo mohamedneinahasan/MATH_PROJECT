@@ -1,9 +1,0 @@
-{
-    "question_id": 83,
-    "algebraic_word_problem": "If a train leaves the station traveling at 75 miles per hour, how far will it travel in 4 hours?",
-    "reference_answer": "300 miles",
-    "step_by_step_solution": "Distance = Speed * Time = 75 miles/hour * 4 hours = 300 miles",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

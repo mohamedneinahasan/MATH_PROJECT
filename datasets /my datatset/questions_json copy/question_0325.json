@@ -1,9 +1,0 @@
-{
-    "question_id": 325,
-    "algebraic_word_problem": "A bag contains 20 candies, of which 8 are chocolate. What fraction of the candies are chocolate?",
-    "reference_answer": "2/5",
-    "step_by_step_solution": "Fraction of chocolate candies = Number of chocolate candies / Total candies = 8 / 20 = 2/5.",
-    "predicted_answer": "",
-    "topic": "Fraction Problems",
-    "difficulty": "Easy"
-}

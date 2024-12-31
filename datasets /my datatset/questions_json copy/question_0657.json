@@ -1,9 +1,0 @@
-{
-    "question_id": 657,
-    "algebraic_word_problem": "A bus leaves at 6 AM and travels at 60 km/h. Another bus leaves the same station at 7 AM at 80 km/h. When will the second bus catch up?",
-    "reference_answer": "9 AM",
-    "step_by_step_solution": "Distance first bus travels in 1 hour = 60 km; Relative speed = 80 - 60 = 20 km/h; Time to catch up = 60 / 20 = 3 hours.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Medium"
-}

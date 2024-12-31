@@ -1,9 +1,0 @@
-{
-    "question_id": 910,
-    "algebraic_word_problem": "If the cost of 5 pens is $10, what is the cost of 1 pen?",
-    "reference_answer": "$2",
-    "step_by_step_solution": "Cost per pen = total cost / number of pens = 10 / 5 = 2.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

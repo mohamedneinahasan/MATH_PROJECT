@@ -1,9 +1,0 @@
-{
-    "question_id": 967,
-    "algebraic_word_problem": "If a box contains 24 candies and you eat 6, how many candies are left?",
-    "reference_answer": "18 candies",
-    "step_by_step_solution": "Candies left = total candies - candies eaten = 24 - 6 = 18.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

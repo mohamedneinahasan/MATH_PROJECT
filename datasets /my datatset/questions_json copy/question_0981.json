@@ -1,9 +1,0 @@
-{
-    "question_id": 981,
-    "algebraic_word_problem": "If the area of a triangle is 30 cm\u00b2 and the base is 10 cm, what is the height?",
-    "reference_answer": "6 cm",
-    "step_by_step_solution": "Area = 1/2 \u00d7 base \u00d7 height; 30 = 1/2 \u00d7 10 \u00d7 height; height = 30 / (0.5 \u00d7 10) = 6.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

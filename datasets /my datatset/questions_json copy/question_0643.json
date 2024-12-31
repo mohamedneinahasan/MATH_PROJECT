@@ -1,9 +1,0 @@
-{
-    "question_id": 643,
-    "algebraic_word_problem": "A manufacturer produces 80 gadgets daily and sells them at $25 each. The cost of production is $1,500 per day. What is the profit per day?",
-    "reference_answer": "$500",
-    "step_by_step_solution": "Revenue = 80 * 25 = 2000; Profit = Revenue - Cost = 2000 - 1500 = $500.",
-    "predicted_answer": "",
-    "topic": "Finance",
-    "difficulty": "Easy"
-}

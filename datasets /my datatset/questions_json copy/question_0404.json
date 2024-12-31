@@ -1,9 +1,0 @@
-{
-    "question_id": 404,
-    "algebraic_word_problem": "If a laptop originally costs $800 and is on sale for 25% off, what is the sale price?",
-    "reference_answer": "$600",
-    "step_by_step_solution": "Discount = 0.25 * 800 = 200. Sale price = 800 - 200 = 600.",
-    "predicted_answer": "",
-    "topic": "Discount",
-    "difficulty": "Hard"
-}

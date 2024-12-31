@@ -1,9 +1,0 @@
-{
-    "question_id": 165,
-    "algebraic_word_problem": "A field is 40 meters long and 30 meters wide. What is its perimeter?",
-    "reference_answer": "140 meters",
-    "step_by_step_solution": "Perimeter = 2(Length + Width) = 2(40 + 30) = 140 meters",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 796,
-    "algebraic_word_problem": "In a class of 30 students, 18 are boys. What fraction of the class are girls?",
-    "reference_answer": "2/5",
-    "step_by_step_solution": "Total students = 30; Girls = 30 - 18 = 12; Fraction = 12/30 = 2/5.",
-    "predicted_answer": "",
-    "topic": "Fractions",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 270,
-    "algebraic_word_problem": "If the product of two numbers is 48 and one number is 6, what is the other number?",
-    "reference_answer": "8",
-    "step_by_step_solution": "Let the other number be x.\n6 * x = 48\nx = 48 / 6 = 8.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

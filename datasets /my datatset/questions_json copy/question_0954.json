@@ -1,9 +1,0 @@
-{
-    "question_id": 954,
-    "algebraic_word_problem": "If 3 times a number plus 5 equals 20, what is the number?",
-    "reference_answer": "5",
-    "step_by_step_solution": "Let the number be x; 3x + 5 = 20; 3x = 15; x = 5.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

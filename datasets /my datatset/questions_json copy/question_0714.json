@@ -1,9 +1,0 @@
-{
-    "question_id": 714,
-    "algebraic_word_problem": "A box can hold 50 kg of flour. If 10 boxes are used, how many kilograms of flour can be stored?",
-    "reference_answer": "500 kg",
-    "step_by_step_solution": "Total flour = 50 kg \u00d7 10 = 500 kg",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

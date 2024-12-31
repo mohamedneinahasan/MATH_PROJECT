@@ -1,9 +1,0 @@
-{
-    "question_id": 271,
-    "algebraic_word_problem": "A cylinder has a radius of 3 meters and a height of 5 meters. What is its volume?",
-    "reference_answer": "Avoiding decimal results, keep it as 45\u03c0 cubic meters.",
-    "step_by_step_solution": "Volume = \u03c0 * radius^2 * height = \u03c0 * 3^2 * 5 = 45\u03c0 cubic meters.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

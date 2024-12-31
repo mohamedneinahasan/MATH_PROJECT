@@ -1,9 +1,0 @@
-{
-    "question_id": 146,
-    "algebraic_word_problem": "A box can hold 15 toys. How many boxes are needed to hold 150 toys?",
-    "reference_answer": "10 boxes",
-    "step_by_step_solution": "Boxes needed = 150 / 15 = 10 boxes",
-    "predicted_answer": "",
-    "topic": "Division",
-    "difficulty": "Easy"
-}

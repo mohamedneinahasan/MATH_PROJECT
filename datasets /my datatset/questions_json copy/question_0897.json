@@ -1,9 +1,0 @@
-{
-    "question_id": 897,
-    "algebraic_word_problem": "If a box costs $40 and you buy 3 boxes, what is the total cost?",
-    "reference_answer": "$120",
-    "step_by_step_solution": "Total cost = cost per box \u00d7 number of boxes = 40 \u00d7 3 = 120.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

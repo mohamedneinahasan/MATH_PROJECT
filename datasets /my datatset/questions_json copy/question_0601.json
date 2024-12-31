@@ -1,9 +1,0 @@
-{
-    "question_id": 601,
-    "algebraic_word_problem": "A theater has 400 seats. Tickets for adults are sold at $15 each, and for children at $10 each. If the total revenue from a sold-out show is $5,500, how many tickets of each type were sold?",
-    "reference_answer": "300 adults and 100 children",
-    "step_by_step_solution": "Let adults = x, children = y; x + y = 400; 15x + 10y = 5500; Solve the system of equations.",
-    "predicted_answer": "",
-    "topic": "Systems of Equations",
-    "difficulty": "Hard"
-}

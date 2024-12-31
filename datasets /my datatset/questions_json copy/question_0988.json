@@ -1,9 +1,0 @@
-{
-    "question_id": 988,
-    "algebraic_word_problem": "If a shop sells 5 pencils for $1, how much do 15 pencils cost?",
-    "reference_answer": "$3",
-    "step_by_step_solution": "Cost per pencil = 1/5; Cost for 15 pencils = (1/5) \u00d7 15 = 3.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Medium"
-}

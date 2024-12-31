@@ -1,9 +1,0 @@
-{
-    "question_id": 130,
-    "algebraic_word_problem": "A group of friends share a pizza with 8 slices equally. If 4 friends are sharing, how many slices does each friend get?",
-    "reference_answer": "2 slices",
-    "step_by_step_solution": "Slices per friend = 8 / 4 = 2 slices",
-    "predicted_answer": "",
-    "topic": "Division",
-    "difficulty": "Easy"
-}

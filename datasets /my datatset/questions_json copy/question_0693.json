@@ -1,9 +1,0 @@
-{
-    "question_id": 693,
-    "algebraic_word_problem": "If a cylinder has a radius of 3 cm and a height of 5 cm, what is its volume?",
-    "reference_answer": "141.37 cubic cm",
-    "step_by_step_solution": "Volume = \u03c0r\u00b2h = \u03c0(3)\u00b2(5) = 141.37 cubic cm",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 704,
-    "algebraic_word_problem": "If a pizza has a radius of 6 inches, what is its area? (Use \u03c0 \u2248 3.14)",
-    "reference_answer": "113.04 square inches",
-    "step_by_step_solution": "Area = \u03c0r\u00b2 = 3.14 \u00d7 (6)\u00b2 = 113.04 square inches",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

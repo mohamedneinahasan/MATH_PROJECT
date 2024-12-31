@@ -1,9 +1,0 @@
-{
-    "question_id": 866,
-    "algebraic_word_problem": "A machine can produce 500 items in 8 hours. How many items can it produce in 2 hours?",
-    "reference_answer": "125 items",
-    "step_by_step_solution": "Rate = 500 items / 8 hours = 62.5 items/hour; In 2 hours = 2 \u00d7 62.5 = 125 items.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Medium"
-}

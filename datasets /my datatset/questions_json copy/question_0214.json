@@ -1,9 +1,0 @@
-{
-    "question_id": 214,
-    "algebraic_word_problem": "A man buys a TV for $500 and sells it for $450. What is the percentage loss?",
-    "reference_answer": "10%",
-    "step_by_step_solution": "Loss = Original price - Selling price = 500 - 450 = $50\nPercentage loss = (Loss / Original price) * 100 = (50 / 500) * 100 = 10%",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

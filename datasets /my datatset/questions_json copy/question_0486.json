@@ -1,9 +1,0 @@
-{
-    "question_id": 486,
-    "algebraic_word_problem": "In a class of 30 students, 18 are girls. What percentage of the class are boys?",
-    "reference_answer": "40%",
-    "step_by_step_solution": "Number of boys = 30 - 18 = 12. Percentage = (12/30) \u00d7 100 = 40%.",
-    "predicted_answer": "",
-    "topic": "Percentage",
-    "difficulty": "Medium"
-}

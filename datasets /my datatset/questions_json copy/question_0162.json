@@ -1,9 +1,0 @@
-{
-    "question_id": 162,
-    "algebraic_word_problem": "A train travels 300 miles in 5 hours. What is its speed?",
-    "reference_answer": "60 miles per hour",
-    "step_by_step_solution": "Speed = Distance / Time = 300 / 5 = 60 miles per hour",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 564,
-    "algebraic_word_problem": "A computer costs $800 and depreciates in value by 10% each year. What will its value be after 4 years?",
-    "reference_answer": "$585.77",
-    "step_by_step_solution": "Value after 4 years = 800 * (1 - 0.10)^4 = 800 * (0.9)^4 = $585.77.",
-    "predicted_answer": "",
-    "topic": "Finance",
-    "difficulty": "Hard"
-}

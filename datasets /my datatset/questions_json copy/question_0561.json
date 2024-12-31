@@ -1,9 +1,0 @@
-{
-    "question_id": 561,
-    "algebraic_word_problem": "A train travels 120 km at a speed of 60 km/h and then returns at a speed of 90 km/h. What is the average speed for the entire journey?",
-    "reference_answer": "72 km/h",
-    "step_by_step_solution": "Time for outbound = 120 km / 60 km/h = 2 hours; Time for return = 120 km / 90 km/h = 1.33 hours; Total distance = 240 km; Total time = 2 + 1.33 = 3.33 hours; Average speed = Total distance / Total time = 240 / 3.33 = 72 km/h.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

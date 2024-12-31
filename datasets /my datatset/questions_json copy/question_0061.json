@@ -1,9 +1,0 @@
-{
-    "question_id": 61,
-    "algebraic_word_problem": "A store sells two types of bags. Bag A costs $50 and Bag B costs $30. If 10 bags are sold for a total of $400, how many of each type were sold?",
-    "reference_answer": "4 Bag A and 6 Bag B",
-    "step_by_step_solution": "Let number of Bag A = x and number of Bag B = y\nx + y = 10\n50x + 30y = 400\nSolve system of equations",
-    "predicted_answer": "",
-    "topic": "Systems of Equations",
-    "difficulty": "Hard"
-}

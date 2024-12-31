@@ -1,9 +1,0 @@
-{
-    "question_id": 889,
-    "algebraic_word_problem": "If a triangle has sides of lengths 6 cm, 8 cm, and 10 cm, is it a right triangle?",
-    "reference_answer": "Yes",
-    "step_by_step_solution": "Check: 6\u00b2 + 8\u00b2 = 36 + 64 = 100 = 10\u00b2; It is a right triangle.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

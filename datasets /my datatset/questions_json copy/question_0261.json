@@ -1,9 +1,0 @@
-{
-    "question_id": 261,
-    "algebraic_word_problem": "If a triangle has a base of 10 meters and a height of 5 meters, what is its area?",
-    "reference_answer": "25 square meters",
-    "step_by_step_solution": "Area = 1/2 * base * height = 1/2 * 10 * 5 = 25 square meters",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

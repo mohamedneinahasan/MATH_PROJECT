@@ -1,9 +1,0 @@
-{
-    "question_id": 884,
-    "algebraic_word_problem": "If the temperature is 20\u00b0C and it rises by 15\u00b0C, what is the new temperature?",
-    "reference_answer": "35\u00b0C",
-    "step_by_step_solution": "New temperature = initial temperature + rise = 20 + 15 = 35.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

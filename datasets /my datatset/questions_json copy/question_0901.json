@@ -1,9 +1,0 @@
-{
-    "question_id": 901,
-    "algebraic_word_problem": "A garden has a length of 10 m and a width of 5 m. What is its area?",
-    "reference_answer": "50 m\u00b2",
-    "step_by_step_solution": "Area = length \u00d7 width = 10 \u00d7 5 = 50.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 712,
-    "algebraic_word_problem": "A farmer has 120 apples. If he gives away 25 apples, how many apples does he have left?",
-    "reference_answer": "95 apples",
-    "step_by_step_solution": "120 - 25 = 95",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

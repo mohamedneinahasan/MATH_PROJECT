@@ -1,9 +1,0 @@
-{
-    "question_id": 642,
-    "algebraic_word_problem": "A cyclist covers 150 km in 3 hours with a tailwind. If the tailwind decreases their time by 30 minutes, what would be their speed without the wind?",
-    "reference_answer": "50 km/h",
-    "step_by_step_solution": "Time with wind = 3 hours; Actual time = 3 + 0.5 = 3.5 hours; Speed without wind = 150 / 3.5.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

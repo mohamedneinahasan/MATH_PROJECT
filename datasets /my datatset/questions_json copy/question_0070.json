@@ -1,9 +1,0 @@
-{
-    "question_id": 70,
-    "algebraic_word_problem": "A boat travels 30 miles downstream in 3 hours and returns upstream in 5 hours. What is the speed of the current?",
-    "reference_answer": "2 miles per hour",
-    "step_by_step_solution": "Let boat speed in still water = b, current speed = c\nDownstream speed = b + c = 30/3 = 10 mph\nUpstream speed = b - c = 30/5 = 6 mph\nSolve for c = 2 mph",
-    "predicted_answer": "",
-    "topic": "Current-Speed Problems",
-    "difficulty": "Medium"
-}

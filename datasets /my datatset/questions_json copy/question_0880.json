@@ -1,9 +1,0 @@
-{
-    "question_id": 880,
-    "algebraic_word_problem": "If the sum of two numbers is 50 and one number is 10 more than the other, what are the two numbers?",
-    "reference_answer": "20 and 30",
-    "step_by_step_solution": "Let the numbers be x and y; x + y = 50; y = x + 10; Solve: 2x + 10 = 50; x = 20, y = 30.",
-    "predicted_answer": "",
-    "topic": "Word Problems",
-    "difficulty": "Medium"
-}

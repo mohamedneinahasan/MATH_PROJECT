@@ -1,9 +1,0 @@
-{
-    "question_id": 974,
-    "algebraic_word_problem": "If a baker makes 12 loaves of bread and sells them for $4 each, how much money does he make?",
-    "reference_answer": "$48",
-    "step_by_step_solution": "Total earnings = number of loaves \u00d7 price per loaf = 12 \u00d7 4 = 48.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

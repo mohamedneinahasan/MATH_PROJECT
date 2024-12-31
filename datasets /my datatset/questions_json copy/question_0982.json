@@ -1,9 +1,0 @@
-{
-    "question_id": 982,
-    "algebraic_word_problem": "If a tank can hold 200 liters and it is currently holding 50 liters, how many liters can it still hold?",
-    "reference_answer": "150 liters",
-    "step_by_step_solution": "Capacity left = total capacity - current amount = 200 - 50 = 150.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 731,
-    "algebraic_word_problem": "If the area of a rectangle is 40 square meters and the length is 10 meters, what is the width?",
-    "reference_answer": "4 meters",
-    "step_by_step_solution": "Area = Length \u00d7 Width; 40 = 10 \u00d7 Width; Width = 40/10 = 4 meters.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

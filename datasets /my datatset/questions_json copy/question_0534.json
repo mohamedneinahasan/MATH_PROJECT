@@ -1,9 +1,0 @@
-{
-    "question_id": 534,
-    "algebraic_word_problem": "A sum of money is divided among three friends in the ratio 2:3:5. If the total amount is $200, how much does each friend get?",
-    "reference_answer": "$40, $60, and $100",
-    "step_by_step_solution": "Total parts = 2 + 3 + 5 = 10; Friend 1 = (2/10) * 200 = 40, Friend 2 = (3/10) * 200 = 60, Friend 3 = (5/10) * 200 = 100.",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion",
-    "difficulty": "Hard"
-}

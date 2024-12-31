@@ -1,9 +1,0 @@
-{
-    "question_id": 159,
-    "algebraic_word_problem": "If 5 workers can build a wall in 10 days, how many days will it take 10 workers to build the same wall?",
-    "reference_answer": "5 days",
-    "step_by_step_solution": "Work is inversely proportional to the number of workers\nDays for 10 workers = (5 workers * 10 days) / 10 workers = 5 days",
-    "predicted_answer": "",
-    "topic": "Work Problems",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 453,
-    "algebraic_word_problem": "If a rectangle has a perimeter of 24 cm and its length is 8 cm, what is its width?",
-    "reference_answer": "4 cm",
-    "step_by_step_solution": "Perimeter = 2(length + width). So, 24 = 2(8 + width), thus 12 = 8 + width, so width = 4 cm.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

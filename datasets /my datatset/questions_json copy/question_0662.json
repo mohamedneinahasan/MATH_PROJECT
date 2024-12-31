@@ -1,9 +1,0 @@
-{
-    "question_id": 662,
-    "algebraic_word_problem": "A box contains 50 chocolates. If 12 chocolates are eaten, how many are left?",
-    "reference_answer": "38 chocolates",
-    "step_by_step_solution": "50 - 12 = 38",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

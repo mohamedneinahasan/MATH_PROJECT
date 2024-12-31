@@ -1,9 +1,0 @@
-{
-    "question_id": 999,
-    "algebraic_word_problem": "If the value of x in the equation 3x = 12 is what, what is x?",
-    "reference_answer": "4",
-    "step_by_step_solution": "Let x be the unknown; 3x = 12; x = 12 / 3 = 4.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

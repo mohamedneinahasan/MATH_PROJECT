@@ -1,9 +1,0 @@
-{
-    "question_id": 39,
-    "algebraic_word_problem": "A company sells two types of chairs. Chair A costs $30, and Chair B costs $50. If 60 chairs are sold for a total of $2,100, how many of each type were sold?",
-    "reference_answer": "35 Chair A and 25 Chair B",
-    "step_by_step_solution": "Let number of Chair A = x, number of Chair B = y\nx + y = 60\n30x + 50y = 2100\nSolve system of equations",
-    "predicted_answer": "",
-    "topic": "Systems of Equations",
-    "difficulty": "Hard"
-}

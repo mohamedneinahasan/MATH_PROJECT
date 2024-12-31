@@ -1,9 +1,0 @@
-{
-    "question_id": 729,
-    "algebraic_word_problem": "If A = [[1, 2], [3, 4]] and B = [[5, 6], [7, 8]], what is A + B?",
-    "reference_answer": "[[6, 8], [10, 12]]",
-    "step_by_step_solution": "Add corresponding elements: [[1 + 5, 2 + 6], [3 + 7, 4 + 8]] = [[6, 8], [10, 12]].",
-    "predicted_answer": "",
-    "topic": "Matrix Algebra",
-    "difficulty": "Medium"
-}

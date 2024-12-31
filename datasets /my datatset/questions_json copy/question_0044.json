@@ -1,9 +1,0 @@
-{
-    "question_id": 44,
-    "algebraic_word_problem": "A notebook costs $4.50. How much will 5 notebooks cost?",
-    "reference_answer": "$22.50",
-    "step_by_step_solution": "5 notebooks * $4.50/notebook = $22.50",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 356,
-    "algebraic_word_problem": "If 50% of a class of 40 students are boys, how many girls are in the class?",
-    "reference_answer": "20 girls",
-    "step_by_step_solution": "Number of boys = 50% of 40 = 20. Number of girls = Total students - Number of boys = 40 - 20 = 20.",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

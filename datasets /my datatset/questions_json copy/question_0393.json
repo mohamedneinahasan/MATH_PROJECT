@@ -1,9 +1,0 @@
-{
-    "question_id": 393,
-    "algebraic_word_problem": "A train travels 120 miles in 2 hours. How long will it take to travel 300 miles?",
-    "reference_answer": "5 hours",
-    "step_by_step_solution": "Speed = Distance / Time = 120 miles / 2 hours = 60 mph. Time = Distance / Speed = 300 miles / 60 mph = 5 hours.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

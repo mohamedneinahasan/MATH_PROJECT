@@ -1,9 +1,0 @@
-{
-    "question_id": 572,
-    "algebraic_word_problem": "Two cars start from the same point and drive in opposite directions. Car A travels at 60 km/h and Car B at 90 km/h. How far apart will they be after 2 hours?",
-    "reference_answer": "300 km",
-    "step_by_step_solution": "Distance traveled by A = 60 km/h * 2 h = 120 km; Distance traveled by B = 90 km/h * 2 h = 180 km; Total distance apart = 120 km + 180 km = 300 km.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

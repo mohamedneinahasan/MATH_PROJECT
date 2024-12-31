@@ -1,9 +1,0 @@
-{
-    "question_id": 863,
-    "algebraic_word_problem": "The ages of a father and son add up to 40 years. If the father is twice as old as the son, how old are they?",
-    "reference_answer": "Father is 26, son is 14",
-    "step_by_step_solution": "Let son's age = x; Father's age = 2x; x + 2x = 40; 3x = 40; x = 13.33, Father = 26.67.",
-    "predicted_answer": "",
-    "topic": "Word Problems",
-    "difficulty": "Hard"
-}

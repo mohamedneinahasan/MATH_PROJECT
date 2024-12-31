@@ -1,9 +1,0 @@
-{
-    "question_id": 316,
-    "algebraic_word_problem": "If a cake is cut into 12 equal slices and you eat 3 slices, what fraction of the cake is left?",
-    "reference_answer": "3/4",
-    "step_by_step_solution": "Slices left = Total slices - Slices eaten = 12 - 3 = 9 slices left\nFraction of cake left = 9/12 = 3/4.",
-    "predicted_answer": "",
-    "topic": "Fraction Problems",
-    "difficulty": "Easy"
-}

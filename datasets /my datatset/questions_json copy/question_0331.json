@@ -1,9 +1,0 @@
-{
-    "question_id": 331,
-    "algebraic_word_problem": "If a box contains 6 red balls and 4 blue balls, what is the probability of picking a red ball?",
-    "reference_answer": "3/5",
-    "step_by_step_solution": "Total balls = 6 + 4 = 10. Probability of red ball = Number of red balls / Total balls = 6 / 10 = 3/5.",
-    "predicted_answer": "",
-    "topic": "Probability",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 882,
-    "algebraic_word_problem": "If x + 12 = 24, what is the value of x?",
-    "reference_answer": "x = 12",
-    "step_by_step_solution": "Subtract 12 from both sides: x = 24 - 12 = 12.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

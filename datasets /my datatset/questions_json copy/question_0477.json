@@ -1,9 +1,0 @@
-{
-    "question_id": 477,
-    "algebraic_word_problem": "A car is traveling at 60 mph for 2 hours. How far does it travel?",
-    "reference_answer": "120 miles",
-    "step_by_step_solution": "Distance = Speed \u00d7 Time = 60 mph \u00d7 2 hours = 120 miles.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

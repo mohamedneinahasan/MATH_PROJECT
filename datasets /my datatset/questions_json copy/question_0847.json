@@ -1,9 +1,0 @@
-{
-    "question_id": 847,
-    "algebraic_word_problem": "If 5x - 3 = 2, what is the value of x?",
-    "reference_answer": "x = 1",
-    "step_by_step_solution": "Add 3 to both sides: 5x = 5; Divide by 5: x = 1.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

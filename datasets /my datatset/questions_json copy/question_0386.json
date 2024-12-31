@@ -1,9 +1,0 @@
-{
-    "question_id": 386,
-    "algebraic_word_problem": "A rectangle has a length of 4 meters more than its width, and its area is 60 m\u00b2. What are the dimensions?",
-    "reference_answer": "Width = 6 m, Length = 10 m",
-    "step_by_step_solution": "Let width = x, then length = x + 4. Area = length * width = x(x + 4) = 60. Solving gives x\u00b2 + 4x - 60 = 0. Factoring gives (x - 6)(x + 10) = 0, so width = 6 m.",
-    "predicted_answer": "",
-    "topic": "Algebra",
-    "difficulty": "Hard"
-}

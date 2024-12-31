@@ -1,9 +1,0 @@
-{
-    "question_id": 202,
-    "algebraic_word_problem": "If 3x + 4 = 19, what is the value of x?",
-    "reference_answer": "5",
-    "step_by_step_solution": "3x + 4 = 19\n3x = 19 - 4 = 15\nx = 15 / 3 = 5",
-    "predicted_answer": "",
-    "topic": "Algebraic Equations",
-    "difficulty": "Easy"
-}

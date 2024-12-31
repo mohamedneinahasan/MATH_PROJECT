@@ -1,9 +1,0 @@
-{
-    "question_id": 251,
-    "algebraic_word_problem": "If 7x - 2 = 19, what is the value of x?",
-    "reference_answer": "3",
-    "step_by_step_solution": "7x - 2 = 19\n7x = 19 + 2 = 21\nx = 21 / 7 = 3",
-    "predicted_answer": "",
-    "topic": "Algebraic Equations",
-    "difficulty": "Easy"
-}

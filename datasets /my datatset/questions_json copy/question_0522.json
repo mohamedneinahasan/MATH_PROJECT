@@ -1,9 +1,0 @@
-{
-    "question_id": 522,
-    "algebraic_word_problem": "If you have 50% of a number and that number is 200, what is 50% of that number?",
-    "reference_answer": "100",
-    "step_by_step_solution": "50% of 200 = 0.50 \u00d7 200 = 100.",
-    "predicted_answer": "",
-    "topic": "Percentage",
-    "difficulty": "Easy"
-}

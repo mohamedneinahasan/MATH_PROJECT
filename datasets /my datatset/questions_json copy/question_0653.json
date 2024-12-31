@@ -1,9 +1,0 @@
-{
-    "question_id": 653,
-    "algebraic_word_problem": "A car rental agency charges a base fee of $40 and $0.20 per km. If a customer is charged $80, how many kilometers did they drive?",
-    "reference_answer": "200 km",
-    "step_by_step_solution": "Let distance = x; Total cost = 40 + 0.20x = 80; Solve for x.",
-    "predicted_answer": "",
-    "topic": "Linear Equations",
-    "difficulty": "Medium"
-}

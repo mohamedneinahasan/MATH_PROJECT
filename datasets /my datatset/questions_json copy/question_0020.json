@@ -1,9 +1,0 @@
-{
-    "question_id": 20,
-    "algebraic_word_problem": "A mixture contains 40% salt. If there are 10 liters of mixture, how much salt is in it?",
-    "reference_answer": "4 liters of salt",
-    "step_by_step_solution": "Amount of salt = 40% of 10 liters = 0.4 * 10 = 4 liters",
-    "predicted_answer": "",
-    "topic": "Mixture Problems",
-    "difficulty": "Medium"
-}

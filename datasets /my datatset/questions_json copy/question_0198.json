@@ -1,9 +1,0 @@
-{
-    "question_id": 198,
-    "algebraic_word_problem": "A bottle contains 1.5 liters of water. If you drink 0.6 liters, how much is left?",
-    "reference_answer": "0.9 liters",
-    "step_by_step_solution": "Amount left = Total amount - Amount consumed\n0.9 liters = 1.5 liters - 0.6 liters",
-    "predicted_answer": "",
-    "topic": "Subtraction",
-    "difficulty": "Easy"
-}

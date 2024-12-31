@@ -1,9 +1,0 @@
-{
-    "question_id": 153,
-    "algebraic_word_problem": "A family spends 30% of their income on rent. If their monthly income is $4,000, how much do they spend on rent?",
-    "reference_answer": "$1,200",
-    "step_by_step_solution": "Rent = 30% of 4000 = 0.30 * 4000 = $1,200",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

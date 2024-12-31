@@ -1,9 +1,0 @@
-{
-    "question_id": 355,
-    "algebraic_word_problem": "If a student has 5 notebooks and buys 3 more, how many notebooks does he have now?",
-    "reference_answer": "8 notebooks",
-    "step_by_step_solution": "Total notebooks = Original notebooks + Bought notebooks = 5 + 3 = 8 notebooks.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

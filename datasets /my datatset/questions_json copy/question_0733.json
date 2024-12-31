@@ -1,9 +1,0 @@
-{
-    "question_id": 733,
-    "algebraic_word_problem": "If a quadratic function has its vertex at (3, -5), what is its minimum value?",
-    "reference_answer": "-5",
-    "step_by_step_solution": "The minimum value of a quadratic function occurs at the vertex.",
-    "predicted_answer": "",
-    "topic": "Quadratic Functions",
-    "difficulty": "Medium"
-}

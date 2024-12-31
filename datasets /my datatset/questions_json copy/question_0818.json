@@ -1,9 +1,0 @@
-{
-    "question_id": 818,
-    "algebraic_word_problem": "A bag contains 3 red, 5 yellow, and 2 green balls. If one ball is drawn at random, what is the probability it is not yellow?",
-    "reference_answer": "4/10 or 2/5",
-    "step_by_step_solution": "Total balls = 3 + 5 + 2 = 10; Non-yellow balls = 3 + 2 = 5; Probability = 5/10 = 1/2.",
-    "predicted_answer": "",
-    "topic": "Probability",
-    "difficulty": "Easy"
-}

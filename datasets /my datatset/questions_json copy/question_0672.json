@@ -1,9 +1,0 @@
-{
-    "question_id": 672,
-    "algebraic_word_problem": "A recipe requires 3 cups of flour. If you want to make 4 batches, how many cups of flour do you need?",
-    "reference_answer": "12 cups",
-    "step_by_step_solution": "3 cups \u00d7 4 batches = 12 cups",
-    "predicted_answer": "",
-    "topic": "Basic Multiplication",
-    "difficulty": "Easy"
-}

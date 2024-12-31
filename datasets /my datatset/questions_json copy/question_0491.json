@@ -1,9 +1,0 @@
-{
-    "question_id": 491,
-    "algebraic_word_problem": "If a man is 4 years older than his sister and his sister is 10 years old, how old is the man?",
-    "reference_answer": "14 years old",
-    "step_by_step_solution": "Man's age = Sister's age + 4 = 10 + 4 = 14.",
-    "predicted_answer": "",
-    "topic": "Age Problems",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 739,
-    "algebraic_word_problem": "What is the value of x in the equation 3(x + 4) = 21?",
-    "reference_answer": "x = 1",
-    "step_by_step_solution": "Distribute: 3x + 12 = 21; Subtract 12 from both sides: 3x = 9; Divide by 3: x = 3.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

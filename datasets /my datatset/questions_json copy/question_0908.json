@@ -1,9 +1,0 @@
-{
-    "question_id": 908,
-    "algebraic_word_problem": "If the sum of three consecutive integers is 30, what are the integers?",
-    "reference_answer": "9, 10, and 11",
-    "step_by_step_solution": "Let the integers be x, x + 1, x + 2; x + (x + 1) + (x + 2) = 30; 3x + 3 = 30; 3x = 27; x = 9.",
-    "predicted_answer": "",
-    "topic": "Word Problems",
-    "difficulty": "Medium"
-}

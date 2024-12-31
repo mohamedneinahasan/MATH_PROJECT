@@ -1,9 +1,0 @@
-{
-    "question_id": 554,
-    "algebraic_word_problem": "A car's value depreciates by 15% each year. If the car was originally worth $20,000, what will its value be after 3 years?",
-    "reference_answer": "$12,257.43",
-    "step_by_step_solution": "Value after 3 years = 20000 * (1 - 0.15)^3 = 20000 * (0.85)^3 = $12,257.43.",
-    "predicted_answer": "",
-    "topic": "Finance",
-    "difficulty": "Hard"
-}

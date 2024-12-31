@@ -1,9 +1,0 @@
-{
-    "question_id": 62,
-    "algebraic_word_problem": "The ratio of cats to dogs in a shelter is 3:4. If there are 70 animals in total, how many are cats and how many are dogs?",
-    "reference_answer": "30 cats and 40 dogs",
-    "step_by_step_solution": "Let cats = 3x, dogs = 4x\nTotal = 3x + 4x = 70\n7x = 70\nx = 10\nCats = 3 * 10 = 30, Dogs = 4 * 10 = 40",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion Problems",
-    "difficulty": "Medium"
-}

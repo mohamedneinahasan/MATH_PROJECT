@@ -1,9 +1,0 @@
-{
-    "question_id": 497,
-    "algebraic_word_problem": "If a person runs 5 miles every day for a week, how many miles do they run in total?",
-    "reference_answer": "35 miles",
-    "step_by_step_solution": "Total miles = 5 miles/day \u00d7 7 days = 35 miles.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

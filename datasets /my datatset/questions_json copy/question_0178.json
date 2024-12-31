@@ -1,9 +1,0 @@
-{
-    "question_id": 178,
-    "algebraic_word_problem": "A rope is cut into 3 equal parts. If the total length of the rope is 21 meters, how long is each part?",
-    "reference_answer": "7 meters",
-    "step_by_step_solution": "Length of each part = Total length / 3 = 21 / 3 = 7 meters",
-    "predicted_answer": "",
-    "topic": "Division",
-    "difficulty": "Easy"
-}

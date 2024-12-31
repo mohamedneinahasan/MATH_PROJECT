@@ -1,9 +1,0 @@
-{
-    "question_id": 480,
-    "algebraic_word_problem": "If a book costs $15 and is on sale for 20% off, what is the sale price?",
-    "reference_answer": "$12",
-    "step_by_step_solution": "Discount = 0.20 * 15 = 3; Sale price = 15 - 3 = 12.",
-    "predicted_answer": "",
-    "topic": "Discount",
-    "difficulty": "Easy"
-}

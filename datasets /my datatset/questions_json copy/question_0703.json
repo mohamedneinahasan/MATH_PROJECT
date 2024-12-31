@@ -1,9 +1,0 @@
-{
-    "question_id": 703,
-    "algebraic_word_problem": "A person earns $3000 per month. If they save 20% of their income, how much do they save?",
-    "reference_answer": "$600",
-    "step_by_step_solution": "Savings = 20% of 3000 = 0.2 \u00d7 3000 = $600",
-    "predicted_answer": "",
-    "topic": "Percentage",
-    "difficulty": "Easy"
-}

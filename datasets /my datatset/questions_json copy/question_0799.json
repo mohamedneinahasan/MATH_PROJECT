@@ -1,9 +1,0 @@
-{
-    "question_id": 799,
-    "algebraic_word_problem": "If the cost of 5 apples is $2.50, how much would 12 apples cost?",
-    "reference_answer": "$6.00",
-    "step_by_step_solution": "Cost per apple = 2.50 / 5 = $0.50; Cost for 12 apples = 0.50 \u00d7 12 = $6.00.",
-    "predicted_answer": "",
-    "topic": "Word Problems",
-    "difficulty": "Easy"
-}

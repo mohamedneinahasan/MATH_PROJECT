@@ -1,9 +1,0 @@
-{
-    "question_id": 639,
-    "algebraic_word_problem": "An athlete runs around a 400-meter track. If they complete 6 laps, how far do they run?",
-    "reference_answer": "2,400 meters",
-    "step_by_step_solution": "Distance = 400 * 6 = 2,400 meters.",
-    "predicted_answer": "",
-    "topic": "Basic Algebra",
-    "difficulty": "Easy"
-}

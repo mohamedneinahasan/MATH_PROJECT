@@ -1,9 +1,0 @@
-{
-    "question_id": 409,
-    "algebraic_word_problem": "A store sells a pair of shoes for $60 after a 20% discount. What was the original price?",
-    "reference_answer": "$75",
-    "step_by_step_solution": "Let the original price be x. After a 20% discount, the price = 0.8x = 60. So, x = 60/0.8 = 75.",
-    "predicted_answer": "",
-    "topic": "Discount",
-    "difficulty": "Hard"
-}

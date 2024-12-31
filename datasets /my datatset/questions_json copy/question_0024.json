@@ -1,9 +1,0 @@
-{
-    "question_id": 24,
-    "algebraic_word_problem": "A rectangular field has a perimeter of 40 meters, and its area is 96 square meters. What are the dimensions of the field?",
-    "reference_answer": "8 meters by 12 meters",
-    "step_by_step_solution": "Let length = l and width = w\nPerimeter = 2(l + w) = 40\nArea = l * w = 96\nSolve system of equations: l + w = 20, lw = 96",
-    "predicted_answer": "",
-    "topic": "Quadratic Equations",
-    "difficulty": "Hard"
-}

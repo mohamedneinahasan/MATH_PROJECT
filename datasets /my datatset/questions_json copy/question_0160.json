@@ -1,9 +1,0 @@
-{
-    "question_id": 160,
-    "algebraic_word_problem": "A man buys a car for $20,000. After a year, its value decreases by 15%. What is the value of the car after a year?",
-    "reference_answer": "$17,000",
-    "step_by_step_solution": "Depreciation = 15% of 20000 = 0.15 * 20000 = $3,000\nValue after one year = 20000 - 3000 = $17,000",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

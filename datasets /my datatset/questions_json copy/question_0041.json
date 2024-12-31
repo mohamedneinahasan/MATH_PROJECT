@@ -1,9 +1,0 @@
-{
-    "question_id": 41,
-    "algebraic_word_problem": "Machine X can complete a task in 9 hours, and Machine Y can complete it in 12 hours. After working together for 4 hours, Machine X breaks down. How long will Machine Y take to finish the task?",
-    "reference_answer": "5.33 hours",
-    "step_by_step_solution": "Rate of Machine X = 1/9 job/hour, Rate of Machine Y = 1/12 job/hour\nTogether for 4 hours: (1/9 + 1/12) * 4 = 7/18 job completed\nRemaining job = 1 - 7/18 = 11/18\nTime for Machine Y to finish = (11/18) / (1/12) = 7.33 hours",
-    "predicted_answer": "",
-    "topic": "Work Problems (Complex)",
-    "difficulty": "Hard"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 860,
-    "algebraic_word_problem": "If the perimeter of a square is 40 cm, what is the length of one side?",
-    "reference_answer": "10 cm",
-    "step_by_step_solution": "Perimeter = 4 \u00d7 side; 40 = 4 \u00d7 side; Side = 40 / 4 = 10 cm.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

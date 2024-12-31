@@ -1,9 +1,0 @@
-{
-    "question_id": 399,
-    "algebraic_word_problem": "If a recipe calls for 4 cups of flour for 12 cookies, how many cups of flour are needed for 30 cookies?",
-    "reference_answer": "10 cups",
-    "step_by_step_solution": "Flour per cookie = 4 cups / 12 cookies = 1/3 cup. For 30 cookies: 30 * (1/3) = 10 cups.",
-    "predicted_answer": "",
-    "topic": "Proportion",
-    "difficulty": "Hard"
-}

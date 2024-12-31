@@ -1,9 +1,0 @@
-{
-    "question_id": 96,
-    "algebraic_word_problem": "A boat can travel at 15 miles per hour in still water. If the current is 3 miles per hour, what is the boat's speed upstream?",
-    "reference_answer": "12 miles per hour",
-    "step_by_step_solution": "Upstream speed = boat speed - current speed = 15 - 3 = 12 miles/hour",
-    "predicted_answer": "",
-    "topic": "Current-Speed Problems",
-    "difficulty": "Medium"
-}

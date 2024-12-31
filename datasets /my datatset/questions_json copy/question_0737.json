@@ -1,9 +1,0 @@
-{
-    "question_id": 737,
-    "algebraic_word_problem": "Find the determinant of the matrix A = [[3, 2], [1, 4]].",
-    "reference_answer": "10",
-    "step_by_step_solution": "Determinant = (3)(4) - (2)(1) = 12 - 2 = 10.",
-    "predicted_answer": "",
-    "topic": "Matrix Algebra",
-    "difficulty": "Medium"
-}

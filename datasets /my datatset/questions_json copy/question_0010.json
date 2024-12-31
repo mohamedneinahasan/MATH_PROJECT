@@ -1,9 +1,0 @@
-{
-    "question_id": 10,
-    "algebraic_word_problem": "A rectangular garden has a perimeter of 30 meters, and its area is 50 square meters. What are the dimensions of the garden?",
-    "reference_answer": "5 meters by 10 meters",
-    "step_by_step_solution": "Let length = l and width = w\nPerimeter = 2(l + w) = 30\nArea = l * w = 50\nSolve system of equations: l + w = 15, lw = 50",
-    "predicted_answer": "",
-    "topic": "Quadratic Equations",
-    "difficulty": "Hard"
-}

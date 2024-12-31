@@ -1,9 +1,0 @@
-{
-    "question_id": 104,
-    "algebraic_word_problem": "If a rectangle has a length of 10 cm and a width of 5 cm, what is its perimeter?",
-    "reference_answer": "30 cm",
-    "step_by_step_solution": "Perimeter = 2 * (Length + Width) = 2 * (10 + 5) = 30 cm",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

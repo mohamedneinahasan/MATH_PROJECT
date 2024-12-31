@@ -1,9 +1,0 @@
-{
-    "question_id": 604,
-    "algebraic_word_problem": "In a competition, there are 30 questions. Each correct answer awards 4 points, and each incorrect answer deducts 1 point. If a contestant scores 76 points, how many questions did they answer correctly?",
-    "reference_answer": "22 correct answers",
-    "step_by_step_solution": "Let correct answers = x and incorrect = y; x + y = 30; 4x - y = 76; Solve for x and y.",
-    "predicted_answer": "",
-    "topic": "Algebra",
-    "difficulty": "Hard"
-}

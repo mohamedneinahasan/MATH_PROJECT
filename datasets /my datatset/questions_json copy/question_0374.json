@@ -1,9 +1,0 @@
-{
-    "question_id": 374,
-    "algebraic_word_problem": "A triangle has sides of lengths 7 cm, 8 cm, and 9 cm. What is its area using Heron's formula?",
-    "reference_answer": "26.83 cm\u00b2",
-    "step_by_step_solution": "s = (7 + 8 + 9) / 2 = 12. Area = \u221a(s(s-a)(s-b)(s-c)) = \u221a(12(12-7)(12-8)(12-9)) = \u221a(12*5*4*3) = \u221a720 = 26.83 cm\u00b2.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

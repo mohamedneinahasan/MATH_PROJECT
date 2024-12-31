@@ -1,9 +1,0 @@
-{
-    "question_id": 686,
-    "algebraic_word_problem": "If a train travels at a speed of 75 km/h, how far will it go in 4 hours?",
-    "reference_answer": "300 km",
-    "step_by_step_solution": "Distance = speed \u00d7 time = 75 km/h \u00d7 4 h = 300 km",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

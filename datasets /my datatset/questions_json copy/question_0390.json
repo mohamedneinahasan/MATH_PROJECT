@@ -1,9 +1,0 @@
-{
-    "question_id": 390,
-    "algebraic_word_problem": "The sum of the first 10 positive integers is what?",
-    "reference_answer": "55",
-    "step_by_step_solution": "Sum = n(n + 1) / 2; Sum = 10(10 + 1) / 2 = 10(11) / 2 = 55.",
-    "predicted_answer": "",
-    "topic": "Sequences",
-    "difficulty": "Hard"
-}

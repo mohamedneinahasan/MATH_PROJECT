@@ -1,9 +1,0 @@
-{
-    "question_id": 976,
-    "algebraic_word_problem": "If the length of a rectangle is doubled and the width remains the same, how does the area change?",
-    "reference_answer": "The area doubles.",
-    "step_by_step_solution": "Let length = l and width = w; Area = l \u00d7 w; New area = 2l \u00d7 w = 2 \u00d7 (l \u00d7 w).",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

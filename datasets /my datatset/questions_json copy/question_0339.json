@@ -1,9 +1,0 @@
-{
-    "question_id": 339,
-    "algebraic_word_problem": "A rectangular plot of land is 20 meters long and 10 meters wide. What is its perimeter?",
-    "reference_answer": "60 meters",
-    "step_by_step_solution": "Perimeter = 2(length + width) = 2(20 + 10) = 60 meters.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

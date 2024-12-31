@@ -1,9 +1,0 @@
-{
-    "question_id": 628,
-    "algebraic_word_problem": "A train departs at 9 AM and travels at 80 km/h. A second train leaves the same station at 11 AM and travels at 100 km/h in the same direction. At what time will the second train catch up with the first?",
-    "reference_answer": "3 PM",
-    "step_by_step_solution": "Distance first train travels = 80 * 2 = 160 km; Relative speed = 100 - 80 = 20 km/h; Time to catch up = 160 / 20 = 8 hours; 9 AM + 8 hours = 3 PM.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Medium"
-}

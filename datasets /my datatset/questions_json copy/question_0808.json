@@ -1,9 +1,0 @@
-{
-    "question_id": 808,
-    "algebraic_word_problem": "A store sells pencils for $0.50 each and pens for $1.20 each. If a customer buys 10 items for $8.20, how many pens did they buy?",
-    "reference_answer": "4 pens",
-    "step_by_step_solution": "Let x = number of pens; 10 - x = number of pencils; 1.20x + 0.50(10 - x) = 8.20; Solve to find x.",
-    "predicted_answer": "",
-    "topic": "Word Problems",
-    "difficulty": "Medium"
-}

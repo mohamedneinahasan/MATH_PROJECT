@@ -1,9 +1,0 @@
-{
-    "question_id": 715,
-    "algebraic_word_problem": "If a baker makes 240 cookies in 4 hours, how many cookies does he make in 1 hour?",
-    "reference_answer": "60 cookies",
-    "step_by_step_solution": "Cookies per hour = 240 cookies \u00f7 4 hours = 60 cookies",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

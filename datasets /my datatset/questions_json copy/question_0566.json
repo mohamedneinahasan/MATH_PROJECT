@@ -1,9 +1,0 @@
-{
-    "question_id": 566,
-    "algebraic_word_problem": "The difference between two numbers is 20, and their product is 96. What are the numbers?",
-    "reference_answer": "16 and 36",
-    "step_by_step_solution": "Let the numbers be x and y; x - y = 20; xy = 96; Substitute y = x - 20 into xy = 96: x(x - 20) = 96; Solve to get x = 36 and y = 16.",
-    "predicted_answer": "",
-    "topic": "Systems of Equations",
-    "difficulty": "Hard"
-}

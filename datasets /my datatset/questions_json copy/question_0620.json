@@ -1,9 +1,0 @@
-{
-    "question_id": 620,
-    "algebraic_word_problem": "An investor bought a certain number of shares for $15 each. He later sold them for $20 each, making a profit of $500. How many shares did he buy?",
-    "reference_answer": "100 shares",
-    "step_by_step_solution": "Let x = shares bought; Profit = 5x = 500; x = 500 / 5.",
-    "predicted_answer": "",
-    "topic": "Finance",
-    "difficulty": "Hard"
-}

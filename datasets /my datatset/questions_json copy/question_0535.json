@@ -1,9 +1,0 @@
-{
-    "question_id": 535,
-    "algebraic_word_problem": "If you buy a pair of shoes for $80 and then sell them for $100, what is your profit?",
-    "reference_answer": "$20",
-    "step_by_step_solution": "Profit = Selling price - Cost price = 100 - 80 = $20.",
-    "predicted_answer": "",
-    "topic": "Profit and Loss",
-    "difficulty": "Easy"
-}

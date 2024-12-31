@@ -1,9 +1,0 @@
-{
-    "question_id": 58,
-    "algebraic_word_problem": "A rectangle has a perimeter of 60 meters. If the length is twice the width, what are the dimensions of the rectangle?",
-    "reference_answer": "Length = 20 meters, Width = 10 meters",
-    "step_by_step_solution": "Let width = w, length = 2w\nPerimeter = 2(l + w) = 60\n2(2w + w) = 60\n6w = 60\nw = 10, l = 20",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

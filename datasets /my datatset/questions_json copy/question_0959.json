@@ -1,9 +1,0 @@
-{
-    "question_id": 959,
-    "algebraic_word_problem": "If a bottle contains 2 liters of juice and you drink 500 ml, how much juice is left?",
-    "reference_answer": "1.5 liters",
-    "step_by_step_solution": "Juice left = total juice - juice drunk = 2 - 0.5 = 1.5.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 438,
-    "algebraic_word_problem": "If the total cost of 4 pens and 3 notebooks is $20, and each pen costs $2, how much does each notebook cost?",
-    "reference_answer": "$4",
-    "step_by_step_solution": "Let the cost of a notebook be x. Then: 4(2) + 3x = 20; 8 + 3x = 20; 3x = 12; x = 4.",
-    "predicted_answer": "",
-    "topic": "Algebra",
-    "difficulty": "Hard"
-}

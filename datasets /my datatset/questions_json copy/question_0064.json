@@ -1,9 +1,0 @@
-{
-    "question_id": 64,
-    "algebraic_word_problem": "A rectangular garden has an area of 200 square meters. If the length is 10 meters more than the width, what are the dimensions of the garden?",
-    "reference_answer": "Length = 20 meters, Width = 10 meters",
-    "step_by_step_solution": "Let width = w, length = w + 10\nArea = l * w = 200\n(w + 10)w = 200\nSolve quadratic equation",
-    "predicted_answer": "",
-    "topic": "Quadratic Equations",
-    "difficulty": "Hard"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 583,
-    "algebraic_word_problem": "If the sum of the squares of two consecutive integers is 365, what are the integers?",
-    "reference_answer": "18 and 19",
-    "step_by_step_solution": "Let the integers be x and x + 1; x\u00b2 + (x + 1)\u00b2 = 365; Solve the equation to find x.",
-    "predicted_answer": "",
-    "topic": "Quadratic Equations",
-    "difficulty": "Hard"
-}

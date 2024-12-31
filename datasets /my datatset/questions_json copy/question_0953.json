@@ -1,9 +1,0 @@
-{
-    "question_id": 953,
-    "algebraic_word_problem": "If a tank can hold 150 liters of water and it is currently holding 30 liters, how much more water is needed to fill it?",
-    "reference_answer": "120 liters",
-    "step_by_step_solution": "Water needed = total capacity - current amount = 150 - 30 = 120.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

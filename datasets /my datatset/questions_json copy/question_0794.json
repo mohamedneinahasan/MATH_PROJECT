@@ -1,9 +1,0 @@
-{
-    "question_id": 794,
-    "algebraic_word_problem": "The sum of three consecutive integers is 48. What are the integers?",
-    "reference_answer": "15, 16, and 17",
-    "step_by_step_solution": "Let integers be n, n+1, n+2; n + (n + 1) + (n + 2) = 48; 3n + 3 = 48; 3n = 45; n = 15.",
-    "predicted_answer": "",
-    "topic": "Word Problems",
-    "difficulty": "Medium"
-}

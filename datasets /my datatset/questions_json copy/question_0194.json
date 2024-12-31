@@ -1,9 +1,0 @@
-{
-    "question_id": 194,
-    "algebraic_word_problem": "A rectangular room has a length of 12 meters and a width of 8 meters. What is its perimeter?",
-    "reference_answer": "40 meters",
-    "step_by_step_solution": "Perimeter = 2(Length + Width) = 2(12 + 8) = 40 meters",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

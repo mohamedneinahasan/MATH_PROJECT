@@ -1,9 +1,0 @@
-{
-    "question_id": 143,
-    "algebraic_word_problem": "If a piece of fabric is 40 inches long and you cut it into 4 equal pieces, how long is each piece?",
-    "reference_answer": "10 inches",
-    "step_by_step_solution": "Length of each piece = 40 / 4 = 10 inches",
-    "predicted_answer": "",
-    "topic": "Division",
-    "difficulty": "Easy"
-}

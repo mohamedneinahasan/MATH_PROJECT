@@ -1,9 +1,0 @@
-{
-    "question_id": 272,
-    "algebraic_word_problem": "If 5y - 3 = 22, what is the value of y?",
-    "reference_answer": "5",
-    "step_by_step_solution": "5y - 3 = 22\n5y = 22 + 3 = 25\ny = 25 / 5 = 5.",
-    "predicted_answer": "",
-    "topic": "Algebraic Equations",
-    "difficulty": "Easy"
-}

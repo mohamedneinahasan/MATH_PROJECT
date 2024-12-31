@@ -1,9 +1,0 @@
-{
-    "question_id": 600,
-    "algebraic_word_problem": "A boat can go 30 km/h in still water. If it travels upstream against a current of 10 km/h, what is the speed of the boat relative to the riverbank?",
-    "reference_answer": "20 km/h",
-    "step_by_step_solution": "Speed upstream = speed in still water - speed of current; 30 km/h - 10 km/h = 20 km/h.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

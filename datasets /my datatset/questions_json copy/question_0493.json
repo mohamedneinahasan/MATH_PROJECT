@@ -1,9 +1,0 @@
-{
-    "question_id": 493,
-    "algebraic_word_problem": "A recipe requires 3 cups of flour to make 12 cookies. How much flour is needed to make 30 cookies?",
-    "reference_answer": "7.5 cups",
-    "step_by_step_solution": "Flour needed = (30/12) * 3 = 7.5 cups.",
-    "predicted_answer": "",
-    "topic": "Proportions",
-    "difficulty": "Medium"
-}

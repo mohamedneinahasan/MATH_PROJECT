@@ -1,9 +1,0 @@
-{
-    "question_id": 403,
-    "algebraic_word_problem": "If the sum of the angles in a triangle is 180 degrees and two angles are 70 degrees and 60 degrees, what is the third angle?",
-    "reference_answer": "50 degrees",
-    "step_by_step_solution": "Third angle = 180 - (70 + 60) = 50 degrees.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

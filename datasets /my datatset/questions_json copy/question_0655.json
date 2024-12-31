@@ -1,9 +1,0 @@
-{
-    "question_id": 655,
-    "algebraic_word_problem": "A ladder leans against a wall with the base 8 meters away. If the ladder is 10 meters long, what is the height it reaches on the wall?",
-    "reference_answer": "6 meters",
-    "step_by_step_solution": "Use the Pythagorean theorem: 10^2 = 8^2 + height^2; Solve for height.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

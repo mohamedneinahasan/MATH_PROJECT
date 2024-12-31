@@ -1,9 +1,0 @@
-{
-    "question_id": 195,
-    "algebraic_word_problem": "A man earns $800 per week. If he saves 20% of his income, how much does he save per week?",
-    "reference_answer": "$160",
-    "step_by_step_solution": "Savings = 20% of 800 = 0.20 * 800 = $160",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Easy"
-}

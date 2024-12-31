@@ -1,9 +1,0 @@
-{
-    "question_id": 557,
-    "algebraic_word_problem": "A boat travels 15 km upstream and 25 km downstream in 5 hours. If the speed of the current is 2 km/h, what is the speed of the boat in still water?",
-    "reference_answer": "9 km/h",
-    "step_by_step_solution": "Let the speed of the boat be x km/h. Upstream speed = (x - 2) km/h, Downstream speed = (x + 2) km/h; 15/(x - 2) + 25/(x + 2) = 5; Solve for x = 9 km/h.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

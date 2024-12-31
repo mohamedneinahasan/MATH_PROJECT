@@ -1,9 +1,0 @@
-{
-    "question_id": 757,
-    "algebraic_word_problem": "If 3x - 7 = 5, what is the value of x?",
-    "reference_answer": "x = 4",
-    "step_by_step_solution": "Add 7 to both sides: 3x = 12; Divide by 3: x = 4.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

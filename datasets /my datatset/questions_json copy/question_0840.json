@@ -1,9 +1,0 @@
-{
-    "question_id": 840,
-    "algebraic_word_problem": "In a fruit basket, there are 8 apples and 12 oranges. What is the ratio of apples to oranges?",
-    "reference_answer": "2:3",
-    "step_by_step_solution": "Ratio = number of apples : number of oranges = 8:12 = 2:3.",
-    "predicted_answer": "",
-    "topic": "Ratios and Proportions",
-    "difficulty": "Easy"
-}

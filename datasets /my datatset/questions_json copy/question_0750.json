@@ -1,9 +1,0 @@
-{
-    "question_id": 750,
-    "algebraic_word_problem": "What is the value of x in the equation 4(x - 1) = 16?",
-    "reference_answer": "x = 5",
-    "step_by_step_solution": "Distribute: 4x - 4 = 16; Add 4 to both sides: 4x = 20; Divide by 4: x = 5.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Medium"
-}

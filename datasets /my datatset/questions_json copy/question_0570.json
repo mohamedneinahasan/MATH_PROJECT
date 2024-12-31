@@ -1,9 +1,0 @@
-{
-    "question_id": 570,
-    "algebraic_word_problem": "A company's revenue is modeled by R(x) = 100x - x\u00b2, where x is the number of items sold. What number of items sold maximizes revenue?",
-    "reference_answer": "50 items",
-    "step_by_step_solution": "The revenue function is a downward-opening parabola. The maximum occurs at x = -b/(2a) = -100/(2*(-1)) = 50.",
-    "predicted_answer": "",
-    "topic": "Calculus (Maxima/Minima)",
-    "difficulty": "Hard"
-}

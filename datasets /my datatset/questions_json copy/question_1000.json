@@ -1,9 +1,0 @@
-{
-    "question_id": 1000,
-    "algebraic_word_problem": "If you have $20 and spend $4.50, how much do you have left?",
-    "reference_answer": "$15.50",
-    "step_by_step_solution": "Amount left = total amount - amount spent = 20 - 4.5 = 15.5.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

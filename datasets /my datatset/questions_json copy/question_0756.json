@@ -1,9 +1,0 @@
-{
-    "question_id": 756,
-    "algebraic_word_problem": "If a train travels at 90 km/h, how long will it take to travel 270 km?",
-    "reference_answer": "3 hours",
-    "step_by_step_solution": "Time = Distance / Speed = 270 km / 90 km/h = 3 hours.",
-    "predicted_answer": "",
-    "topic": "Word Problems",
-    "difficulty": "Easy"
-}

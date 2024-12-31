@@ -1,9 +1,0 @@
-{
-    "question_id": 115,
-    "algebraic_word_problem": "If 30% of a number is 150, what is the number?",
-    "reference_answer": "500",
-    "step_by_step_solution": "Let the number = x. Then, 0.30x = 150\nx = 150 / 0.30 = 500",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

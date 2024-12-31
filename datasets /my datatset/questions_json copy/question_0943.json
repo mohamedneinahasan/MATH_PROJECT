@@ -1,9 +1,0 @@
-{
-    "question_id": 943,
-    "algebraic_word_problem": "What is the volume of a rectangular prism with length 5 cm, width 4 cm, and height 3 cm?",
-    "reference_answer": "60 cm\u00b3",
-    "step_by_step_solution": "Volume = length \u00d7 width \u00d7 height = 5 \u00d7 4 \u00d7 3 = 60.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

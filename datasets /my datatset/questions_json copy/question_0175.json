@@ -1,9 +1,0 @@
-{
-    "question_id": 175,
-    "algebraic_word_problem": "A shirt originally costs $40. If a store applies a 20% discount, what is the discounted price?",
-    "reference_answer": "$32",
-    "step_by_step_solution": "Discount = 20% of 40 = 0.20 * 40 = $8\nDiscounted price = 40 - 8 = $32",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Easy"
-}

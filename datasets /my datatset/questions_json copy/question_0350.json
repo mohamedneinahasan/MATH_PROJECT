@@ -1,9 +1,0 @@
-{
-    "question_id": 350,
-    "algebraic_word_problem": "A store sells pencils for $0.50 each. How much do 10 pencils cost?",
-    "reference_answer": "$5.00",
-    "step_by_step_solution": "Total cost = Price per pencil * Number of pencils = 0.50 * 10 = $5.00.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

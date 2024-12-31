@@ -1,9 +1,0 @@
-{
-    "question_id": 45,
-    "algebraic_word_problem": "Tom is 3 years younger than Jack. If Jack is 15, how old is Tom?",
-    "reference_answer": "12 years old",
-    "step_by_step_solution": "Tom = Jack's age - 3 = 15 - 3 = 12",
-    "predicted_answer": "",
-    "topic": "Age Problems (Basic)",
-    "difficulty": "Easy"
-}

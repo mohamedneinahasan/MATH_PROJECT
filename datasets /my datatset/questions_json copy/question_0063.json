@@ -1,9 +1,0 @@
-{
-    "question_id": 63,
-    "algebraic_word_problem": "A machine can complete a task in 12 hours, and another machine can complete it in 16 hours. How long will it take them to finish the task working together?",
-    "reference_answer": "6.86 hours",
-    "step_by_step_solution": "Rate of Machine 1 = 1/12 tasks/hour, Rate of Machine 2 = 1/16 tasks/hour\nTogether: 1/12 + 1/16 = 7/48\nTime = 1 / (7/48) = 6.86 hours",
-    "predicted_answer": "",
-    "topic": "Work Problems",
-    "difficulty": "Hard"
-}

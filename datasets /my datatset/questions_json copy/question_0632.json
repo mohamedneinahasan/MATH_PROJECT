@@ -1,9 +1,0 @@
-{
-    "question_id": 632,
-    "algebraic_word_problem": "A plane flies 1,200 km with a 60 km/h tailwind, taking 2 hours. What is the plane\u2019s airspeed in still air?",
-    "reference_answer": "540 km/h",
-    "step_by_step_solution": "Total speed = 1200 / 2 = 600 km/h; Airspeed = 600 - 60 = 540 km/h.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

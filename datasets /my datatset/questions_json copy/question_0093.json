@@ -1,9 +1,0 @@
-{
-    "question_id": 93,
-    "algebraic_word_problem": "If a person earns $50,000 a year and receives a 10% raise, what will their new salary be?",
-    "reference_answer": "$55,000",
-    "step_by_step_solution": "New salary = $50,000 * (1 + 0.10) = $55,000",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Easy"
-}

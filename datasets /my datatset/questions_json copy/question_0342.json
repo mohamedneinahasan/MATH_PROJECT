@@ -1,9 +1,0 @@
-{
-    "question_id": 342,
-    "algebraic_word_problem": "If a box can hold 10 kg of weight and you have 5 boxes, what is the total weight they can hold?",
-    "reference_answer": "50 kg",
-    "step_by_step_solution": "Total weight = Weight per box * Number of boxes = 10 kg * 5 = 50 kg.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 341,
-    "algebraic_word_problem": "A car travels 60 miles in 1 hour and then 90 miles in 2 hours. What is the total distance traveled?",
-    "reference_answer": "150 miles",
-    "step_by_step_solution": "Total distance = 60 miles + 90 miles = 150 miles.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

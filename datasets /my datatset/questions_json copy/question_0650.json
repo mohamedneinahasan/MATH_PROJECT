@@ -1,9 +1,0 @@
-{
-    "question_id": 650,
-    "algebraic_word_problem": "A river flows at 4 km/h, and a boat moves at 8 km/h in still water. How long will it take the boat to travel 16 km upstream?",
-    "reference_answer": "4 hours",
-    "step_by_step_solution": "Effective speed upstream = 8 - 4 = 4 km/h; Time = Distance / Speed = 16 / 4 = 4 hours.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 740,
-    "algebraic_word_problem": "If the sum of three consecutive integers is 54, what is the smallest integer?",
-    "reference_answer": "17",
-    "step_by_step_solution": "Let the integers be x, x+1, and x+2; x + (x+1) + (x+2) = 54; 3x + 3 = 54; 3x = 51; x = 17.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Medium"
-}

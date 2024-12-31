@@ -1,9 +1,0 @@
-{
-    "question_id": 192,
-    "algebraic_word_problem": "A man buys 6 apples at $1.20 each. How much does he spend in total?",
-    "reference_answer": "$7.20",
-    "step_by_step_solution": "Total cost = 6 * 1.20 = $7.20",
-    "predicted_answer": "",
-    "topic": "Multiplication",
-    "difficulty": "Easy"
-}

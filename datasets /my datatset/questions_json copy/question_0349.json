@@ -1,9 +1,0 @@
-{
-    "question_id": 349,
-    "algebraic_word_problem": "If a class has 15 boys and 10 girls, what is the ratio of boys to girls?",
-    "reference_answer": "3:2",
-    "step_by_step_solution": "Ratio = Number of boys : Number of girls = 15 : 10 = 3:2.",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion",
-    "difficulty": "Easy"
-}

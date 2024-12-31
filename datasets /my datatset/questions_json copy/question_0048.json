@@ -1,9 +1,0 @@
-{
-    "question_id": 48,
-    "algebraic_word_problem": "A solution contains 40% salt. If there are 20 liters of solution, how much salt is in the solution?",
-    "reference_answer": "8 liters of salt",
-    "step_by_step_solution": "Amount of salt = 40% of 20 liters = 0.4 * 20 = 8 liters",
-    "predicted_answer": "",
-    "topic": "Mixture Problems",
-    "difficulty": "Medium"
-}

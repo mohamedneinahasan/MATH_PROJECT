@@ -1,9 +1,0 @@
-{
-    "question_id": 445,
-    "algebraic_word_problem": "If the price of a shirt is $40 after a 25% discount, what was the original price?",
-    "reference_answer": "$53.33",
-    "step_by_step_solution": "Let original price = x. So, 0.75x = 40, hence x = 40 / 0.75 \u2248 53.33.",
-    "predicted_answer": "",
-    "topic": "Discount",
-    "difficulty": "Hard"
-}

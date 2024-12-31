@@ -1,9 +1,0 @@
-{
-    "question_id": 656,
-    "algebraic_word_problem": "A phone bill includes a monthly base charge of $25 and $0.12 per text message. If the total bill is $40, how many texts were sent?",
-    "reference_answer": "125 messages",
-    "step_by_step_solution": "Let x = number of texts; 25 + 0.12x = 40; Solve for x.",
-    "predicted_answer": "",
-    "topic": "Linear Equations",
-    "difficulty": "Easy"
-}

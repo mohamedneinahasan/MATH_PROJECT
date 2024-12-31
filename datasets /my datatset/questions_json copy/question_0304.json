@@ -1,9 +1,0 @@
-{
-    "question_id": 304,
-    "algebraic_word_problem": "If a product originally costs $50 and is now on sale for $40, what is the percentage discount?",
-    "reference_answer": "20%",
-    "step_by_step_solution": "Discount = (Original Price - Sale Price) / Original Price * 100 = (50 - 40) / 50 * 100 = 20%.",
-    "predicted_answer": "",
-    "topic": "Discount Problems",
-    "difficulty": "Medium"
-}

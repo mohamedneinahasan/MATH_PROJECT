@@ -1,9 +1,0 @@
-{
-    "question_id": 249,
-    "algebraic_word_problem": "If a square has a perimeter of 48 meters, what is the length of each side?",
-    "reference_answer": "12 meters",
-    "step_by_step_solution": "Perimeter of square = 4 * side length\n48 = 4 * side length\nSide length = 48 / 4 = 12 meters",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

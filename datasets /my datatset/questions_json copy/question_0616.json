@@ -1,9 +1,0 @@
-{
-    "question_id": 616,
-    "algebraic_word_problem": "A theater has 25 rows of seats, with each row having 4 more seats than the row in front of it. If the first row has 20 seats, how many seats are there in total?",
-    "reference_answer": "1,450 seats",
-    "step_by_step_solution": "Arithmetic sequence: First term = 20, common difference = 4, number of terms = 25; Sum = 25/2 * (2 * 20 + (25 - 1) * 4).",
-    "predicted_answer": "",
-    "topic": "Sequences",
-    "difficulty": "Hard"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 944,
-    "algebraic_word_problem": "If a bakery sells 10 cookies for $15, how much do 50 cookies cost?",
-    "reference_answer": "$75",
-    "step_by_step_solution": "Cost per cookie = 15 / 10; Total cost for 50 cookies = (15 / 10) \u00d7 50 = 75.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Medium"
-}

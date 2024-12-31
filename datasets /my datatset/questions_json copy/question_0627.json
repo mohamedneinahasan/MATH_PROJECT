@@ -1,9 +1,0 @@
-{
-    "question_id": 627,
-    "algebraic_word_problem": "A bookstore sells novels and comics. Novels are priced at $15 each and comics at $5 each. If a customer buys 4 novels and 6 comics, what is the total amount they spend?",
-    "reference_answer": "$90",
-    "step_by_step_solution": "Total = (4 * 15) + (6 * 5) = 60 + 30 = $90.",
-    "predicted_answer": "",
-    "topic": "Basic Algebra",
-    "difficulty": "Easy"
-}

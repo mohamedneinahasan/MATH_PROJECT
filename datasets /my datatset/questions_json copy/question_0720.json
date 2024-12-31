@@ -1,9 +1,0 @@
-{
-    "question_id": 720,
-    "algebraic_word_problem": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish the book?",
-    "reference_answer": "6 days",
-    "step_by_step_solution": "Days to finish = 300 pages \u00f7 50 pages/day = 6 days",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

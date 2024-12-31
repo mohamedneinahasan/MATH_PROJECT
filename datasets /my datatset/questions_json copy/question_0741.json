@@ -1,9 +1,0 @@
-{
-    "question_id": 741,
-    "algebraic_word_problem": "A car travels 60 miles in 1 hour. How far will it travel in 2.5 hours?",
-    "reference_answer": "150 miles",
-    "step_by_step_solution": "Distance = Speed \u00d7 Time; 60 miles/hour \u00d7 2.5 hours = 150 miles.",
-    "predicted_answer": "",
-    "topic": "Word Problems",
-    "difficulty": "Easy"
-}

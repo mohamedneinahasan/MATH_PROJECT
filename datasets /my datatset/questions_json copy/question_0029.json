@@ -1,9 +1,0 @@
-{
-    "question_id": 29,
-    "algebraic_word_problem": "Jessica has 8 oranges. She buys 5 more every day. How many oranges will she have after 3 days?",
-    "reference_answer": "23 oranges",
-    "step_by_step_solution": "Day 1: 8 + 5 = 13 oranges\nDay 2: 13 + 5 = 18 oranges\nDay 3: 18 + 5 = 23 oranges",
-    "predicted_answer": "",
-    "topic": "Simple Equations",
-    "difficulty": "Easy"
-}

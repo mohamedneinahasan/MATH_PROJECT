@@ -1,9 +1,0 @@
-{
-    "question_id": 998,
-    "algebraic_word_problem": "If a farmer has 5 acres of land and plants corn on 2 acres, how many acres are left?",
-    "reference_answer": "3 acres",
-    "step_by_step_solution": "Acres left = total acres - acres planted = 5 - 2 = 3.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

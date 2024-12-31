@@ -1,9 +1,0 @@
-{
-    "question_id": 335,
-    "algebraic_word_problem": "If 60% of a number is 180, what is the number?",
-    "reference_answer": "300",
-    "step_by_step_solution": "Let the number = x. Then, 0.6x = 180. Therefore, x = 180 / 0.6 = 300.",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 874,
-    "algebraic_word_problem": "If a right triangle has legs of lengths 6 cm and 8 cm, what is the length of the hypotenuse?",
-    "reference_answer": "10 cm",
-    "step_by_step_solution": "Use Pythagorean theorem: 6\u00b2 + 8\u00b2 = c\u00b2; 36 + 64 = 100; c = \u221a100 = 10.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

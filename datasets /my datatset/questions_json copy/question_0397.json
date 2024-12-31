@@ -1,9 +1,0 @@
-{
-    "question_id": 397,
-    "algebraic_word_problem": "A car travels 150 miles at 60 mph and then 75 miles at 30 mph. What is the average speed for the entire trip?",
-    "reference_answer": "45 mph",
-    "step_by_step_solution": "Time for first part = 150/60 = 2.5 hours; Time for second part = 75/30 = 2.5 hours. Total distance = 150 + 75 = 225 miles; Total time = 2.5 + 2.5 = 5 hours. Average speed = 225/5 = 45 mph.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 87,
-    "algebraic_word_problem": "A bag contains 10 red, 6 blue, and 4 green marbles. If one marble is drawn at random, what is the probability it is not blue?",
-    "reference_answer": "0.80",
-    "step_by_step_solution": "Total marbles = 10 + 6 + 4 = 20\nNon-blue marbles = 10 + 4 = 14\nProbability = 14 / 20 = 0.80",
-    "predicted_answer": "",
-    "topic": "Probability",
-    "difficulty": "Medium"
-}

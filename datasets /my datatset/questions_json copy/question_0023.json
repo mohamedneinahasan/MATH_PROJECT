@@ -1,9 +1,0 @@
-{
-    "question_id": 23,
-    "algebraic_word_problem": "Anna invests $2,000 at 3% interest, compounded annually. How much money will she have after 5 years?",
-    "reference_answer": "$2,318.54",
-    "step_by_step_solution": "A = P(1 + r/n)^(nt)\nA = 2000(1 + 0.03/1)^(1*5)\nA = 2000(1.03)^5 = 2000 * 1.159274 = $2,318.54",
-    "predicted_answer": "",
-    "topic": "Investment Problems",
-    "difficulty": "Medium"
-}

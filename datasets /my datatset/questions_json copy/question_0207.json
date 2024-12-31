@@ -1,9 +1,0 @@
-{
-    "question_id": 207,
-    "algebraic_word_problem": "A car travels at 70 miles per hour for 3 hours. How far does the car travel?",
-    "reference_answer": "210 miles",
-    "step_by_step_solution": "Distance = Speed * Time\nDistance = 70 * 3 = 210 miles",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

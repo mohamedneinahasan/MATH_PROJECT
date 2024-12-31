@@ -1,9 +1,0 @@
-{
-    "question_id": 817,
-    "algebraic_word_problem": "If a number is multiplied by 4 and then 6 is added, the result is 34. What is the number?",
-    "reference_answer": "7",
-    "step_by_step_solution": "Let the number be x; 4x + 6 = 34; 4x = 28; x = 7.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Medium"
-}

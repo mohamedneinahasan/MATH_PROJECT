@@ -1,9 +1,0 @@
-{
-    "question_id": 499,
-    "algebraic_word_problem": "A school has a ratio of 2 teachers for every 30 students. How many teachers are needed for 90 students?",
-    "reference_answer": "6 teachers",
-    "step_by_step_solution": "If 2 teachers are for 30 students, then for 90 students: (90/30) \u00d7 2 = 6 teachers.",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion",
-    "difficulty": "Medium"
-}

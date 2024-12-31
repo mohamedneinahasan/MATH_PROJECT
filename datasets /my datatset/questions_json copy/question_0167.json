@@ -1,9 +1,0 @@
-{
-    "question_id": 167,
-    "algebraic_word_problem": "If 8 people can complete a job in 6 days, how many people are needed to complete the job in 4 days?",
-    "reference_answer": "12 people",
-    "step_by_step_solution": "Work is inversely proportional to the number of people\nPeople needed = (8 people * 6 days) / 4 days = 12 people",
-    "predicted_answer": "",
-    "topic": "Work Problems",
-    "difficulty": "Medium"
-}

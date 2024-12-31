@@ -1,9 +1,0 @@
-{
-    "question_id": 174,
-    "algebraic_word_problem": "A train travels 240 miles in 6 hours. How fast is the train moving in miles per hour?",
-    "reference_answer": "40 miles per hour",
-    "step_by_step_solution": "Speed = Distance / Time = 240 miles / 6 hours = 40 miles per hour",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

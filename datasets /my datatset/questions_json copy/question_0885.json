@@ -1,9 +1,0 @@
-{
-    "question_id": 885,
-    "algebraic_word_problem": "What is the slope of a line passing through the points (2, 3) and (5, 11)?",
-    "reference_answer": "2.67",
-    "step_by_step_solution": "Slope = (y2 - y1) / (x2 - x1) = (11 - 3) / (5 - 2) = 8 / 3 \u2248 2.67.",
-    "predicted_answer": "",
-    "topic": "Slope",
-    "difficulty": "Hard"
-}

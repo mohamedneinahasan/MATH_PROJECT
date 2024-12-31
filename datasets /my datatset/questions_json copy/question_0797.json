@@ -1,9 +1,0 @@
-{
-    "question_id": 797,
-    "algebraic_word_problem": "If x^2 - 16 = 0, what are the possible values of x?",
-    "reference_answer": "x = 4 or x = -4",
-    "step_by_step_solution": "Factor: (x - 4)(x + 4) = 0; Solutions are x = 4 and x = -4.",
-    "predicted_answer": "",
-    "topic": "Quadratic Functions",
-    "difficulty": "Medium"
-}

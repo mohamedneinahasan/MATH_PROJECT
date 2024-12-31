@@ -1,9 +1,0 @@
-{
-    "question_id": 879,
-    "algebraic_word_problem": "If a car's speed is 75 mph, how far will it travel in 3 hours?",
-    "reference_answer": "225 miles",
-    "step_by_step_solution": "Distance = speed \u00d7 time = 75 \u00d7 3 = 225.",
-    "predicted_answer": "",
-    "topic": "Speed and Distance",
-    "difficulty": "Easy"
-}

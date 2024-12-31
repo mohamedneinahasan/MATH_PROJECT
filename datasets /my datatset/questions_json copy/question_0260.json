@@ -1,9 +1,0 @@
-{
-    "question_id": 260,
-    "algebraic_word_problem": "The area of a triangle is 24 square meters, and its base is 8 meters. What is its height?",
-    "reference_answer": "6 meters",
-    "step_by_step_solution": "Area of triangle = 1/2 * base * height\n24 = 1/2 * 8 * height\nHeight = 24 / 4 = 6 meters",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

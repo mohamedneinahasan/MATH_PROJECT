@@ -1,9 +1,0 @@
-{
-    "question_id": 876,
-    "algebraic_word_problem": "If the radius of a cylinder is 4 cm and the height is 10 cm, what is its volume? (Use \u03c0 \u2248 3.14)",
-    "reference_answer": "502.4 cm\u00b3",
-    "step_by_step_solution": "Volume = \u03c0r\u00b2h = 3.14 \u00d7 (4)\u00b2 \u00d7 10 = 502.4.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

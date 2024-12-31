@@ -1,9 +1,0 @@
-{
-    "question_id": 777,
-    "algebraic_word_problem": "What is the value of x in the equation 4x^2 - 16 = 0?",
-    "reference_answer": "x = 2 or x = -2",
-    "step_by_step_solution": "Factor: 4(x^2 - 4) = 0; 4(x - 2)(x + 2) = 0; x = 2 or x = -2.",
-    "predicted_answer": "",
-    "topic": "Quadratic Functions",
-    "difficulty": "Medium"
-}

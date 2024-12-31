@@ -1,9 +1,0 @@
-{
-    "question_id": 617,
-    "algebraic_word_problem": "A cargo ship can carry a maximum of 500 tons. If each container weighs 20 tons and occupies 4 cubic meters of space, how many containers can the ship carry if it has 1000 cubic meters of storage?",
-    "reference_answer": "25 containers",
-    "step_by_step_solution": "Each container uses 4 cubic meters and 20 tons; Ship space limit = 1000 / 4; Weight limit = 500 / 20.",
-    "predicted_answer": "",
-    "topic": "Optimization",
-    "difficulty": "Hard"
-}

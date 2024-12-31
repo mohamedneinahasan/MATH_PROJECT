@@ -1,9 +1,0 @@
-{
-    "question_id": 725,
-    "algebraic_word_problem": "If f(x) = 3x + 2, what is f(4)?",
-    "reference_answer": "14",
-    "step_by_step_solution": "Substituting x with 4: f(4) = 3(4) + 2 = 12 + 2 = 14.",
-    "predicted_answer": "",
-    "topic": "Functions and Relations",
-    "difficulty": "Easy"
-}

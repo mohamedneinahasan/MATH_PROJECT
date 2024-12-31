@@ -1,9 +1,0 @@
-{
-    "question_id": 868,
-    "algebraic_word_problem": "If a train travels at a speed of 80 km/h for 3 hours, how far does it travel?",
-    "reference_answer": "240 km",
-    "step_by_step_solution": "Distance = speed \u00d7 time = 80 \u00d7 3 = 240 km.",
-    "predicted_answer": "",
-    "topic": "Speed and Distance",
-    "difficulty": "Easy"
-}

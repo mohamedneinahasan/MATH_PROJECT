@@ -1,9 +1,0 @@
-{
-    "question_id": 245,
-    "algebraic_word_problem": "A shopkeeper sells a jacket for $120, making a 25% profit. What was the cost price of the jacket?",
-    "reference_answer": "$96",
-    "step_by_step_solution": "Selling price = Cost price * (1 + Profit %)\n120 = Cost price * 1.25\nCost price = 120 / 1.25 = $96",
-    "predicted_answer": "",
-    "topic": "Profit and Loss",
-    "difficulty": "Medium"
-}

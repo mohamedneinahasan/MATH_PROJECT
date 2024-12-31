@@ -1,9 +1,0 @@
-{
-    "question_id": 94,
-    "algebraic_word_problem": "A triangle has two sides of lengths 5 and 12. What is the length of the third side if the perimeter is 30?",
-    "reference_answer": "13",
-    "step_by_step_solution": "Let third side = x, 5 + 12 + x = 30\nx = 30 - 17 = 13",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

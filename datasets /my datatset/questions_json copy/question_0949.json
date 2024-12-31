@@ -1,9 +1,0 @@
-{
-    "question_id": 949,
-    "algebraic_word_problem": "If 2y + 4 = 20, what is the value of y?",
-    "reference_answer": "y = 8",
-    "step_by_step_solution": "Subtract 4 from both sides: 2y = 16; Divide by 2: y = 8.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

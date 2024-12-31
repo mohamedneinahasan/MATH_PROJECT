@@ -1,9 +1,0 @@
-{
-    "question_id": 305,
-    "algebraic_word_problem": "A family has 3 cats and 2 dogs. What fraction of their pets are cats?",
-    "reference_answer": "3/5",
-    "step_by_step_solution": "Total pets = 3 + 2 = 5\nFraction of cats = 3 / 5.",
-    "predicted_answer": "",
-    "topic": "Fraction Problems",
-    "difficulty": "Easy"
-}

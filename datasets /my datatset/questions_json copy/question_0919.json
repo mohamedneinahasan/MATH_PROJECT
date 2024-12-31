@@ -1,9 +1,0 @@
-{
-    "question_id": 919,
-    "algebraic_word_problem": "If the cost of a shirt is $25 and you buy 4 shirts, how much do you spend?",
-    "reference_answer": "$100",
-    "step_by_step_solution": "Total cost = cost per shirt \u00d7 number of shirts = 25 \u00d7 4 = 100.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

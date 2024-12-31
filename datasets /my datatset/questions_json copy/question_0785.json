@@ -1,9 +1,0 @@
-{
-    "question_id": 785,
-    "algebraic_word_problem": "What is the result of simplifying the expression 3(2x - 4) + 4x?",
-    "reference_answer": "10x - 12",
-    "step_by_step_solution": "Distribute: 6x - 12 + 4x = 10x - 12.",
-    "predicted_answer": "",
-    "topic": "Algebraic Expressions",
-    "difficulty": "Medium"
-}

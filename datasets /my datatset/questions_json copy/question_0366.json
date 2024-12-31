@@ -1,9 +1,0 @@
-{
-    "question_id": 366,
-    "algebraic_word_problem": "A company produces 10,000 units at a cost of $50,000. If the cost increases to $60,000 for the next 5,000 units, what is the average cost per unit for the entire production?",
-    "reference_answer": "$6",
-    "step_by_step_solution": "Total cost = $50,000 + $60,000 = $110,000. Total units = 10,000 + 5,000 = 15,000. Average cost = $110,000 / 15,000 = $7.33.",
-    "predicted_answer": "",
-    "topic": "Cost Analysis",
-    "difficulty": "Hard"
-}

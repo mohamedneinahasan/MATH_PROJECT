@@ -1,9 +1,0 @@
-{
-    "question_id": 27,
-    "algebraic_word_problem": "Machine C can finish a task in 8 hours, and Machine D can finish the same task in 12 hours. If they work together for 3 hours, how long will Machine C take to complete the rest of the task alone?",
-    "reference_answer": "2.67 hours",
-    "step_by_step_solution": "Rate of Machine C = 1/8 job/hour, Rate of Machine D = 1/12 job/hour\nTogether for 3 hours: (1/8 + 1/12) * 3 = 5/24 job completed\nRemaining job = 1 - 5/24 = 19/24\nTime for Machine C to finish = (19/24) / (1/8) = 19/3 = 6.33 hours",
-    "predicted_answer": "",
-    "topic": "Work Problems (Complex)",
-    "difficulty": "Hard"
-}

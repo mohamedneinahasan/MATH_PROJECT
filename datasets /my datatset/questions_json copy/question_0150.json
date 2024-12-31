@@ -1,9 +1,0 @@
-{
-    "question_id": 150,
-    "algebraic_word_problem": "A fruit basket contains 12 apples, 8 oranges, and 4 bananas. What fraction of the fruits are apples?",
-    "reference_answer": "12/24 or 1/2",
-    "step_by_step_solution": "Total fruits = 12 + 8 + 4 = 24\nFraction of apples = 12 / 24 = 1/2",
-    "predicted_answer": "",
-    "topic": "Fractions",
-    "difficulty": "Medium"
-}

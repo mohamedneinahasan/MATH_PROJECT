@@ -1,9 +1,0 @@
-{
-    "question_id": 176,
-    "algebraic_word_problem": "If a cube has a side length of 5 cm, what is its volume?",
-    "reference_answer": "125 cubic cm",
-    "step_by_step_solution": "Volume of cube = side^3 = 5^3 = 125 cubic cm",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

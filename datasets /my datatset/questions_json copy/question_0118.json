@@ -1,9 +1,0 @@
-{
-    "question_id": 118,
-    "algebraic_word_problem": "A person has $1,200 and spends 20% of it. How much money do they have left?",
-    "reference_answer": "$960",
-    "step_by_step_solution": "Amount spent = 20% of 1200 = 0.20 * 1200 = $240\nMoney left = 1200 - 240 = $960",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Easy"
-}

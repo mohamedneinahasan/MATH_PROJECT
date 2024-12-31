@@ -1,9 +1,0 @@
-{
-    "question_id": 904,
-    "algebraic_word_problem": "What is the perimeter of a square with sides measuring 7 cm?",
-    "reference_answer": "28 cm",
-    "step_by_step_solution": "Perimeter = 4 \u00d7 side = 4 \u00d7 7 = 28.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

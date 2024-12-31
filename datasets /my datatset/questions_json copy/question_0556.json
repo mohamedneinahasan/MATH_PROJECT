@@ -1,9 +1,0 @@
-{
-    "question_id": 556,
-    "algebraic_word_problem": "A bag contains 3 red balls, 5 blue balls, and 2 green balls. If one ball is drawn at random, what is the probability it is not blue?",
-    "reference_answer": "0.4",
-    "step_by_step_solution": "Total balls = 3 + 5 + 2 = 10; Non-blue balls = 3 + 2 = 5; Probability = Non-blue balls / Total balls = 5/10 = 0.4.",
-    "predicted_answer": "",
-    "topic": "Probability",
-    "difficulty": "Hard"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 231,
-    "algebraic_word_problem": "A rectangle has a perimeter of 64 meters and its width is 14 meters. What is its length?",
-    "reference_answer": "18 meters",
-    "step_by_step_solution": "Perimeter of rectangle = 2(Length + Width)\n64 = 2(L + 14)\n64 = 2L + 28\n2L = 36\nL = 36 / 2 = 18 meters",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Medium"
-}

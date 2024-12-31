@@ -1,9 +1,0 @@
-{
-    "question_id": 633,
-    "algebraic_word_problem": "A rectangle has a width of 7 cm and an area of 84 square cm. What is its length?",
-    "reference_answer": "12 cm",
-    "step_by_step_solution": "Area = length * width; Length = Area / Width = 84 / 7 = 12 cm.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

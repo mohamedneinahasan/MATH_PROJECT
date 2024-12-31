@@ -1,9 +1,0 @@
-{
-    "question_id": 747,
-    "algebraic_word_problem": "If 5 more than twice a number is 19, what is the number?",
-    "reference_answer": "7",
-    "step_by_step_solution": "Let the number be x; 2x + 5 = 19; 2x = 14; x = 7.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Medium"
-}

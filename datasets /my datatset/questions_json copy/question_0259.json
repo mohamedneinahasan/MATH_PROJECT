@@ -1,9 +1,0 @@
-{
-    "question_id": 259,
-    "algebraic_word_problem": "A train travels at 60 miles per hour. How far will it travel in 5 hours?",
-    "reference_answer": "300 miles",
-    "step_by_step_solution": "Distance = Speed * Time\nDistance = 60 miles/hour * 5 hours = 300 miles",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

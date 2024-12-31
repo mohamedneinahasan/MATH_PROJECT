@@ -1,9 +1,0 @@
-{
-    "question_id": 994,
-    "algebraic_word_problem": "If the total cost of 8 candies is $4, how much do 2 candies cost?",
-    "reference_answer": "$1",
-    "step_by_step_solution": "Cost per candy = total cost / number of candies = 4 / 8 = 0.5; Cost for 2 candies = 0.5 \u00d7 2 = 1.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 52,
-    "algebraic_word_problem": "A car travels 100 miles in 2 hours. What is the average speed?",
-    "reference_answer": "50 miles per hour",
-    "step_by_step_solution": "Speed = Distance / Time = 100 miles / 2 hours = 50 miles per hour",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Easy"
-}

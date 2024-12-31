@@ -1,9 +1,0 @@
-{
-    "question_id": 828,
-    "algebraic_word_problem": "If a bike costs $150 after a 10% discount, what was the original price?",
-    "reference_answer": "$166.67",
-    "step_by_step_solution": "Let original price = x; 0.9x = 150; x = 150 / 0.9 \u2248 166.67.",
-    "predicted_answer": "",
-    "topic": "Percentages",
-    "difficulty": "Medium"
-}

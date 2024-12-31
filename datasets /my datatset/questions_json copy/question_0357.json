@@ -1,9 +1,0 @@
-{
-    "question_id": 357,
-    "algebraic_word_problem": "A fruit basket has 6 apples, 3 bananas, and 1 orange. What fraction of the fruits are apples?",
-    "reference_answer": "6/10 or 3/5",
-    "step_by_step_solution": "Total fruits = 6 + 3 + 1 = 10. Fraction of apples = 6 / 10 = 3/5.",
-    "predicted_answer": "",
-    "topic": "Fraction Problems",
-    "difficulty": "Easy"
-}

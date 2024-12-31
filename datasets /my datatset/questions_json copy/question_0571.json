@@ -1,9 +1,0 @@
-{
-    "question_id": 571,
-    "algebraic_word_problem": "A farmer has a total of 1000 meters of fencing to create a rectangular pen for his animals. What dimensions will maximize the area of the pen?",
-    "reference_answer": "250 meters by 500 meters",
-    "step_by_step_solution": "Let length = l and width = w; Perimeter = 2l + 2w = 1000; Area = lw; Using perimeter, w = 500 - l; Area = l(500 - l) = 500l - l\u00b2; The maximum area occurs at l = 250, w = 500.",
-    "predicted_answer": "",
-    "topic": "Optimization",
-    "difficulty": "Hard"
-}

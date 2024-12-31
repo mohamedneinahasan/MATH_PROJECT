@@ -1,9 +1,0 @@
-{
-    "question_id": 443,
-    "algebraic_word_problem": "If a sweater originally costs $50 and is on sale for 30% off, what is the sale price?",
-    "reference_answer": "$35",
-    "step_by_step_solution": "Discount = 0.30 * 50 = 15; Sale price = 50 - 15 = 35.",
-    "predicted_answer": "",
-    "topic": "Discount",
-    "difficulty": "Hard"
-}

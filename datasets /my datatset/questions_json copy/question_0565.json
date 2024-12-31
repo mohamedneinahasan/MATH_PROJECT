@@ -1,9 +1,0 @@
-{
-    "question_id": 565,
-    "algebraic_word_problem": "If 5 workers can complete a job in 10 days, how many days will it take for 8 workers to complete the same job?",
-    "reference_answer": "6.25 days",
-    "step_by_step_solution": "Work done by 5 workers in 10 days = 5 * 10 = 50 worker-days; 8 workers' rate = 8 workers; Days taken = 50 / 8 = 6.25 days.",
-    "predicted_answer": "",
-    "topic": "Work Problems",
-    "difficulty": "Hard"
-}

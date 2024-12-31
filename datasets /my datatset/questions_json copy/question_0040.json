@@ -1,9 +1,0 @@
-{
-    "question_id": 40,
-    "algebraic_word_problem": "The ratio of boys to girls in a class is 4:5. If there are 90 students in total, how many are boys and how many are girls?",
-    "reference_answer": "40 boys and 50 girls",
-    "step_by_step_solution": "Let boys = 4x and girls = 5x\nTotal students = 4x + 5x = 90\n9x = 90\nx = 10\nBoys = 4 * 10 = 40, Girls = 5 * 10 = 50",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion Problems",
-    "difficulty": "Hard"
-}

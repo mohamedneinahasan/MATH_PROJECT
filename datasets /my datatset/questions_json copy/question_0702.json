@@ -1,9 +1,0 @@
-{
-    "question_id": 702,
-    "algebraic_word_problem": "If a car travels 180 km in 2.5 hours, what is its average speed?",
-    "reference_answer": "72 km/h",
-    "step_by_step_solution": "Average speed = total distance \u00f7 total time = 180 km \u00f7 2.5 h = 72 km/h",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Medium"
-}

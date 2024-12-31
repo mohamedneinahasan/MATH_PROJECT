@@ -1,9 +1,0 @@
-{
-    "question_id": 232,
-    "algebraic_word_problem": "The price of an item increased by 20%. If the original price was $150, what is the new price?",
-    "reference_answer": "$180",
-    "step_by_step_solution": "Increase = 20% of 150 = 0.20 * 150 = $30\nNew price = 150 + 30 = $180",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

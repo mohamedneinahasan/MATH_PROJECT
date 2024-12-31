@@ -1,9 +1,0 @@
-{
-    "question_id": 472,
-    "algebraic_word_problem": "If a student has 15 pencils and gives away 7, how many does he have left?",
-    "reference_answer": "8 pencils",
-    "step_by_step_solution": "Remaining pencils = 15 - 7 = 8.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 392,
-    "algebraic_word_problem": "If the radius of a circle is doubled, how does the area change?",
-    "reference_answer": "It quadruples.",
-    "step_by_step_solution": "Area = \u03c0r\u00b2. If r is doubled, Area = \u03c0(2r)\u00b2 = \u03c0(4r\u00b2) = 4(\u03c0r\u00b2), so the area quadruples.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

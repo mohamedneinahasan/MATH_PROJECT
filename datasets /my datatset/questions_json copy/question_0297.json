@@ -1,9 +1,0 @@
-{
-    "question_id": 297,
-    "algebraic_word_problem": "A person spends 25% of their income on groceries. If their income is $1,200, how much do they spend on groceries?",
-    "reference_answer": "$300",
-    "step_by_step_solution": "Grocery expenditure = 25% of Income = 0.25 * 1200 = $300.",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Easy"
-}

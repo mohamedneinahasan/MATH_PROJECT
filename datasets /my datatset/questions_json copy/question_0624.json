@@ -1,9 +1,0 @@
-{
-    "question_id": 624,
-    "algebraic_word_problem": "A rectangular plot of land has an area of 300 square meters. If its length is 5 meters more than twice its width, what are its dimensions?",
-    "reference_answer": "Length = 20 meters, Width = 10 meters",
-    "step_by_step_solution": "Let width = x, length = 2x + 5; x(2x + 5) = 300.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

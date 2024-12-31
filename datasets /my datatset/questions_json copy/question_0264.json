@@ -1,9 +1,0 @@
-{
-    "question_id": 264,
-    "algebraic_word_problem": "A worker can finish a job in 8 hours. How much of the job can he complete in 2 hours?",
-    "reference_answer": "1/4 of the job",
-    "step_by_step_solution": "Work rate = 1 job / 8 hours = 1/8 jobs/hour\nIn 2 hours, he completes 2 * (1/8) = 1/4 of the job.",
-    "predicted_answer": "",
-    "topic": "Work Problems",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 997,
-    "algebraic_word_problem": "If a box holds 12 kg of rice and you take out 4 kg, how much rice is left?",
-    "reference_answer": "8 kg",
-    "step_by_step_solution": "Rice left = total rice - rice taken out = 12 - 4 = 8.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 120,
-    "algebraic_word_problem": "A bottle can hold 1.2 liters of water. How many liters can 5 bottles hold?",
-    "reference_answer": "6 liters",
-    "step_by_step_solution": "Total liters = 1.2 * 5 = 6 liters",
-    "predicted_answer": "",
-    "topic": "Multiplication",
-    "difficulty": "Easy"
-}

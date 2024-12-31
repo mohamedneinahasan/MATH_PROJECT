@@ -1,9 +1,0 @@
-{
-    "question_id": 434,
-    "algebraic_word_problem": "If a train leaves a station at 3 PM traveling at 70 mph, what time will it arrive at a destination 280 miles away?",
-    "reference_answer": "5 PM",
-    "step_by_step_solution": "Time = Distance / Speed = 280 / 70 = 4 hours. Arrival time = 3 PM + 4 hours = 7 PM.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

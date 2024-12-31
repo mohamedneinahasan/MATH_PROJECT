@@ -1,9 +1,0 @@
-{
-    "question_id": 141,
-    "algebraic_word_problem": "If a watch costs $50 and is on sale for 10% off, what is the sale price?",
-    "reference_answer": "$45",
-    "step_by_step_solution": "Discount = 10% of 50 = 0.10 * 50 = $5\nSale price = 50 - 5 = $45",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

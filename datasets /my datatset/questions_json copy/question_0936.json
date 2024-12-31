@@ -1,9 +1,0 @@
-{
-    "question_id": 936,
-    "algebraic_word_problem": "If the angles of a triangle are in the ratio 2:3:4, what are the angles?",
-    "reference_answer": "40\u00b0, 60\u00b0, 80\u00b0",
-    "step_by_step_solution": "Let the angles be 2x, 3x, and 4x; 2x + 3x + 4x = 180; 9x = 180; x = 20; Angles = 40\u00b0, 60\u00b0, 80\u00b0.",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Hard"
-}

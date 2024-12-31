@@ -1,9 +1,0 @@
-{
-    "question_id": 12,
-    "algebraic_word_problem": "The ratio of boys to girls in a class is 3:5. If there are 64 students in total, how many are boys and how many are girls?",
-    "reference_answer": "24 boys and 40 girls",
-    "step_by_step_solution": "Let boys = 3x and girls = 5x\nTotal students = 3x + 5x = 64\n8x = 64\nx = 8\nBoys = 3 * 8 = 24, Girls = 5 * 8 = 40",
-    "predicted_answer": "",
-    "topic": "Ratio and Proportion Problems",
-    "difficulty": "Hard"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 5,
-    "algebraic_word_problem": "John and Mary together have 30 apples. John has 5 more apples than Mary. How many apples does each of them have?",
-    "reference_answer": "John has 17 apples and Mary has 13 apples",
-    "step_by_step_solution": "Let Mary's apples = x\nJohn's apples = x + 5\nx + (x + 5) = 30\n2x + 5 = 30\n2x = 25\nx = 12.5\nJohn = 17.5, Mary = 12.5 (rounding for this example)",
-    "predicted_answer": "",
-    "topic": "Equations with Two Variables",
-    "difficulty": "Medium"
-}

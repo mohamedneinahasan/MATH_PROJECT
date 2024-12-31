@@ -1,9 +1,0 @@
-{
-    "question_id": 518,
-    "algebraic_word_problem": "A store has a 30% off sale. If an item costs $80, what is the final price?",
-    "reference_answer": "$56",
-    "step_by_step_solution": "Discount = 0.30 * 80 = 24; Final price = 80 - 24 = 56.",
-    "predicted_answer": "",
-    "topic": "Discount",
-    "difficulty": "Medium"
-}

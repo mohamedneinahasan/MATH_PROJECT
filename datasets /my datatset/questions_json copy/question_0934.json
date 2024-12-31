@@ -1,9 +1,0 @@
-{
-    "question_id": 934,
-    "algebraic_word_problem": "If 2a + 4 = 16, what is the value of a?",
-    "reference_answer": "a = 6",
-    "step_by_step_solution": "Subtract 4 from both sides: 2a = 12; Divide by 2: a = 6.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

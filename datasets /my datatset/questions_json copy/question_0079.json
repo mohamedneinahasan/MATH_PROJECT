@@ -1,9 +1,0 @@
-{
-    "question_id": 79,
-    "algebraic_word_problem": "A farmer has 150 apples. He sells them in bags of 6 apples each. How many bags does he sell?",
-    "reference_answer": "25 bags",
-    "step_by_step_solution": "Number of bags = 150 / 6 = 25 bags",
-    "predicted_answer": "",
-    "topic": "Division",
-    "difficulty": "Easy"
-}

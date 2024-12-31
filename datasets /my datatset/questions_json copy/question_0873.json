@@ -1,9 +1,0 @@
-{
-    "question_id": 873,
-    "algebraic_word_problem": "If the sum of a number and 5 is equal to 10, what is the number?",
-    "reference_answer": "5",
-    "step_by_step_solution": "Let the number be x; x + 5 = 10; x = 10 - 5 = 5.",
-    "predicted_answer": "",
-    "topic": "Basic Algebraic Equations",
-    "difficulty": "Easy"
-}

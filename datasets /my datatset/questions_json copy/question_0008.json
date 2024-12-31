@@ -1,9 +1,0 @@
-{
-    "question_id": 8,
-    "algebraic_word_problem": "In 5 years, Peter will be twice as old as he was 3 years ago. How old is Peter now?",
-    "reference_answer": "11 years old",
-    "step_by_step_solution": "Let Peter's current age = x\nIn 5 years, Peter's age = x + 5\n3 years ago, Peter's age = x - 3\nx + 5 = 2(x - 3)\nx + 5 = 2x - 6\nx = 11",
-    "predicted_answer": "",
-    "topic": "Age Problems (Complex)",
-    "difficulty": "Medium"
-}

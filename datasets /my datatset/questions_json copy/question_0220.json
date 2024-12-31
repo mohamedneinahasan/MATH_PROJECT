@@ -1,9 +1,0 @@
-{
-    "question_id": 220,
-    "algebraic_word_problem": "A person buys 3 pens at $2 each and 2 notebooks at $3 each. What is the total cost?",
-    "reference_answer": "$12",
-    "step_by_step_solution": "Cost of pens = 3 * 2 = $6\nCost of notebooks = 2 * 3 = $6\nTotal cost = 6 + 6 = $12",
-    "predicted_answer": "",
-    "topic": "Multiplication",
-    "difficulty": "Easy"
-}

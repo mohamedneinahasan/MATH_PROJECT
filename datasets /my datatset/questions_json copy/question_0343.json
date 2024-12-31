@@ -1,9 +1,0 @@
-{
-    "question_id": 343,
-    "algebraic_word_problem": "If a pizza is divided into 8 slices and 2 slices are eaten, what fraction of the pizza is remaining?",
-    "reference_answer": "3/4",
-    "step_by_step_solution": "Slices remaining = Total slices - Slices eaten = 8 - 2 = 6.\nFraction remaining = 6 / 8 = 3/4.",
-    "predicted_answer": "",
-    "topic": "Fraction Problems",
-    "difficulty": "Easy"
-}

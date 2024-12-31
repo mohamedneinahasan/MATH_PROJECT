@@ -1,9 +1,0 @@
-{
-    "question_id": 126,
-    "algebraic_word_problem": "A store is having a sale with 30% off on a $60 item. What is the sale price?",
-    "reference_answer": "$42",
-    "step_by_step_solution": "Discount = 30% of 60 = 0.30 * 60 = $18\nSale price = 60 - 18 = $42",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

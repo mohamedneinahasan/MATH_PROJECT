@@ -1,9 +1,0 @@
-{
-    "question_id": 670,
-    "algebraic_word_problem": "The perimeter of a square is 40 meters. What is the length of one side?",
-    "reference_answer": "10 meters",
-    "step_by_step_solution": "Perimeter = 4 \u00d7 side; 40 = 4 \u00d7 side\nSide = 40 / 4 = 10 meters",
-    "predicted_answer": "",
-    "topic": "Geometry",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 488,
-    "algebraic_word_problem": "If a person has $150 and spends $45, how much money is left?",
-    "reference_answer": "$105",
-    "step_by_step_solution": "Remaining money = 150 - 45 = 105.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 773,
-    "algebraic_word_problem": "What is the solution to the inequality 3x - 5 < 10?",
-    "reference_answer": "x < 5",
-    "step_by_step_solution": "Add 5: 3x < 15; Divide by 3: x < 5.",
-    "predicted_answer": "",
-    "topic": "Inequalities",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 689,
-    "algebraic_word_problem": "A person buys a jacket for $120 after a 25% discount. What was the original price?",
-    "reference_answer": "$160",
-    "step_by_step_solution": "Let x be the original price: 0.75x = 120; x = 120/0.75 = $160",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

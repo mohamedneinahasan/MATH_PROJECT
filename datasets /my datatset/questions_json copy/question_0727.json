@@ -1,9 +1,0 @@
-{
-    "question_id": 727,
-    "algebraic_word_problem": "Simplify the expression: (3 + 4i) + (2 - 3i).",
-    "reference_answer": "5 + i",
-    "step_by_step_solution": "Combine real and imaginary parts: (3 + 2) + (4i - 3i) = 5 + 1i.",
-    "predicted_answer": "",
-    "topic": "Complex Numbers",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 236,
-    "algebraic_word_problem": "If 8x + 2 = 34, what is the value of x?",
-    "reference_answer": "4",
-    "step_by_step_solution": "8x + 2 = 34\n8x = 34 - 2 = 32\nx = 32 / 8 = 4",
-    "predicted_answer": "",
-    "topic": "Algebraic Equations",
-    "difficulty": "Easy"
-}

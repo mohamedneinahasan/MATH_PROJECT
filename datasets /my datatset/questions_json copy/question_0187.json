@@ -1,9 +1,0 @@
-{
-    "question_id": 187,
-    "algebraic_word_problem": "A store offers a 10% discount on a $120 jacket. What is the discounted price?",
-    "reference_answer": "$108",
-    "step_by_step_solution": "Discount = 10% of 120 = 0.10 * 120 = $12\nDiscounted price = 120 - 12 = $108",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Easy"
-}

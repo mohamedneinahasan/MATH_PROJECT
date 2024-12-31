@@ -1,9 +1,0 @@
-{
-    "question_id": 158,
-    "algebraic_word_problem": "A bottle holds 1.5 liters of juice. How many liters are there in 8 bottles?",
-    "reference_answer": "12 liters",
-    "step_by_step_solution": "Total juice = 1.5 liters * 8 = 12 liters",
-    "predicted_answer": "",
-    "topic": "Multiplication",
-    "difficulty": "Easy"
-}

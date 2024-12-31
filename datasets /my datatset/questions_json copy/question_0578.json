@@ -1,9 +1,0 @@
-{
-    "question_id": 578,
-    "algebraic_word_problem": "A sum of $8000 is invested in two accounts, one at 4% and the other at 6%. If the total interest earned in one year is $440, how much was invested at each rate?",
-    "reference_answer": "$4000 at 4%, $4000 at 6%",
-    "step_by_step_solution": "Let x be the amount at 4%; Then 8000 - x is at 6%; 0.04x + 0.06(8000 - x) = 440; Solve for x to find amounts.",
-    "predicted_answer": "",
-    "topic": "Finance",
-    "difficulty": "Hard"
-}

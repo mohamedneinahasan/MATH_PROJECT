@@ -1,9 +1,0 @@
-{
-    "question_id": 197,
-    "algebraic_word_problem": "If the average of three numbers is 24, what is their sum?",
-    "reference_answer": "72",
-    "step_by_step_solution": "Sum = Average * Number of values\nSum = 24 * 3 = 72",
-    "predicted_answer": "",
-    "topic": "Averages",
-    "difficulty": "Easy"
-}

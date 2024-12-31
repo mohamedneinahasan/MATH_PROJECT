@@ -1,9 +1,0 @@
-{
-    "question_id": 3,
-    "algebraic_word_problem": "Tom is 5 years younger than Jane. If Jane is 12, how old is Tom?",
-    "reference_answer": "7 years old",
-    "step_by_step_solution": "Tom = Jane's age - 5 = 12 - 5 = 7",
-    "predicted_answer": "",
-    "topic": "Age Problems (Basic)",
-    "difficulty": "Easy"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 609,
-    "algebraic_word_problem": "A printing press can print 2,000 pages per hour. A second press can print 50% faster. If both presses work together to print 50,000 pages, how long will it take?",
-    "reference_answer": "12.5 hours",
-    "step_by_step_solution": "First press rate = 2000 pages/hour; Second press rate = 2000 * 1.5 = 3000 pages/hour; Total rate = 5000 pages/hour; Time = 50000 / 5000.",
-    "predicted_answer": "",
-    "topic": "Work Problems",
-    "difficulty": "Hard"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 277,
-    "algebraic_word_problem": "If 9y + 6 = 33, what is the value of y?",
-    "reference_answer": "3",
-    "step_by_step_solution": "9y + 6 = 33\n9y = 33 - 6 = 27\ny = 27 / 9 = 3.",
-    "predicted_answer": "",
-    "topic": "Algebraic Equations",
-    "difficulty": "Easy"
-}

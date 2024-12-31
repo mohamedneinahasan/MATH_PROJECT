@@ -1,9 +1,0 @@
-{
-    "question_id": 610,
-    "algebraic_word_problem": "A vehicle\u2019s fuel efficiency decreases by 10% for every 10 km/h increase in speed over 60 km/h. If it initially gets 15 km/l at 60 km/h, what is the efficiency at 90 km/h?",
-    "reference_answer": "10.935 km/l",
-    "step_by_step_solution": "Efficiency = 15 km/l; After 30 km/h increase: 15 * (0.9)^3 = 10.935 km/l.",
-    "predicted_answer": "",
-    "topic": "Percentages",
-    "difficulty": "Hard"
-}

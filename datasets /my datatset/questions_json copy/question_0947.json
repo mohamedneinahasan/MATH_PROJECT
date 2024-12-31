@@ -1,9 +1,0 @@
-{
-    "question_id": 947,
-    "algebraic_word_problem": "If the cost of 5 apples is $3, what is the cost of 1 apple?",
-    "reference_answer": "$0.60",
-    "step_by_step_solution": "Cost per apple = total cost / number of apples = 3 / 5 = 0.60.",
-    "predicted_answer": "",
-    "topic": "Basic Arithmetic",
-    "difficulty": "Easy"
-}

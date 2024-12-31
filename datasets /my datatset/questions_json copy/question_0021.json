@@ -1,9 +1,0 @@
-{
-    "question_id": 21,
-    "algebraic_word_problem": "John paints a room in 5 hours, and Mary paints the same room in 10 hours. How long will it take them to paint the room together?",
-    "reference_answer": "3.33 hours",
-    "step_by_step_solution": "John's rate = 1/5 rooms/hour, Mary's rate = 1/10 rooms/hour\nTotal rate = 1/5 + 1/10 = 3/10 rooms/hour\nTime = 1/(3/10) = 10/3 = 3.33 hours",
-    "predicted_answer": "",
-    "topic": "Work Problems",
-    "difficulty": "Medium"
-}

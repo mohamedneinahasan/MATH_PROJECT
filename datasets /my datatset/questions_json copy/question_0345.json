@@ -1,9 +1,0 @@
-{
-    "question_id": 345,
-    "algebraic_word_problem": "A runner completes a marathon of 26.2 miles in 4 hours. What is their average speed in miles per hour?",
-    "reference_answer": "6.55 miles per hour",
-    "step_by_step_solution": "Average speed = Total distance / Total time = 26.2 miles / 4 hours = 6.55 mph.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Medium"
-}

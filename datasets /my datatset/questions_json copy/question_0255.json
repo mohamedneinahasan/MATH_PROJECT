@@ -1,9 +1,0 @@
-{
-    "question_id": 255,
-    "algebraic_word_problem": "If a man spends $75 on groceries and this represents 25% of his income, what is his total income?",
-    "reference_answer": "$300",
-    "step_by_step_solution": "Let total income = x\n25% of x = 75\n0.25x = 75\nx = 75 / 0.25 = $300",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

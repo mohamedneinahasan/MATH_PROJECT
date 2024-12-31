@@ -1,9 +1,0 @@
-{
-    "question_id": 458,
-    "algebraic_word_problem": "If the sum of two numbers is 50 and one number is 20, what is the other number?",
-    "reference_answer": "30",
-    "step_by_step_solution": "Let the other number = x. Then, x + 20 = 50, hence x = 30.",
-    "predicted_answer": "",
-    "topic": "Algebra",
-    "difficulty": "Hard"
-}

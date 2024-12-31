@@ -1,9 +1,0 @@
-{
-    "question_id": 131,
-    "algebraic_word_problem": "If 60% of a class of 30 students passed an exam, how many students passed?",
-    "reference_answer": "18 students",
-    "step_by_step_solution": "Students passing = 30 * 0.60 = 18",
-    "predicted_answer": "",
-    "topic": "Percentage Problems",
-    "difficulty": "Medium"
-}

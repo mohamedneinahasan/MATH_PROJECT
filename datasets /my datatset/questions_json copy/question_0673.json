@@ -1,9 +1,0 @@
-{
-    "question_id": 673,
-    "algebraic_word_problem": "The product of a number and 5 is 45. What is the number?",
-    "reference_answer": "9",
-    "step_by_step_solution": "Let the number be x: 5x = 45\nx = 45 / 5 = 9",
-    "predicted_answer": "",
-    "topic": "Basic Equations",
-    "difficulty": "Medium"
-}

@@ -1,9 +1,0 @@
-{
-    "question_id": 465,
-    "algebraic_word_problem": "A car is traveling at 80 mph. How far will it travel in 3 hours?",
-    "reference_answer": "240 miles",
-    "step_by_step_solution": "Distance = Speed \u00d7 Time = 80 mph \u00d7 3 hours = 240 miles.",
-    "predicted_answer": "",
-    "topic": "Distance-Rate-Time",
-    "difficulty": "Hard"
-}

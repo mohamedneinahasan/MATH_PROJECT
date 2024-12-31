@@ -1,9 +1,0 @@
-{
-    "question_id": 365,
-    "algebraic_word_problem": "The sum of three consecutive integers is 72. What are the integers?",
-    "reference_answer": "23, 24, and 25",
-    "step_by_step_solution": "Let the integers be x, x+1, x+2. Then, x + (x + 1) + (x + 2) = 72. Solving gives 3x + 3 = 72, so 3x = 69, x = 23.",
-    "predicted_answer": "",
-    "topic": "Algebra",
-    "difficulty": "Hard"
-}
