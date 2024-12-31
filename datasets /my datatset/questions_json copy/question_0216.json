@@ -1,0 +1,9 @@
+{
+    "question_id": 216,
+    "algebraic_word_problem": "If a person earns $12 per hour and works for 35 hours, how much will they earn?",
+    "reference_answer": "$420",
+    "step_by_step_solution": "Earnings = Hourly rate * Hours worked\nEarnings = 12 * 35 = $420",
+    "predicted_answer": "",
+    "topic": "Multiplication",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 110,
+    "algebraic_word_problem": "A car travels 300 miles on 10 gallons of gas. If gas costs $4 per gallon, how much does it cost to drive this distance?",
+    "reference_answer": "$40",
+    "step_by_step_solution": "Cost of gas = 10 gallons * $4/gallon = $40",
+    "predicted_answer": "",
+    "topic": "Cost Problems",
+    "difficulty": "Medium"
+}

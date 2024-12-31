@@ -1,0 +1,9 @@
+{
+    "question_id": 761,
+    "algebraic_word_problem": "What is the area of a triangle with a base of 10 cm and a height of 5 cm?",
+    "reference_answer": "25 cm\u00b2",
+    "step_by_step_solution": "Area = 1/2 \u00d7 base \u00d7 height = 1/2 \u00d7 10 \u00d7 5 = 25 cm\u00b2.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

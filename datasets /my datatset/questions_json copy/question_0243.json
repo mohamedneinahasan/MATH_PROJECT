@@ -1,0 +1,9 @@
+{
+    "question_id": 243,
+    "algebraic_word_problem": "A car covers 100 miles in 2 hours. What is its speed in miles per hour?",
+    "reference_answer": "50 miles per hour",
+    "step_by_step_solution": "Speed = Distance / Time\nSpeed = 100 / 2 = 50 miles per hour",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

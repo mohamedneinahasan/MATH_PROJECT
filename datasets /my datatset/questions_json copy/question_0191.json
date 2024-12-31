@@ -1,0 +1,9 @@
+{
+    "question_id": 191,
+    "algebraic_word_problem": "A car travels 60 miles in 90 minutes. What is the speed of the car in miles per hour?",
+    "reference_answer": "40 miles per hour",
+    "step_by_step_solution": "Speed = Distance / Time\nConvert time to hours: 90 minutes = 1.5 hours\nSpeed = 60 / 1.5 = 40 miles per hour",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+}

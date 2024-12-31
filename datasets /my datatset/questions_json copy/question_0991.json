@@ -1,0 +1,9 @@
+{
+    "question_id": 991,
+    "algebraic_word_problem": "If the value of 2x + 4 = 12, what is x?",
+    "reference_answer": "4",
+    "step_by_step_solution": "Subtract 4 from both sides: 2x = 8; Divide by 2: x = 4.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

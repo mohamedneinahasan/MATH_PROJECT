@@ -1,0 +1,9 @@
+{
+    "question_id": 870,
+    "algebraic_word_problem": "If the perimeter of a rectangle is 60 cm and the length is 20 cm, what is the width?",
+    "reference_answer": "10 cm",
+    "step_by_step_solution": "Perimeter = 2(length + width); 60 = 2(20 + width); 30 = 20 + width; width = 10.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

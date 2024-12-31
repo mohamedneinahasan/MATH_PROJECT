@@ -1,0 +1,9 @@
+{
+    "question_id": 407,
+    "algebraic_word_problem": "The ages of Alice and Bob are in the ratio 3:4. If the sum of their ages is 35, what are their ages?",
+    "reference_answer": "Alice is 15, Bob is 20.",
+    "step_by_step_solution": "Let Alice's age = 3x and Bob's age = 4x. Then, 3x + 4x = 35 gives 7x = 35, so x = 5. Hence, Alice's age = 15 and Bob's age = 20.",
+    "predicted_answer": "",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Hard"
+}

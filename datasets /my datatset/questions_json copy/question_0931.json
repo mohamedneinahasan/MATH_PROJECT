@@ -1,0 +1,9 @@
+{
+    "question_id": 931,
+    "algebraic_word_problem": "What is the circumference of a circle with a radius of 4 cm? (Use \u03c0 \u2248 3.14)",
+    "reference_answer": "25.12 cm",
+    "step_by_step_solution": "Circumference = 2\u03c0r = 2 \u00d7 3.14 \u00d7 4 = 25.12.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

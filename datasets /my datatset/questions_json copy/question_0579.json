@@ -1,0 +1,9 @@
+{
+    "question_id": 579,
+    "algebraic_word_problem": "If 7 pencils cost the same as 5 erasers, and the total cost of 3 pencils and 2 erasers is $3.80, what is the cost of one pencil?",
+    "reference_answer": "$0.40",
+    "step_by_step_solution": "Let the cost of one pencil = p and one eraser = e; 7p = 5e; 3p + 2e = 3.80; Substitute and solve the system of equations.",
+    "predicted_answer": "",
+    "topic": "Systems of Equations",
+    "difficulty": "Hard"
+}

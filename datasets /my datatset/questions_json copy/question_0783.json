@@ -1,0 +1,9 @@
+{
+    "question_id": 783,
+    "algebraic_word_problem": "A recipe calls for 4 cups of flour for every 3 cups of sugar. If you want to make a batch using 12 cups of flour, how many cups of sugar do you need?",
+    "reference_answer": "9 cups",
+    "step_by_step_solution": "Using ratio: 4 cups flour / 3 cups sugar = 12/x; Cross-multiply: 4x = 36; x = 9.",
+    "predicted_answer": "",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Medium"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 420,
+    "algebraic_word_problem": "If a triangle has sides of length 3 cm, 4 cm, and 5 cm, what is its area?",
+    "reference_answer": "6 cm\u00b2",
+    "step_by_step_solution": "Using Heron's formula: s = (3 + 4 + 5) / 2 = 6; Area = \u221a(s(s - a)(s - b)(s - c)) = \u221a(6(6 - 3)(6 - 4)(6 - 5)) = \u221a(6*3*2*1) = 6 cm\u00b2.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

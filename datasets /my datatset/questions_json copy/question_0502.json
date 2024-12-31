@@ -1,0 +1,9 @@
+{
+    "question_id": 502,
+    "algebraic_word_problem": "If a book costs $12 and you buy 4 books, how much do you spend?",
+    "reference_answer": "$48",
+    "step_by_step_solution": "Total cost = $12/book \u00d7 4 books = $48.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

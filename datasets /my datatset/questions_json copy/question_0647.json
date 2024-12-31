@@ -1,0 +1,9 @@
+{
+    "question_id": 647,
+    "algebraic_word_problem": "A hiker travels uphill at 5 km/h and downhill at 7 km/h. If he takes 6 hours in total for a 24 km round trip, what is the uphill distance?",
+    "reference_answer": "10 km",
+    "step_by_step_solution": "Let x = uphill distance; Equation: x/5 + (24 - x)/7 = 6; Solve for x.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Hard"
+}

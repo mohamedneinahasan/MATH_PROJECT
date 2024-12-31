@@ -1,0 +1,9 @@
+{
+    "question_id": 109,
+    "algebraic_word_problem": "If a bottle holds 1.5 liters of water, how many liters are in 10 bottles?",
+    "reference_answer": "15 liters",
+    "step_by_step_solution": "Total liters = 1.5 liters/bottle * 10 bottles = 15 liters",
+    "predicted_answer": "",
+    "topic": "Multiplication",
+    "difficulty": "Easy"
+}

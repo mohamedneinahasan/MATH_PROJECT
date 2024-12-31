@@ -1,0 +1,9 @@
+{
+    "question_id": 284,
+    "algebraic_word_problem": "A man spends 40% of his salary on rent. If his salary is $1,500, how much does he spend on rent?",
+    "reference_answer": "$600",
+    "step_by_step_solution": "Rent = 40% of Salary = 0.40 * 1500 = $600.",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+}

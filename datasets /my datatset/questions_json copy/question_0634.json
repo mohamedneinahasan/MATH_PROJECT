@@ -1,0 +1,9 @@
+{
+    "question_id": 634,
+    "algebraic_word_problem": "An investor put $4,000 into a stock that grows 5% per year. How much will the investment be worth in 3 years?",
+    "reference_answer": "$4,630.50",
+    "step_by_step_solution": "Investment = 4000 * (1 + 0.05)^3.",
+    "predicted_answer": "",
+    "topic": "Finance",
+    "difficulty": "Medium"
+}

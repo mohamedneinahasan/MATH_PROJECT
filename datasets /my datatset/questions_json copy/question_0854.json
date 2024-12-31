@@ -1,0 +1,9 @@
+{
+    "question_id": 854,
+    "algebraic_word_problem": "What is the total cost of 4 items that each cost $15?",
+    "reference_answer": "$60",
+    "step_by_step_solution": "Total cost = number of items \u00d7 cost per item = 4 \u00d7 15 = 60.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

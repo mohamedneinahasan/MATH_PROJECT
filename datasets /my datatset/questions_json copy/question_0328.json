@@ -1,0 +1,9 @@
+{
+    "question_id": 328,
+    "algebraic_word_problem": "A baker bakes 120 cookies. If he packs them in boxes of 10, how many boxes does he need?",
+    "reference_answer": "12 boxes",
+    "step_by_step_solution": "Number of boxes = Total cookies / Cookies per box = 120 / 10 = 12 boxes.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

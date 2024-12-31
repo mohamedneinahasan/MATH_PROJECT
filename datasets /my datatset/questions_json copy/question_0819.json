@@ -1,0 +1,9 @@
+{
+    "question_id": 819,
+    "algebraic_word_problem": "If a book costs $15 after a 25% discount, what was the original price?",
+    "reference_answer": "$20",
+    "step_by_step_solution": "Let original price = x; 0.75x = 15; x = 15 / 0.75 = 20.",
+    "predicted_answer": "",
+    "topic": "Percentages",
+    "difficulty": "Medium"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 166,
+    "algebraic_word_problem": "A car travels 120 miles using 4 gallons of gas. How many miles can it travel using 10 gallons?",
+    "reference_answer": "300 miles",
+    "step_by_step_solution": "Miles per gallon = 120 / 4 = 30 miles/gallon\nDistance = 30 * 10 = 300 miles",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+}

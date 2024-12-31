@@ -1,0 +1,9 @@
+{
+    "question_id": 587,
+    "algebraic_word_problem": "The cost of 3 apples and 2 bananas is $2.40, and the cost of 5 apples and 3 bananas is $4.20. What is the cost of one apple and one banana?",
+    "reference_answer": "Apple: $0.60, Banana: $0.40",
+    "step_by_step_solution": "Let apple cost = x and banana cost = y; Set up the system of equations and solve for x and y.",
+    "predicted_answer": "",
+    "topic": "Systems of Equations",
+    "difficulty": "Hard"
+}

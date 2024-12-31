@@ -1,0 +1,9 @@
+{
+    "question_id": 951,
+    "algebraic_word_problem": "If the area of a square is 49 cm\u00b2, what is the length of one side?",
+    "reference_answer": "7 cm",
+    "step_by_step_solution": "Area = side\u00b2; 49 = side\u00b2; side = \u221a49 = 7.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

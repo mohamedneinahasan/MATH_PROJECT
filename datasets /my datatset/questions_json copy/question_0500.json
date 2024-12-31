@@ -1,0 +1,9 @@
+{
+    "question_id": 500,
+    "algebraic_word_problem": "If x + 5 = 12, what is the value of x?",
+    "reference_answer": "7",
+    "step_by_step_solution": "x = 12 - 5 = 7.",
+    "predicted_answer": "",
+    "topic": "Algebra",
+    "difficulty": "Easy"
+}

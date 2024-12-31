@@ -1,0 +1,9 @@
+{
+    "question_id": 585,
+    "algebraic_word_problem": "A right circular cone has a radius of 3 cm and a height of 4 cm. What is its volume?",
+    "reference_answer": "37.68 cm\u00b3",
+    "step_by_step_solution": "Volume = (1/3)\u03c0r\u00b2h = (1/3)\u03c0(3)\u00b2(4) = 37.68 cm\u00b3.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

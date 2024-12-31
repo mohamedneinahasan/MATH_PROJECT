@@ -1,0 +1,9 @@
+{
+    "question_id": 121,
+    "algebraic_word_problem": "A person jogs 4 miles every day. How many miles will they jog in 7 days?",
+    "reference_answer": "28 miles",
+    "step_by_step_solution": "Total miles = 4 * 7 = 28 miles",
+    "predicted_answer": "",
+    "topic": "Multiplication",
+    "difficulty": "Easy"
+}

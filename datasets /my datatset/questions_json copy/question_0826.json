@@ -1,0 +1,9 @@
+{
+    "question_id": 826,
+    "algebraic_word_problem": "The sum of the first five prime numbers is what?",
+    "reference_answer": "28",
+    "step_by_step_solution": "First five primes are 2, 3, 5, 7, 11; Their sum = 2 + 3 + 5 + 7 + 11 = 28.",
+    "predicted_answer": "",
+    "topic": "Number Theory",
+    "difficulty": "Easy"
+}

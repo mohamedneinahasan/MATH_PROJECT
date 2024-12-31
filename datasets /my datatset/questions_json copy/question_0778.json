@@ -1,0 +1,9 @@
+{
+    "question_id": 778,
+    "algebraic_word_problem": "If the sum of the angles in a triangle is 180 degrees and one angle is 90 degrees, what are the other two angles?",
+    "reference_answer": "45 degrees each",
+    "step_by_step_solution": "Let the angles be A, B, and C; A + B + C = 180; 90 + A + B = 180; A + B = 90; If A = B, A = B = 45.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

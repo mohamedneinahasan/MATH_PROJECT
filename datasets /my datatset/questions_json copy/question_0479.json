@@ -1,0 +1,9 @@
+{
+    "question_id": 479,
+    "algebraic_word_problem": "A rectangle has a length of 10 cm and a width of 5 cm. What is its area?",
+    "reference_answer": "50 cm\u00b2",
+    "step_by_step_solution": "Area = length \u00d7 width = 10 cm \u00d7 5 cm = 50 cm\u00b2.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

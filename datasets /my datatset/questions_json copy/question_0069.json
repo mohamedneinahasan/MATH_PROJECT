@@ -1,0 +1,9 @@
+{
+    "question_id": 69,
+    "algebraic_word_problem": "A worker is paid $15 per hour for the first 40 hours and $22.50 for overtime. If he worked 50 hours in a week, how much did he earn?",
+    "reference_answer": "$825",
+    "step_by_step_solution": "Regular pay = 40 * $15 = $600\nOvertime pay = 10 * $22.50 = $225\nTotal earnings = $600 + $225 = $825",
+    "predicted_answer": "",
+    "topic": "Wage Problems",
+    "difficulty": "Medium"
+}

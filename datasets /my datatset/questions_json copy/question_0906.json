@@ -1,0 +1,9 @@
+{
+    "question_id": 906,
+    "algebraic_word_problem": "If 3x + 5 = 20, what is the value of x?",
+    "reference_answer": "x = 5",
+    "step_by_step_solution": "Subtract 5 from both sides: 3x = 15; Divide by 3: x = 5.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

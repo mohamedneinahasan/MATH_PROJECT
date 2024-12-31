@@ -1,0 +1,9 @@
+{
+    "question_id": 310,
+    "algebraic_word_problem": "If a rectangle has a perimeter of 30 meters, and its length is 10 meters, what is its width?",
+    "reference_answer": "5 meters",
+    "step_by_step_solution": "Perimeter = 2(length + width).\n30 = 2(10 + width) => 15 = 10 + width => width = 5 meters.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

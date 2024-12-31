@@ -1,0 +1,9 @@
+{
+    "question_id": 547,
+    "algebraic_word_problem": "If a recipe requires 2 tablespoons of sugar for each cookie and you make 24 cookies, how many tablespoons of sugar do you need?",
+    "reference_answer": "48 tablespoons",
+    "step_by_step_solution": "Total sugar = 2 tablespoons/cookie * 24 cookies = 48 tablespoons.",
+    "predicted_answer": "",
+    "topic": "Proportions",
+    "difficulty": "Medium"
+}

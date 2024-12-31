@@ -1,0 +1,9 @@
+{
+    "question_id": 865,
+    "algebraic_word_problem": "If the radius of a sphere is 3 cm, what is its volume? (Use \u03c0 \u2248 3.14)",
+    "reference_answer": "113.1 cm\u00b3",
+    "step_by_step_solution": "Volume = (4/3)\u03c0r\u00b3 = (4/3) \u00d7 3.14 \u00d7 (3)\u00b3 = 113.1.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

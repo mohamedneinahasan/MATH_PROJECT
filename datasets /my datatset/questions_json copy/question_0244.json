@@ -1,0 +1,9 @@
+{
+    "question_id": 244,
+    "algebraic_word_problem": "The ratio of apples to oranges in a basket is 2:3. If there are 40 fruits in total, how many are apples?",
+    "reference_answer": "16 apples",
+    "step_by_step_solution": "Let the number of apples = 2x and oranges = 3x\nTotal = 2x + 3x = 40\n5x = 40\nx = 8\nNumber of apples = 2 * 8 = 16",
+    "predicted_answer": "",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Medium"
+}

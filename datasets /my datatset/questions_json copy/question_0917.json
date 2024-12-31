@@ -1,0 +1,9 @@
+{
+    "question_id": 917,
+    "algebraic_word_problem": "If a train travels 300 miles in 6 hours, what is its speed?",
+    "reference_answer": "50 mph",
+    "step_by_step_solution": "Speed = distance / time = 300 / 6 = 50.",
+    "predicted_answer": "",
+    "topic": "Speed and Distance",
+    "difficulty": "Easy"
+}

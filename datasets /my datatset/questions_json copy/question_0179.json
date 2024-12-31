@@ -1,0 +1,9 @@
+{
+    "question_id": 179,
+    "algebraic_word_problem": "A man invests $2,000 at an annual interest rate of 4%. How much interest does he earn after 2 years?",
+    "reference_answer": "$160",
+    "step_by_step_solution": "Interest = Principal * Rate * Time\nInterest = 2000 * 0.04 * 2 = $160",
+    "predicted_answer": "",
+    "topic": "Interest Problems",
+    "difficulty": "Medium"
+}

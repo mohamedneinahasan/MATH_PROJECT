@@ -1,0 +1,9 @@
+{
+    "question_id": 962,
+    "algebraic_word_problem": "If the value of x in the equation x + 5 = 15 is what, what is x?",
+    "reference_answer": "10",
+    "step_by_step_solution": "Let x be the unknown; x + 5 = 15; x = 15 - 5 = 10.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

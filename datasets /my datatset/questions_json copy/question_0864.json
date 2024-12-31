@@ -1,0 +1,9 @@
+{
+    "question_id": 864,
+    "algebraic_word_problem": "What is the area of a trapezoid with bases of 10 cm and 6 cm, and a height of 4 cm?",
+    "reference_answer": "32 cm\u00b2",
+    "step_by_step_solution": "Area = 1/2 \u00d7 (base1 + base2) \u00d7 height = 1/2 \u00d7 (10 + 6) \u00d7 4 = 32.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

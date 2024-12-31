@@ -1,0 +1,9 @@
+{
+    "question_id": 515,
+    "algebraic_word_problem": "If a person's salary increases from $40,000 to $50,000, what is the percentage increase?",
+    "reference_answer": "25%",
+    "step_by_step_solution": "Increase = 50,000 - 40,000 = 10,000; Percentage increase = (10,000/40,000) * 100 = 25%.",
+    "predicted_answer": "",
+    "topic": "Percentage",
+    "difficulty": "Medium"
+}

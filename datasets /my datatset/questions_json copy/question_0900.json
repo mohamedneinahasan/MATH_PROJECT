@@ -1,0 +1,9 @@
+{
+    "question_id": 900,
+    "algebraic_word_problem": "If 2x - 5 = 9, what is the value of x?",
+    "reference_answer": "x = 7",
+    "step_by_step_solution": "Add 5 to both sides: 2x = 14; Divide by 2: x = 7.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 426,
+    "algebraic_word_problem": "If 5 workers can complete a task in 12 hours, how many hours will it take 3 workers to complete the same task?",
+    "reference_answer": "20 hours",
+    "step_by_step_solution": "Total work = 5 workers * 12 hours = 60 worker-hours. For 3 workers: Time = Total work / Number of workers = 60 / 3 = 20 hours.",
+    "predicted_answer": "",
+    "topic": "Work and Time",
+    "difficulty": "Hard"
+}

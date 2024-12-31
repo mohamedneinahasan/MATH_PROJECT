@@ -1,0 +1,9 @@
+{
+    "question_id": 916,
+    "algebraic_word_problem": "If the average of four numbers is 25, what is their total sum?",
+    "reference_answer": "100",
+    "step_by_step_solution": "Total sum = average \u00d7 number of items = 25 \u00d7 4 = 100.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

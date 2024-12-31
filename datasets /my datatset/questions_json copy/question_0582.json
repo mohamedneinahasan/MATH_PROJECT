@@ -1,0 +1,9 @@
+{
+    "question_id": 582,
+    "algebraic_word_problem": "A piece of ribbon is 48 cm long. It is cut into two pieces such that one piece is 8 cm longer than the other. What are the lengths of the two pieces?",
+    "reference_answer": "Longer piece: 28 cm, Shorter piece: 20 cm",
+    "step_by_step_solution": "Let the shorter piece be x; Then the longer piece is x + 8; x + (x + 8) = 48; Solve for x to find lengths.",
+    "predicted_answer": "",
+    "topic": "Algebra",
+    "difficulty": "Hard"
+}

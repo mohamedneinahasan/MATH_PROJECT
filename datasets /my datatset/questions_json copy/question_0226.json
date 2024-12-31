@@ -1,0 +1,9 @@
+{
+    "question_id": 226,
+    "algebraic_word_problem": "The sum of three consecutive odd numbers is 33. What are the numbers?",
+    "reference_answer": "9, 11, 13",
+    "step_by_step_solution": "Let the numbers be x, x + 2, and x + 4\nx + (x + 2) + (x + 4) = 33\n3x + 6 = 33\n3x = 27\nx = 9\nThe numbers are 9, 11, and 13",
+    "predicted_answer": "",
+    "topic": "Algebraic Equations",
+    "difficulty": "Medium"
+}

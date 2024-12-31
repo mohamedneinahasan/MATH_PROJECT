@@ -1,0 +1,9 @@
+{
+    "question_id": 894,
+    "algebraic_word_problem": "If the sum of two angles is 90\u00b0, what are the angles?",
+    "reference_answer": "45\u00b0 and 45\u00b0",
+    "step_by_step_solution": "Let the angles be x and 90 - x; x + (90 - x) = 90; Angles = 45\u00b0 and 45\u00b0.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

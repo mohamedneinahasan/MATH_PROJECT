@@ -1,0 +1,9 @@
+{
+    "question_id": 340,
+    "algebraic_word_problem": "If you buy 3 notebooks for $1.50 each, how much will you spend?",
+    "reference_answer": "$4.50",
+    "step_by_step_solution": "Total cost = Price per notebook * Number of notebooks = 1.50 * 3 = $4.50.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

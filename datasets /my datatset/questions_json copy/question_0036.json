@@ -1,0 +1,9 @@
+{
+    "question_id": 36,
+    "algebraic_word_problem": "In 6 years, Mike will be twice as old as he was 2 years ago. How old is Mike now?",
+    "reference_answer": "8 years old",
+    "step_by_step_solution": "Let Mike's current age = x\nIn 6 years, Mike's age = x + 6\n2 years ago, Mike's age = x - 2\nx + 6 = 2(x - 2)\nx + 6 = 2x - 4\nx = 8",
+    "predicted_answer": "",
+    "topic": "Age Problems (Complex)",
+    "difficulty": "Medium"
+}

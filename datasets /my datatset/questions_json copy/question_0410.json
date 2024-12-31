@@ -1,0 +1,9 @@
+{
+    "question_id": 410,
+    "algebraic_word_problem": "A farmer has 300 apples and wants to pack them in boxes of 12. How many full boxes can he make?",
+    "reference_answer": "25 boxes",
+    "step_by_step_solution": "Number of full boxes = Total apples / Apples per box = 300 / 12 = 25.",
+    "predicted_answer": "",
+    "topic": "Division",
+    "difficulty": "Hard"
+}

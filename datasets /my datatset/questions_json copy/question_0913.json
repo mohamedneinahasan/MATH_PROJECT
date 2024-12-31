@@ -1,0 +1,9 @@
+{
+    "question_id": 913,
+    "algebraic_word_problem": "A store sells a shirt for $30 after a 25% discount. What was the original price?",
+    "reference_answer": "$40",
+    "step_by_step_solution": "Let original price = x; 0.75x = 30; x = 30 / 0.75 = 40.",
+    "predicted_answer": "",
+    "topic": "Percentages",
+    "difficulty": "Medium"
+}

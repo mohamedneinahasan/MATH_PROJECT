@@ -1,0 +1,9 @@
+{
+    "question_id": 975,
+    "algebraic_word_problem": "If 7 multiplied by a number equals 56, what is the number?",
+    "reference_answer": "8",
+    "step_by_step_solution": "Let the number be x; 7x = 56; x = 56 / 7 = 8.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

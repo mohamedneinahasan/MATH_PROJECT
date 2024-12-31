@@ -1,0 +1,9 @@
+{
+    "question_id": 772,
+    "algebraic_word_problem": "If 2x + 4 = 16, what is the value of x?",
+    "reference_answer": "x = 6",
+    "step_by_step_solution": "Subtract 4: 2x = 12; Divide by 2: x = 6.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

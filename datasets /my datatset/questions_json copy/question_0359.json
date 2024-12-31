@@ -1,0 +1,9 @@
+{
+    "question_id": 359,
+    "algebraic_word_problem": "If a bicycle travels 12 miles in 1 hour, how far will it travel in 4 hours at the same speed?",
+    "reference_answer": "48 miles",
+    "step_by_step_solution": "Distance = Speed * Time = 12 miles/hour * 4 hours = 48 miles.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

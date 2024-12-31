@@ -1,0 +1,9 @@
+{
+    "question_id": 769,
+    "algebraic_word_problem": "If a rectangle's length is increased by 3 and width is doubled, how does the area change?",
+    "reference_answer": "New area = 2A + 3W",
+    "step_by_step_solution": "Let original area A = l \u00d7 w; New area = (l + 3)(2w) = 2lw + 6w = 2A + 6W.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

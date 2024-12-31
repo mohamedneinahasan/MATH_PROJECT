@@ -1,0 +1,9 @@
+{
+    "question_id": 716,
+    "algebraic_word_problem": "The sum of the ages of a father and son is 50. If the father is 30 years old, how old is the son?",
+    "reference_answer": "20 years old",
+    "step_by_step_solution": "Son's age = 50 - 30 = 20",
+    "predicted_answer": "",
+    "topic": "Age Problems",
+    "difficulty": "Easy"
+}

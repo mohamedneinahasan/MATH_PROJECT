@@ -1,0 +1,9 @@
+{
+    "question_id": 140,
+    "algebraic_word_problem": "A family drives 180 miles and uses 6 gallons of gas. What is the car's mileage in miles per gallon?",
+    "reference_answer": "30 miles per gallon",
+    "step_by_step_solution": "Mileage = Distance / Gallons = 180 / 6 = 30 miles/gallon",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

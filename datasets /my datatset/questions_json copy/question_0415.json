@@ -1,0 +1,9 @@
+{
+    "question_id": 415,
+    "algebraic_word_problem": "A rectangle has a width that is 2 cm less than its length. If its area is 24 cm\u00b2, what are the dimensions?",
+    "reference_answer": "Length = 6 cm, Width = 4 cm",
+    "step_by_step_solution": "Let length = x, then width = x - 2. Area = length * width = x(x - 2) = 24. Solving gives x\u00b2 - 2x - 24 = 0. Factoring gives (x - 6)(x + 4) = 0, so x = 6 (width = 4).",
+    "predicted_answer": "",
+    "topic": "Algebra",
+    "difficulty": "Hard"
+}

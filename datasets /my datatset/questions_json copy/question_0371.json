@@ -1,0 +1,9 @@
+{
+    "question_id": 371,
+    "algebraic_word_problem": "If a car travels 300 miles at 60 mph and returns at 75 mph, what is the average speed for the round trip?",
+    "reference_answer": "66.67 mph",
+    "step_by_step_solution": "Time = distance/speed. Time to go = 300/60 = 5 hours; Time to return = 300/75 = 4 hours. Average speed = Total distance / Total time = 600 / (5 + 4) = 66.67 mph.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Hard"
+}

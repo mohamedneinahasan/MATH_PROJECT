@@ -1,0 +1,9 @@
+{
+    "question_id": 955,
+    "algebraic_word_problem": "What is the area of a circle with a radius of 3 cm? (Use \u03c0 \u2248 3.14)",
+    "reference_answer": "28.26 cm\u00b2",
+    "step_by_step_solution": "Area = \u03c0r\u00b2 = 3.14 \u00d7 (3)\u00b2 = 28.26.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

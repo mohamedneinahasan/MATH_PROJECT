@@ -1,0 +1,9 @@
+{
+    "question_id": 105,
+    "algebraic_word_problem": "A person bought a shirt for $40 and sold it for $50. What was their profit?",
+    "reference_answer": "$10",
+    "step_by_step_solution": "Profit = Selling price - Cost price = $50 - $40 = $10",
+    "predicted_answer": "",
+    "topic": "Simple Operations",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 283,
+    "algebraic_word_problem": "If a rectangle's length is doubled and the width is halved, how does its area change?",
+    "reference_answer": "The area remains the same.",
+    "step_by_step_solution": "Original Area = Length * Width.\nNew Length = 2 * Length and New Width = Width / 2.\nNew Area = (2 * Length) * (Width / 2) = Length * Width = Original Area.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

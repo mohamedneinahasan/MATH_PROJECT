@@ -1,0 +1,9 @@
+{
+    "question_id": 90,
+    "algebraic_word_problem": "A box can hold 48 items. If each item takes up 3 cubic inches, what is the total volume of the box?",
+    "reference_answer": "144 cubic inches",
+    "step_by_step_solution": "Total volume = 48 items * 3 cubic inches/item = 144 cubic inches",
+    "predicted_answer": "",
+    "topic": "Volume Problems",
+    "difficulty": "Easy"
+}

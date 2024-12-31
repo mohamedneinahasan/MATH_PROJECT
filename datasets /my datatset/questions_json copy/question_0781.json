@@ -1,0 +1,9 @@
+{
+    "question_id": 781,
+    "algebraic_word_problem": "If a rectangle's length is tripled and its width is halved, what is the ratio of the new area to the old area?",
+    "reference_answer": "3:1",
+    "step_by_step_solution": "Let length = l and width = w; Old area = l \u00d7 w; New area = (3l) \u00d7 (w/2) = 3lw/2; Ratio = (3lw/2) / (lw) = 3/2.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

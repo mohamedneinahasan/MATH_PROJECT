@@ -1,0 +1,9 @@
+{
+    "question_id": 233,
+    "algebraic_word_problem": "A man spends 1/4 of his salary on rent. If his salary is $2,000, how much does he spend on rent?",
+    "reference_answer": "$500",
+    "step_by_step_solution": "Rent = 1/4 of 2000 = 2000 / 4 = $500",
+    "predicted_answer": "",
+    "topic": "Fraction Problems",
+    "difficulty": "Easy"
+}

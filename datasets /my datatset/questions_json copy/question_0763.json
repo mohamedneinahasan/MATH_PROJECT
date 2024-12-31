@@ -1,0 +1,9 @@
+{
+    "question_id": 763,
+    "algebraic_word_problem": "A bag contains 3 red, 5 blue, and 2 green marbles. What is the probability of selecting a blue marble?",
+    "reference_answer": "5/10 or 0.5",
+    "step_by_step_solution": "Total marbles = 3 + 5 + 2 = 10; Probability = 5/10 = 0.5.",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Medium"
+}

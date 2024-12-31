@@ -1,0 +1,9 @@
+{
+    "question_id": 688,
+    "algebraic_word_problem": "If a rectangle has an area of 48 square meters and a width of 4 meters, what is its length?",
+    "reference_answer": "12 meters",
+    "step_by_step_solution": "Area = length \u00d7 width; 48 = length \u00d7 4; Length = 48/4 = 12",
+    "predicted_answer": "",
+    "topic": "Area Problems",
+    "difficulty": "Medium"
+}

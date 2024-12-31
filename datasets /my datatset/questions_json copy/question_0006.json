@@ -1,0 +1,9 @@
+{
+    "question_id": 6,
+    "algebraic_word_problem": "A solution contains 30% sugar. If there are 5 liters of solution, how much sugar is in the solution?",
+    "reference_answer": "1.5 liters of sugar",
+    "step_by_step_solution": "Amount of sugar = 30% of 5 liters = 0.3 * 5 = 1.5 liters",
+    "predicted_answer": "",
+    "topic": "Mixture Problems",
+    "difficulty": "Medium"
+}

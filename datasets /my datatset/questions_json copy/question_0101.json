@@ -1,0 +1,9 @@
+{
+    "question_id": 101,
+    "algebraic_word_problem": "A school has 600 students. If 70% of the students pass a test, how many students failed?",
+    "reference_answer": "180 students",
+    "step_by_step_solution": "Students passing = 600 * 0.70 = 420\nStudents failing = 600 - 420 = 180",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

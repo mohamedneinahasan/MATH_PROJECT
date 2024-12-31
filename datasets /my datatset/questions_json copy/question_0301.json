@@ -1,0 +1,9 @@
+{
+    "question_id": 301,
+    "algebraic_word_problem": "A student scores 75 out of 100 on a test. What is the percentage score?",
+    "reference_answer": "75%",
+    "step_by_step_solution": "Percentage = (Score / Total) * 100 = (75 / 100) * 100 = 75%.",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 654,
+    "algebraic_word_problem": "The combined ages of a mother and her daughter are 72 years. If the mother is twice as old as the daughter, how old is each?",
+    "reference_answer": "Mother is 48, daughter is 24",
+    "step_by_step_solution": "Let daughter's age = x; Mother's age = 2x; Equation: x + 2x = 72.",
+    "predicted_answer": "",
+    "topic": "Age Problems",
+    "difficulty": "Easy"
+}

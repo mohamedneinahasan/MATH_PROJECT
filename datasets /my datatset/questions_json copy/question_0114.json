@@ -1,0 +1,9 @@
+{
+    "question_id": 114,
+    "algebraic_word_problem": "A bakery sells cupcakes for $2.50 each. How much would 15 cupcakes cost?",
+    "reference_answer": "$37.50",
+    "step_by_step_solution": "Total cost = 2.50 * 15 = $37.50",
+    "predicted_answer": "",
+    "topic": "Simple Operations",
+    "difficulty": "Easy"
+}

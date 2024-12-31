@@ -1,0 +1,9 @@
+{
+    "question_id": 666,
+    "algebraic_word_problem": "Sarah has twice as many marbles as Tom. If Tom has 15 marbles, how many does Sarah have?",
+    "reference_answer": "30 marbles",
+    "step_by_step_solution": "Sarah's marbles = 2 \u00d7 15 = 30",
+    "predicted_answer": "",
+    "topic": "Simple Equations",
+    "difficulty": "Easy"
+}

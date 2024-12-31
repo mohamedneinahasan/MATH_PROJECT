@@ -1,0 +1,9 @@
+{
+    "question_id": 519,
+    "algebraic_word_problem": "If x\u00b2 = 49, what is the value of x?",
+    "reference_answer": "7 or -7",
+    "step_by_step_solution": "x = \u00b1\u221a49 = \u00b17.",
+    "predicted_answer": "",
+    "topic": "Algebra",
+    "difficulty": "Medium"
+}

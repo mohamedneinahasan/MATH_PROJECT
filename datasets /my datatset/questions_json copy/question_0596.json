@@ -1,0 +1,9 @@
+{
+    "question_id": 596,
+    "algebraic_word_problem": "A basketball team scored 72 points in a game. If each player scored an average of 12 points and there were 5 players, how many points did the remaining players score?",
+    "reference_answer": "0 points (all players scored)",
+    "step_by_step_solution": "Total points by 5 players = 5 * 12 = 60; Points by remaining = 72 - 60 = 12 points (implies one player scored all remaining).",
+    "predicted_answer": "",
+    "topic": "Algebra",
+    "difficulty": "Hard"
+}

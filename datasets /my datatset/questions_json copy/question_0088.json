@@ -1,0 +1,9 @@
+{
+    "question_id": 88,
+    "algebraic_word_problem": "A cyclist travels 24 miles in 2 hours. What is the average speed in miles per hour?",
+    "reference_answer": "12 miles per hour",
+    "step_by_step_solution": "Average speed = Distance / Time = 24 miles / 2 hours = 12 miles/hour",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

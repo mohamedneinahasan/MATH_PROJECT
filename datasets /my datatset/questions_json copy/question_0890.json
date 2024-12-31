@@ -1,0 +1,9 @@
+{
+    "question_id": 890,
+    "algebraic_word_problem": "If a student scored 90 out of 100 on a test, what is the percentage score?",
+    "reference_answer": "90%",
+    "step_by_step_solution": "Percentage = (score / total) \u00d7 100 = (90 / 100) \u00d7 100 = 90%.",
+    "predicted_answer": "",
+    "topic": "Percentages",
+    "difficulty": "Easy"
+}

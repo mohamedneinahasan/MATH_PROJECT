@@ -1,0 +1,9 @@
+{
+    "question_id": 466,
+    "algebraic_word_problem": "A student has 20 apples. If he gives away 5 apples, how many does he have left?",
+    "reference_answer": "15 apples",
+    "step_by_step_solution": "Remaining apples = 20 - 5 = 15 apples.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

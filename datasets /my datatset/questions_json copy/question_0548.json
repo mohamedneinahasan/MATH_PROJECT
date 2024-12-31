@@ -1,0 +1,9 @@
+{
+    "question_id": 548,
+    "algebraic_word_problem": "A pool is filled with water at a rate of 200 liters per hour. How much time will it take to fill the pool with 1,000 liters of water?",
+    "reference_answer": "5 hours",
+    "step_by_step_solution": "Time = Total volume / Rate = 1,000 liters / 200 liters/hour = 5 hours.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

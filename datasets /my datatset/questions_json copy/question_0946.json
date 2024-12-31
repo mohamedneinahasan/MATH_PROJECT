@@ -1,0 +1,9 @@
+{
+    "question_id": 946,
+    "algebraic_word_problem": "What is the perimeter of a rectangle with length 10 m and width 4 m?",
+    "reference_answer": "28 m",
+    "step_by_step_solution": "Perimeter = 2 \u00d7 (length + width) = 2 \u00d7 (10 + 4) = 28.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

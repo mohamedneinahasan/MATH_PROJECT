@@ -1,0 +1,9 @@
+{
+    "question_id": 960,
+    "algebraic_word_problem": "If the total cost of 4 books is $32, how much does one book cost?",
+    "reference_answer": "$8",
+    "step_by_step_solution": "Cost per book = total cost / number of books = 32 / 4 = 8.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

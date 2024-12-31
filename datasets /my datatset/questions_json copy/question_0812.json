@@ -1,0 +1,9 @@
+{
+    "question_id": 812,
+    "algebraic_word_problem": "The sum of two numbers is 24, and their difference is 8. What are the two numbers?",
+    "reference_answer": "16 and 8",
+    "step_by_step_solution": "Let the numbers be x and y; x + y = 24, x - y = 8. Solving gives x = 16, y = 8.",
+    "predicted_answer": "",
+    "topic": "Word Problems",
+    "difficulty": "Medium"
+}

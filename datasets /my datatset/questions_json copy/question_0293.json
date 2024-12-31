@@ -1,0 +1,9 @@
+{
+    "question_id": 293,
+    "algebraic_word_problem": "If a pen costs $2 and a notebook costs $3, how much do 4 pens and 3 notebooks cost?",
+    "reference_answer": "$18",
+    "step_by_step_solution": "Cost = (4 * 2) + (3 * 3) = 8 + 9 = $17.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

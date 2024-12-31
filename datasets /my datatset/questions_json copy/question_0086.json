@@ -1,0 +1,9 @@
+{
+    "question_id": 86,
+    "algebraic_word_problem": "Two numbers add up to 50. If one number is 10 more than the other, what are the numbers?",
+    "reference_answer": "20 and 30",
+    "step_by_step_solution": "Let the smaller number be x, larger number = x + 10\nx + (x + 10) = 50\n2x + 10 = 50, x = 20",
+    "predicted_answer": "",
+    "topic": "Linear Equations",
+    "difficulty": "Medium"
+}

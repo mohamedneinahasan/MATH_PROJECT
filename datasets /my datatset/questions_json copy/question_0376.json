@@ -1,0 +1,9 @@
+{
+    "question_id": 376,
+    "algebraic_word_problem": "In a certain class, 60% of students passed the exam. If there were 50 students, how many failed?",
+    "reference_answer": "20 students",
+    "step_by_step_solution": "Number of students who passed = 60% of 50 = 30. Students who failed = Total students - Passed = 50 - 30 = 20.",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Hard"
+}

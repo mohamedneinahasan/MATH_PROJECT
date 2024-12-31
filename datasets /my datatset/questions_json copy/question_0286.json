@@ -1,0 +1,9 @@
+{
+    "question_id": 286,
+    "algebraic_word_problem": "A recipe requires 3 eggs for every 4 cups of flour. How many eggs are needed for 12 cups of flour?",
+    "reference_answer": "9 eggs",
+    "step_by_step_solution": "Eggs per flour = 3/4\nIf flour = 12 cups, then eggs = (3/4) * 12 = 9 eggs.",
+    "predicted_answer": "",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Medium"
+}

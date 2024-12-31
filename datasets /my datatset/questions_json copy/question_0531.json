@@ -1,0 +1,9 @@
+{
+    "question_id": 531,
+    "algebraic_word_problem": "If a rectangle has a length of 10 m and a width of 4 m, what is its area?",
+    "reference_answer": "40 m\u00b2",
+    "step_by_step_solution": "Area = length \u00d7 width = 10 \u00d7 4 = 40 m\u00b2.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

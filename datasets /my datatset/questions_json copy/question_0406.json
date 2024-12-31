@@ -1,0 +1,9 @@
+{
+    "question_id": 406,
+    "algebraic_word_problem": "A man can complete a work task in 12 hours. If he works for 5 hours and then another person takes over and finishes the task in 7 hours, how long would it take the second person to complete the entire task alone?",
+    "reference_answer": "8 hours",
+    "step_by_step_solution": "Work done by man in 5 hours = 5/12 of the task. Remaining work = 1 - (5/12) = 7/12. If second person finishes it in 7 hours, then his rate = (7/12)/7 = 1/12. Therefore, he can complete the task in 12 hours.",
+    "predicted_answer": "",
+    "topic": "Work and Time",
+    "difficulty": "Hard"
+}

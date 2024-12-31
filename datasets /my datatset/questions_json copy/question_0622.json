@@ -1,0 +1,9 @@
+{
+    "question_id": 622,
+    "algebraic_word_problem": "A jar contains a mixture of red, blue, and green marbles. The ratio of red to blue to green marbles is 3:4:5. If there are 240 marbles, how many are green?",
+    "reference_answer": "100 green marbles",
+    "step_by_step_solution": "Let x = common ratio; Total = 3x + 4x + 5x = 240; Solve for x.",
+    "predicted_answer": "",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Hard"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 373,
+    "algebraic_word_problem": "If the length of a rectangle is 4 cm more than its width and the area is 60 cm\u00b2, what are the dimensions of the rectangle?",
+    "reference_answer": "Length = 10 cm, Width = 6 cm",
+    "step_by_step_solution": "Let width = x, then length = x + 4. Area = length * width = x(x + 4) = 60. Solving gives x\u00b2 + 4x - 60 = 0; factors to (x - 6)(x + 10) = 0, so width = 6 cm.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 351,
+    "algebraic_word_problem": "If a box contains 4 green, 6 blue, and 10 red marbles, what is the probability of picking a red marble?",
+    "reference_answer": "5/10 or 1/2",
+    "step_by_step_solution": "Total marbles = 4 + 6 + 10 = 20. Probability of red marble = Number of red marbles / Total marbles = 10 / 20 = 1/2.",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Easy"
+}

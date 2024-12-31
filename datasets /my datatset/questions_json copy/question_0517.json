@@ -1,0 +1,9 @@
+{
+    "question_id": 517,
+    "algebraic_word_problem": "A car's value decreases by 15% each year. If it was purchased for $20,000, what will its value be after 2 years?",
+    "reference_answer": "$14,450",
+    "step_by_step_solution": "After 1 year: 20,000 * (1 - 0.15) = 17,000; After 2 years: 17,000 * (1 - 0.15) = 14,450.",
+    "predicted_answer": "",
+    "topic": "Depreciation",
+    "difficulty": "Hard"
+}

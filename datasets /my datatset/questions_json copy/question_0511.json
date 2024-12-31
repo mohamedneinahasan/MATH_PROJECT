@@ -1,0 +1,9 @@
+{
+    "question_id": 511,
+    "algebraic_word_problem": "A triangle has sides measuring 5 cm, 12 cm, and 13 cm. Is it a right triangle?",
+    "reference_answer": "Yes",
+    "step_by_step_solution": "Check Pythagorean theorem: 5\u00b2 + 12\u00b2 = 25 + 144 = 169 = 13\u00b2.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

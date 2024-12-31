@@ -1,0 +1,9 @@
+{
+    "question_id": 274,
+    "algebraic_word_problem": "If 6 workers can complete a job in 10 hours, how long will it take 3 workers to complete the same job?",
+    "reference_answer": "20 hours",
+    "step_by_step_solution": "Work = Workers * Time = 6 * 10 = 60 worker-hours\n3 workers will take = 60 / 3 = 20 hours.",
+    "predicted_answer": "",
+    "topic": "Work Problems",
+    "difficulty": "Medium"
+}

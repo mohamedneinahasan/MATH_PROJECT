@@ -1,0 +1,9 @@
+{
+    "question_id": 665,
+    "algebraic_word_problem": "A car travels 60 miles in 1 hour. How far will it travel in 3 hours?",
+    "reference_answer": "180 miles",
+    "step_by_step_solution": "Distance = speed \u00d7 time = 60 miles/hour \u00d7 3 hours = 180 miles",
+    "difficulty": "Medium",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time"
+}

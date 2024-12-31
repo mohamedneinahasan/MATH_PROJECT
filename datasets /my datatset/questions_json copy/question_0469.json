@@ -1,0 +1,9 @@
+{
+    "question_id": 469,
+    "algebraic_word_problem": "If a box contains 2 red, 3 green, and 4 blue balls, what is the probability of picking a red ball?",
+    "reference_answer": "0.2",
+    "step_by_step_solution": "Total balls = 2 + 3 + 4 = 9. Probability of red = 2/9 \u2248 0.22.",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Easy"
+}

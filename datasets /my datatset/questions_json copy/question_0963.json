@@ -1,0 +1,9 @@
+{
+    "question_id": 963,
+    "algebraic_word_problem": "If the cost of 7 candies is $3.50, what is the cost of 1 candy?",
+    "reference_answer": "$0.50",
+    "step_by_step_solution": "Cost per candy = total cost / number of candies = 3.50 / 7 = 0.50.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

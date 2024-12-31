@@ -1,0 +1,9 @@
+{
+    "question_id": 223,
+    "algebraic_word_problem": "A person invests $500 at a 4% annual interest rate. How much interest will they earn in 2 years?",
+    "reference_answer": "$40",
+    "step_by_step_solution": "Interest = Principal * Rate * Time\nInterest = 500 * 0.04 * 2 = $40",
+    "predicted_answer": "",
+    "topic": "Interest Problems",
+    "difficulty": "Medium"
+}

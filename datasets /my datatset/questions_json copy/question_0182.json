@@ -1,0 +1,9 @@
+{
+    "question_id": 182,
+    "algebraic_word_problem": "The perimeter of a rectangle is 40 cm. If the width is 8 cm, what is the length?",
+    "reference_answer": "12 cm",
+    "step_by_step_solution": "Perimeter = 2(Length + Width)\n40 = 2(L + 8)\n40 = 2L + 16\n2L = 24\nL = 12 cm",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

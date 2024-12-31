@@ -1,0 +1,9 @@
+{
+    "question_id": 902,
+    "algebraic_word_problem": "If a bike travels at a speed of 15 km/h, how far can it travel in 4 hours?",
+    "reference_answer": "60 km",
+    "step_by_step_solution": "Distance = speed \u00d7 time = 15 \u00d7 4 = 60.",
+    "predicted_answer": "",
+    "topic": "Speed and Distance",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 844,
+    "algebraic_word_problem": "What is the next number in the sequence 2, 4, 8, 16?",
+    "reference_answer": "32",
+    "step_by_step_solution": "Each number is multiplied by 2; Next number = 16 \u00d7 2 = 32.",
+    "predicted_answer": "",
+    "topic": "Sequences and Patterns",
+    "difficulty": "Easy"
+}

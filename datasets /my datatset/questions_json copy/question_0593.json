@@ -1,0 +1,9 @@
+{
+    "question_id": 593,
+    "algebraic_word_problem": "The sum of three consecutive integers is 45. What are the integers?",
+    "reference_answer": "14, 15, and 16",
+    "step_by_step_solution": "Let the integers be x, x + 1, x + 2; x + (x + 1) + (x + 2) = 45; Solve for x.",
+    "predicted_answer": "",
+    "topic": "Algebra",
+    "difficulty": "Hard"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 711,
+    "algebraic_word_problem": "If the ratio of cats to dogs in a shelter is 4:3 and there are 28 cats, how many dogs are there?",
+    "reference_answer": "21 dogs",
+    "step_by_step_solution": "Let the number of dogs be x: 4/3 = 28/x; x = (3 \u00d7 28)/4 = 21.",
+    "predicted_answer": "",
+    "topic": "Ratios",
+    "difficulty": "Medium"
+}

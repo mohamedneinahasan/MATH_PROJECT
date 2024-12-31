@@ -1,0 +1,9 @@
+{
+    "question_id": 402,
+    "algebraic_word_problem": "A family earns $80,000 a year and spends $60,000. What is their savings rate?",
+    "reference_answer": "25%",
+    "step_by_step_solution": "Savings = Income - Spending = 80000 - 60000 = 20000. Savings rate = Savings / Income = 20000 / 80000 = 0.25 or 25%.",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Hard"
+}

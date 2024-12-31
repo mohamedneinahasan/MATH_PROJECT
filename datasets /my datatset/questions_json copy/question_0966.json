@@ -1,0 +1,9 @@
+{
+    "question_id": 966,
+    "algebraic_word_problem": "If a person reads 4 books in 2 weeks, how many books do they read in 5 weeks?",
+    "reference_answer": "10 books",
+    "step_by_step_solution": "Rate = 4 books / 2 weeks = 2 books/week; In 5 weeks: 2 \u00d7 5 = 10 books.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

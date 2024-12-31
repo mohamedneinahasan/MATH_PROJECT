@@ -1,0 +1,9 @@
+{
+    "question_id": 19,
+    "algebraic_word_problem": "Sara and Jane together have 50 books. Sara has 10 more books than Jane. How many books does each have?",
+    "reference_answer": "Sara has 30 books and Jane has 20 books",
+    "step_by_step_solution": "Let Jane's books = x\nSara's books = x + 10\nx + (x + 10) = 50\n2x + 10 = 50\n2x = 40\nx = 20\nSara = 30, Jane = 20",
+    "predicted_answer": "",
+    "topic": "Equations with Two Variables",
+    "difficulty": "Medium"
+}

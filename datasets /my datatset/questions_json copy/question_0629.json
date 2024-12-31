@@ -1,0 +1,9 @@
+{
+    "question_id": 629,
+    "algebraic_word_problem": "A square field has a perimeter of 48 meters. What is the area of the field?",
+    "reference_answer": "144 square meters",
+    "step_by_step_solution": "Side length = 48 / 4 = 12 meters; Area = 12 * 12 = 144 square meters.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

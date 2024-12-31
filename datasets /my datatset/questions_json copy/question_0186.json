@@ -1,0 +1,9 @@
+{
+    "question_id": 186,
+    "algebraic_word_problem": "The sum of two numbers is 54. If one number is 16 more than the other, what are the two numbers?",
+    "reference_answer": "19 and 35",
+    "step_by_step_solution": "Let the first number = x, then the second number = x + 16\nx + (x + 16) = 54\n2x + 16 = 54\n2x = 38\nx = 19\nThe numbers are 19 and 35",
+    "predicted_answer": "",
+    "topic": "Algebraic Equations",
+    "difficulty": "Medium"
+}

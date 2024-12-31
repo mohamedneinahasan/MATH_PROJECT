@@ -1,0 +1,9 @@
+{
+    "question_id": 296,
+    "algebraic_word_problem": "If a person walks 4 miles in 1 hour, how long will it take to walk 12 miles?",
+    "reference_answer": "3 hours",
+    "step_by_step_solution": "Walking speed = 4 miles/hour.\nTime = Distance / Speed = 12 / 4 = 3 hours.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

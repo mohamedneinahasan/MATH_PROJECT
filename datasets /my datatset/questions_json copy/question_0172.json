@@ -1,0 +1,9 @@
+{
+    "question_id": 172,
+    "algebraic_word_problem": "If the area of a square is 49 square meters, what is the length of one side?",
+    "reference_answer": "7 meters",
+    "step_by_step_solution": "Area of square = side^2\nLet side length = s\ns^2 = 49\ns = \u221a49 = 7 meters",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

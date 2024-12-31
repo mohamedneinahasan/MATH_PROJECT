@@ -1,0 +1,9 @@
+{
+    "question_id": 28,
+    "algebraic_word_problem": "A store sells a TV for $600, making a 25% profit. What was the cost price of the TV?",
+    "reference_answer": "$480",
+    "step_by_step_solution": "Selling price = Cost price * (1 + Profit %)\n600 = Cost price * 1.25\nCost price = 600 / 1.25 = $480",
+    "predicted_answer": "",
+    "topic": "Profit and Loss",
+    "difficulty": "Hard"
+}

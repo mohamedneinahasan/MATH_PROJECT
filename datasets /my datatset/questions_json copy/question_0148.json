@@ -1,0 +1,9 @@
+{
+    "question_id": 148,
+    "algebraic_word_problem": "If a school has 300 students and 25% of them are in the band, how many students are in the band?",
+    "reference_answer": "75 students",
+    "step_by_step_solution": "Students in the band = 300 * 0.25 = 75",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

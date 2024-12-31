@@ -1,0 +1,9 @@
+{
+    "question_id": 507,
+    "algebraic_word_problem": "A recipe requires 2 cups of sugar to make 24 cookies. How much sugar is needed to make 60 cookies?",
+    "reference_answer": "5 cups",
+    "step_by_step_solution": "Sugar needed = (60/24) * 2 = 5 cups.",
+    "predicted_answer": "",
+    "topic": "Proportions",
+    "difficulty": "Medium"
+}

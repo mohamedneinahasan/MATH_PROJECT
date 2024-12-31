@@ -1,0 +1,9 @@
+{
+    "question_id": 242,
+    "algebraic_word_problem": "If 3x + 4 = 13, what is the value of x?",
+    "reference_answer": "3",
+    "step_by_step_solution": "3x + 4 = 13\n3x = 13 - 4 = 9\nx = 9 / 3 = 3",
+    "predicted_answer": "",
+    "topic": "Algebraic Equations",
+    "difficulty": "Easy"
+}

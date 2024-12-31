@@ -1,0 +1,9 @@
+{
+    "question_id": 138,
+    "algebraic_word_problem": "A gardener plants 10 rows of flowers, with 5 flowers in each row. How many flowers are planted in total?",
+    "reference_answer": "50 flowers",
+    "step_by_step_solution": "Total flowers = 10 * 5 = 50 flowers",
+    "predicted_answer": "",
+    "topic": "Multiplication",
+    "difficulty": "Easy"
+}

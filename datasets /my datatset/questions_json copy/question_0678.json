@@ -1,0 +1,9 @@
+{
+    "question_id": 678,
+    "algebraic_word_problem": "If a box contains 3 red, 2 blue, and 5 green balls, what is the probability of drawing a green ball?",
+    "reference_answer": "5/10 or 1/2",
+    "step_by_step_solution": "Total balls = 3 + 2 + 5 = 10; Probability = 5/10 = 1/2",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Medium"
+}

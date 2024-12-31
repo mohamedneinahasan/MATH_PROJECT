@@ -1,0 +1,9 @@
+{
+    "question_id": 652,
+    "algebraic_word_problem": "An investor places $12,000 in a fund that grows 6% per year. What will the investment be worth in 2 years?",
+    "reference_answer": "$13,507.20",
+    "step_by_step_solution": "Future value = 12,000 * (1 + 0.06)^2.",
+    "predicted_answer": "",
+    "topic": "Finance",
+    "difficulty": "Medium"
+}

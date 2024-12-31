@@ -1,0 +1,9 @@
+{
+    "question_id": 383,
+    "algebraic_word_problem": "A car travels 150 miles at 50 mph and then 50 miles at 25 mph. What is the average speed for the entire trip?",
+    "reference_answer": "42.86 mph",
+    "step_by_step_solution": "Time for 150 miles = 150/50 = 3 hours; Time for 50 miles = 50/25 = 2 hours. Total distance = 200 miles, total time = 5 hours. Average speed = Total distance / Total time = 200/5 = 40 mph.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Hard"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 915,
+    "algebraic_word_problem": "A triangle has angles measuring 30\u00b0 and 60\u00b0. What is the measure of the third angle?",
+    "reference_answer": "90\u00b0",
+    "step_by_step_solution": "Sum of angles in a triangle = 180\u00b0; Third angle = 180 - (30 + 60) = 90.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

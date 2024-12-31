@@ -1,0 +1,9 @@
+{
+    "question_id": 354,
+    "algebraic_word_problem": "A farmer has 120 apples. If he sells them for $1 each, how much money does he make?",
+    "reference_answer": "$120",
+    "step_by_step_solution": "Total money = Number of apples * Price per apple = 120 * 1 = $120.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 660,
+    "algebraic_word_problem": "A triangle has sides of length 7, 24, and 25. Is this a right triangle?",
+    "reference_answer": "Yes",
+    "step_by_step_solution": "Check if 7^2 + 24^2 = 25^2 using the Pythagorean theorem.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

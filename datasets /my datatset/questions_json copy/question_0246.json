@@ -1,0 +1,9 @@
+{
+    "question_id": 246,
+    "algebraic_word_problem": "If the sum of two consecutive even numbers is 58, what are the numbers?",
+    "reference_answer": "28 and 30",
+    "step_by_step_solution": "Let the numbers be x and x + 2\nx + (x + 2) = 58\n2x + 2 = 58\n2x = 56\nx = 28\nThe numbers are 28 and 30",
+    "predicted_answer": "",
+    "topic": "Algebraic Equations",
+    "difficulty": "Medium"
+}

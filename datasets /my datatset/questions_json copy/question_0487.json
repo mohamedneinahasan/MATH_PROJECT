@@ -1,0 +1,9 @@
+{
+    "question_id": 487,
+    "algebraic_word_problem": "If a shirt costs $20 and is on sale for 15% off, what is the sale price?",
+    "reference_answer": "$17",
+    "step_by_step_solution": "Discount = 0.15 * 20 = 3; Sale price = 20 - 3 = 17.",
+    "predicted_answer": "",
+    "topic": "Discount",
+    "difficulty": "Medium"
+}

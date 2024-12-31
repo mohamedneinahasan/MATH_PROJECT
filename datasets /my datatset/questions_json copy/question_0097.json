@@ -1,0 +1,9 @@
+{
+    "question_id": 97,
+    "algebraic_word_problem": "A box contains 20 chocolates, 12 are dark chocolate. What fraction of the chocolates are not dark chocolate?",
+    "reference_answer": "2/5",
+    "step_by_step_solution": "Number of non-dark chocolates = 20 - 12 = 8\nFraction not dark = 8 / 20 = 2/5",
+    "predicted_answer": "",
+    "topic": "Fractions",
+    "difficulty": "Easy"
+}

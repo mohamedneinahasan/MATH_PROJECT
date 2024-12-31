@@ -1,0 +1,9 @@
+{
+    "question_id": 735,
+    "algebraic_word_problem": "If f(x) = 5x - 1, what is f(-2)?",
+    "reference_answer": "-11",
+    "step_by_step_solution": "Substituting x with -2: f(-2) = 5(-2) - 1 = -10 - 1 = -11.",
+    "predicted_answer": "",
+    "topic": "Functions and Relations",
+    "difficulty": "Easy"
+}

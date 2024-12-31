@@ -1,0 +1,9 @@
+{
+    "question_id": 563,
+    "algebraic_word_problem": "A sum of money is divided among three people such that the first person receives $20 more than the second, and the second person receives $10 more than the third. If the total amount is $210, how much does each person receive?",
+    "reference_answer": "First: $90, Second: $70, Third: $50",
+    "step_by_step_solution": "Let third person receive x; Second receives x + 10; First receives (x + 10) + 20 = x + 30; Total: x + (x + 10) + (x + 30) = 210; 3x + 50 = 210; x = 50.",
+    "predicted_answer": "",
+    "topic": "Algebra",
+    "difficulty": "Hard"
+}

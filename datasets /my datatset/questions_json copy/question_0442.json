@@ -1,0 +1,9 @@
+{
+    "question_id": 442,
+    "algebraic_word_problem": "If a car travels 360 miles at 60 mph, how long does the trip take?",
+    "reference_answer": "6 hours",
+    "step_by_step_solution": "Time = Distance / Speed = 360 miles / 60 mph = 6 hours.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Hard"
+}

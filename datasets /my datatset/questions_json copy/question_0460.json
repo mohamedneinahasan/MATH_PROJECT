@@ -1,0 +1,9 @@
+{
+    "question_id": 460,
+    "algebraic_word_problem": "If a man is 2 years younger than his brother and his brother is 28 years old, how old is the man?",
+    "reference_answer": "26",
+    "step_by_step_solution": "If brother's age = 28, then man's age = 28 - 2 = 26.",
+    "predicted_answer": "",
+    "topic": "Age Problems",
+    "difficulty": "Hard"
+}

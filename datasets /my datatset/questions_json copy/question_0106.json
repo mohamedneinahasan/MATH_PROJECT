@@ -1,0 +1,9 @@
+{
+    "question_id": 106,
+    "algebraic_word_problem": "The sum of four consecutive integers is 34. What are the integers?",
+    "reference_answer": "7, 8, 9, and 10",
+    "step_by_step_solution": "Let integers = x, x + 1, x + 2, x + 3\nx + (x + 1) + (x + 2) + (x + 3) = 34\n4x + 6 = 34\nx = 7",
+    "predicted_answer": "",
+    "topic": "Consecutive Numbers",
+    "difficulty": "Medium"
+}

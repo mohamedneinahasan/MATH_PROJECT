@@ -1,0 +1,9 @@
+{
+    "question_id": 398,
+    "algebraic_word_problem": "If the sum of two numbers is 30 and their difference is 10, what are the numbers?",
+    "reference_answer": "20 and 10",
+    "step_by_step_solution": "Let x and y be the two numbers. x + y = 30 and x - y = 10. Adding the equations gives 2x = 40, so x = 20. Substituting back, y = 30 - 20 = 10.",
+    "predicted_answer": "",
+    "topic": "Algebra",
+    "difficulty": "Hard"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 183,
+    "algebraic_word_problem": "A bus travels at 60 miles per hour. How long will it take to travel 180 miles?",
+    "reference_answer": "3 hours",
+    "step_by_step_solution": "Time = Distance / Speed = 180 / 60 = 3 hours",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

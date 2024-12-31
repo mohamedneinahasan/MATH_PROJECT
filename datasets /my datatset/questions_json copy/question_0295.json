@@ -1,0 +1,9 @@
+{
+    "question_id": 295,
+    "algebraic_word_problem": "A bottle can hold 1.5 liters of water. How many liters can 8 bottles hold?",
+    "reference_answer": "12 liters",
+    "step_by_step_solution": "Total capacity = Number of bottles * Capacity per bottle = 8 * 1.5 = 12 liters.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

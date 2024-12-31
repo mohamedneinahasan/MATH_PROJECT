@@ -1,0 +1,9 @@
+{
+    "question_id": 858,
+    "algebraic_word_problem": "If the sum of three consecutive integers is 36, what are the integers?",
+    "reference_answer": "11, 12, and 13",
+    "step_by_step_solution": "Let the integers be x, x+1, x+2; x + (x+1) + (x+2) = 36; 3x + 3 = 36; 3x = 33; x = 11.",
+    "predicted_answer": "",
+    "topic": "Word Problems",
+    "difficulty": "Medium"
+}

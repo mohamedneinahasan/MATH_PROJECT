@@ -1,0 +1,9 @@
+{
+    "question_id": 545,
+    "algebraic_word_problem": "A group of friends bought a pizza for $30 and shared it equally. If there are 5 friends, how much does each friend pay?",
+    "reference_answer": "$6",
+    "step_by_step_solution": "Cost per friend = Total cost / Number of friends = 30 / 5 = $6.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

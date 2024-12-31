@@ -1,0 +1,9 @@
+{
+    "question_id": 279,
+    "algebraic_word_problem": "A bag contains 3 red balls, 2 green balls, and 5 blue balls. What fraction of the balls is blue?",
+    "reference_answer": "5/10 or 1/2",
+    "step_by_step_solution": "Total balls = 3 + 2 + 5 = 10\nFraction of blue balls = 5 / 10 = 1/2.",
+    "predicted_answer": "",
+    "topic": "Fraction Problems",
+    "difficulty": "Easy"
+}

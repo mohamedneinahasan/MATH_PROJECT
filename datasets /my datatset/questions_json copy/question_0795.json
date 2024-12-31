@@ -1,0 +1,9 @@
+{
+    "question_id": 795,
+    "algebraic_word_problem": "If the area of a circle is 50\u03c0, what is the radius?",
+    "reference_answer": "5",
+    "step_by_step_solution": "Area = \u03c0r\u00b2; 50\u03c0 = \u03c0r\u00b2; r\u00b2 = 50; r = \u221a50 = 5.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

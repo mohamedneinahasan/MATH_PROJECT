@@ -1,0 +1,9 @@
+{
+    "question_id": 969,
+    "algebraic_word_problem": "If a backpack weighs 2 kg and a laptop weighs 1.5 kg, what is the total weight?",
+    "reference_answer": "3.5 kg",
+    "step_by_step_solution": "Total weight = weight of backpack + weight of laptop = 2 + 1.5 = 3.5.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

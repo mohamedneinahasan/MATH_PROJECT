@@ -1,0 +1,9 @@
+{
+    "question_id": 418,
+    "algebraic_word_problem": "If you buy 3 pounds of apples at $2.50 per pound and 2 pounds of bananas at $1.50 per pound, what is the total cost?",
+    "reference_answer": "$10.50",
+    "step_by_step_solution": "Cost of apples = 3 * 2.50 = 7.50; Cost of bananas = 2 * 1.50 = 3.00. Total cost = 7.50 + 3.00 = 10.50.",
+    "predicted_answer": "",
+    "topic": "Shopping",
+    "difficulty": "Hard"
+}

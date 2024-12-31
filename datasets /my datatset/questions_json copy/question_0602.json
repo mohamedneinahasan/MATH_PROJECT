@@ -1,0 +1,9 @@
+{
+    "question_id": 602,
+    "algebraic_word_problem": "A train moves twice as fast as a car. If the train covers 450 km in 3 hours, how long would it take the car to cover the same distance?",
+    "reference_answer": "6 hours",
+    "step_by_step_solution": "Train speed = 450 km / 3 hrs = 150 km/h; Car speed = 150/2 = 75 km/h; Time for car = 450/75 = 6 hours.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Hard"
+}

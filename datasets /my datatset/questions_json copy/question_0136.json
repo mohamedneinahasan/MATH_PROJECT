@@ -1,0 +1,9 @@
+{
+    "question_id": 136,
+    "algebraic_word_problem": "A teacher has 50 markers and gives away 20%. How many markers does the teacher have left?",
+    "reference_answer": "40 markers",
+    "step_by_step_solution": "Markers given away = 20% of 50 = 0.20 * 50 = 10\nMarkers left = 50 - 10 = 40",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

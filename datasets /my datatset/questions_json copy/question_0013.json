@@ -1,0 +1,9 @@
+{
+    "question_id": 13,
+    "algebraic_word_problem": "Machine A can complete a job in 4 hours, and Machine B can complete the same job in 6 hours. After working together for 2 hours, Machine A breaks down. How long will Machine B take to finish the job?",
+    "reference_answer": "2.67 hours",
+    "step_by_step_solution": "Rate of Machine A = 1/4 job/hour, Rate of Machine B = 1/6 job/hour\nTogether for 2 hours: (1/4 + 1/6) * 2 = 5/12 job completed\nRemaining job = 1 - 5/12 = 7/12\nTime for Machine B to finish = (7/12) / (1/6) = 7/2 = 3.5 hours",
+    "predicted_answer": "",
+    "topic": "Work Problems (Complex)",
+    "difficulty": "Hard"
+}

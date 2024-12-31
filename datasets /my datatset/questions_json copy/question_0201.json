@@ -1,0 +1,9 @@
+{
+    "question_id": 201,
+    "algebraic_word_problem": "The price of a laptop was reduced by 15%, and the new price is $850. What was the original price?",
+    "reference_answer": "$1000",
+    "step_by_step_solution": "Let the original price be x.\nNew price = Original price - 15% of original price\n850 = x - 0.15x\n850 = 0.85x\nx = 850 / 0.85 = $1000",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 361,
+    "algebraic_word_problem": "A train leaves station A traveling at 60 mph and another train leaves station B 2 hours later traveling at 75 mph. When will the second train catch up?",
+    "reference_answer": "6 hours after it leaves",
+    "step_by_step_solution": "Let t be the time in hours the first train travels. Distance = speed \u00d7 time. Distance of first train = 60t. Distance of second train = 75(t - 2). Set the distances equal: 60t = 75(t - 2). Solving gives t = 8, so the second train catches up 6 hours after it leaves.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Hard"
+}

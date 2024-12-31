@@ -1,0 +1,9 @@
+{
+    "question_id": 573,
+    "algebraic_word_problem": "The area of a triangle is 60 cm\u00b2. If the base is 10 cm, what is the height?",
+    "reference_answer": "12 cm",
+    "step_by_step_solution": "Area = (1/2) * base * height; 60 = (1/2) * 10 * height; height = (60 * 2) / 10 = 12 cm.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

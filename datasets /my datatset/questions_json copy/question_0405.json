@@ -1,0 +1,9 @@
+{
+    "question_id": 405,
+    "algebraic_word_problem": "A person invests $1,200 at an annual interest rate of 5% compounded annually. How much will the investment be worth after 3 years?",
+    "reference_answer": "$1,386.08",
+    "step_by_step_solution": "A = P(1 + r)^t = 1200(1 + 0.05)^3 = 1200(1.157625) \u2248 1386.08.",
+    "predicted_answer": "",
+    "topic": "Compound Interest",
+    "difficulty": "Hard"
+}

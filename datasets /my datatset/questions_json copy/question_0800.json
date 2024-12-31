@@ -1,0 +1,9 @@
+{
+    "question_id": 800,
+    "algebraic_word_problem": "What is the solution to the equation 2x + 4 = 3x - 1?",
+    "reference_answer": "x = 5",
+    "step_by_step_solution": "Subtract 2x from both sides: 4 = x - 1; Add 1: 5 = x.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

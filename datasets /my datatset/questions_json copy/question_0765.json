@@ -1,0 +1,9 @@
+{
+    "question_id": 765,
+    "algebraic_word_problem": "If x + 2 = 10, what is the value of x?",
+    "reference_answer": "x = 8",
+    "step_by_step_solution": "Subtract 2 from both sides: x = 10 - 2; x = 8.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

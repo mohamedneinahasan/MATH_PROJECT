@@ -1,0 +1,9 @@
+{
+    "question_id": 468,
+    "algebraic_word_problem": "A jar has 3 red, 2 blue, and 5 green marbles. What is the probability of picking a blue marble?",
+    "reference_answer": "0.2",
+    "step_by_step_solution": "Total marbles = 3 + 2 + 5 = 10. Probability of blue = 2/10 = 0.2.",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Easy"
+}

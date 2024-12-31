@@ -1,0 +1,9 @@
+{
+    "question_id": 751,
+    "algebraic_word_problem": "If x^2 + 2x - 8 = 0, what are the roots?",
+    "reference_answer": "x = 2 and x = -4",
+    "step_by_step_solution": "Factoring: (x - 2)(x + 4) = 0; x = 2 or x = -4.",
+    "predicted_answer": "",
+    "topic": "Quadratic Functions",
+    "difficulty": "Medium"
+}

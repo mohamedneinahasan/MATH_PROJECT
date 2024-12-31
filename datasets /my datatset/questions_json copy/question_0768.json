@@ -1,0 +1,9 @@
+{
+    "question_id": 768,
+    "algebraic_word_problem": "A bicycle costs $120. If the price increases by 20%, what will be the new price?",
+    "reference_answer": "$144",
+    "step_by_step_solution": "Increase = 20% of 120 = 0.2 \u00d7 120 = 24; New price = 120 + 24 = 144.",
+    "predicted_answer": "",
+    "topic": "Percentage",
+    "difficulty": "Medium"
+}

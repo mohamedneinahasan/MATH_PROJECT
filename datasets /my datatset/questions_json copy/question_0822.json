@@ -1,0 +1,9 @@
+{
+    "question_id": 822,
+    "algebraic_word_problem": "What is the value of x in the equation 2(x + 3) = 16?",
+    "reference_answer": "x = 5",
+    "step_by_step_solution": "Divide both sides by 2: x + 3 = 8; Subtract 3: x = 5.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Medium"
+}

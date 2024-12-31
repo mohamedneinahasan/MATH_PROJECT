@@ -1,0 +1,9 @@
+{
+    "question_id": 732,
+    "algebraic_word_problem": "Solve for x in the equation: 2(x - 3) = 16.",
+    "reference_answer": "x = 14",
+    "step_by_step_solution": "Expand the equation: 2x - 6 = 16; Add 6 to both sides: 2x = 22; Divide by 2: x = 11.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Medium"
+}

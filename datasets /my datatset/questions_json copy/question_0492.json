@@ -1,0 +1,9 @@
+{
+    "question_id": 492,
+    "algebraic_word_problem": "A gardener can plant 40 trees in 8 hours. How many trees can he plant in 10 hours?",
+    "reference_answer": "50 trees",
+    "step_by_step_solution": "Rate = 40 trees / 8 hours = 5 trees/hour. In 10 hours, he can plant 5 * 10 = 50 trees.",
+    "predicted_answer": "",
+    "topic": "Work Problems",
+    "difficulty": "Medium"
+}

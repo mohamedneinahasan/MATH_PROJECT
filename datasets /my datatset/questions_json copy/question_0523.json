@@ -1,0 +1,9 @@
+{
+    "question_id": 523,
+    "algebraic_word_problem": "If it takes 4 workers 6 hours to complete a task, how long will it take 6 workers to complete the same task?",
+    "reference_answer": "4 hours",
+    "step_by_step_solution": "Total work = 4 workers \u00d7 6 hours = 24 worker-hours; 6 workers will complete it in 24/6 = 4 hours.",
+    "predicted_answer": "",
+    "topic": "Work Problems",
+    "difficulty": "Medium"
+}

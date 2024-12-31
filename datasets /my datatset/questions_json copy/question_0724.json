@@ -1,0 +1,9 @@
+{
+    "question_id": 724,
+    "algebraic_word_problem": "What are the roots of the quadratic equation x^2 - 5x + 6 = 0?",
+    "reference_answer": "x = 2 and x = 3",
+    "step_by_step_solution": "Factoring: (x - 2)(x - 3) = 0; x - 2 = 0 or x - 3 = 0; Thus, x = 2 or x = 3.",
+    "predicted_answer": "",
+    "topic": "Quadratic Functions",
+    "difficulty": "Medium"
+}

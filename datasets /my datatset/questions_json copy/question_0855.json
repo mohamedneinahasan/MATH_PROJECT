@@ -1,0 +1,9 @@
+{
+    "question_id": 855,
+    "algebraic_word_problem": "If x + 7 = 21, what is the value of x?",
+    "reference_answer": "x = 14",
+    "step_by_step_solution": "Subtract 7 from both sides: x = 21 - 7 = 14.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

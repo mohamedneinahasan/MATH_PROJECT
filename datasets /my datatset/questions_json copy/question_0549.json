@@ -1,0 +1,9 @@
+{
+    "question_id": 549,
+    "algebraic_word_problem": "If a bicycle costs $300 and the sales tax is 8%, what is the total cost?",
+    "reference_answer": "$324",
+    "step_by_step_solution": "Sales tax = 0.08 * 300 = 24; Total cost = 300 + 24 = 324.",
+    "predicted_answer": "",
+    "topic": "Tax",
+    "difficulty": "Medium"
+}

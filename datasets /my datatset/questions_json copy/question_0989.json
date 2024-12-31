@@ -1,0 +1,9 @@
+{
+    "question_id": 989,
+    "algebraic_word_problem": "If a truck can carry 1,000 kg and currently carries 750 kg, how much more can it carry?",
+    "reference_answer": "250 kg",
+    "step_by_step_solution": "Capacity left = total capacity - current load = 1000 - 750 = 250.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

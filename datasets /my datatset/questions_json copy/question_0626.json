@@ -1,0 +1,9 @@
+{
+    "question_id": 626,
+    "algebraic_word_problem": "A car's fuel efficiency decreases by 5% for every 10 kg of additional weight. If it initially travels 15 km/l and 50 kg of weight is added, what is the new efficiency?",
+    "reference_answer": "11.85 km/l",
+    "step_by_step_solution": "Initial efficiency = 15 km/l; New efficiency = 15 * (0.95)^5.",
+    "predicted_answer": "",
+    "topic": "Percentages",
+    "difficulty": "Hard"
+}

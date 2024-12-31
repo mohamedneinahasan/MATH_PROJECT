@@ -1,0 +1,9 @@
+{
+    "question_id": 971,
+    "algebraic_word_problem": "If a recipe calls for 3/4 cup of sugar and you want to make half of the recipe, how much sugar do you need?",
+    "reference_answer": "3/8 cup",
+    "step_by_step_solution": "Sugar needed = 3/4 \u00d7 1/2 = 3/8.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Medium"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 314,
+    "algebraic_word_problem": "If a school has 240 students and 60% are boys, how many girls are there?",
+    "reference_answer": "96 girls",
+    "step_by_step_solution": "Number of boys = 60% of 240 = 0.60 * 240 = 144.\nNumber of girls = Total students - Number of boys = 240 - 144 = 96.",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

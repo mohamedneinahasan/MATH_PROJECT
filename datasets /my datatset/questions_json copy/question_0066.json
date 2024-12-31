@@ -1,0 +1,9 @@
+{
+    "question_id": 66,
+    "algebraic_word_problem": "The perimeter of a triangle is 36 meters. One side is twice the length of the shortest side, and the third side is 4 meters longer than the shortest side. Find the lengths of all sides.",
+    "reference_answer": "8 meters, 16 meters, and 12 meters",
+    "step_by_step_solution": "Let shortest side = x\nSecond side = 2x, Third side = x + 4\nx + 2x + (x + 4) = 36\nSolve for x = 8",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

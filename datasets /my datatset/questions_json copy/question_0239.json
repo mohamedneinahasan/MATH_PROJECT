@@ -1,0 +1,9 @@
+{
+    "question_id": 239,
+    "algebraic_word_problem": "A man invests $1,000 at an interest rate of 3% per year. How much interest will he earn in 4 years?",
+    "reference_answer": "$120",
+    "step_by_step_solution": "Interest = Principal * Rate * Time\nInterest = 1000 * 0.03 * 4 = $120",
+    "predicted_answer": "",
+    "topic": "Interest Problems",
+    "difficulty": "Medium"
+}

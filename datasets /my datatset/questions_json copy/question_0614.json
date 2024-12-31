@@ -1,0 +1,9 @@
+{
+    "question_id": 614,
+    "algebraic_word_problem": "A chemist needs to mix a 20% saline solution with a 60% saline solution to get 200 liters of a 40% solution. How much of each should be used?",
+    "reference_answer": "100 liters of 20% solution and 100 liters of 60% solution",
+    "step_by_step_solution": "Let x = liters of 20% solution; y = liters of 60% solution; x + y = 200; 0.2x + 0.6y = 0.4 * 200; Solve for x and y.",
+    "predicted_answer": "",
+    "topic": "Mixture Problems",
+    "difficulty": "Hard"
+}

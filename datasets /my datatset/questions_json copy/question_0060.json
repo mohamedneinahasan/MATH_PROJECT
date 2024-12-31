@@ -1,0 +1,9 @@
+{
+    "question_id": 60,
+    "algebraic_word_problem": "Two pipes can fill a tank in 6 hours working together. Pipe A alone can fill it in 9 hours. How long will Pipe B take to fill the tank alone?",
+    "reference_answer": "18 hours",
+    "step_by_step_solution": "Rate of Pipe A = 1/9 tanks/hour, Rate of Pipe B = 1/x tanks/hour\nTogether: 1/9 + 1/x = 1/6\nSolve for x = 18 hours",
+    "predicted_answer": "",
+    "topic": "Work Problems",
+    "difficulty": "Medium"
+}

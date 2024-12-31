@@ -1,0 +1,9 @@
+{
+    "question_id": 467,
+    "algebraic_word_problem": "If a rectangle has an area of 50 cm\u00b2 and a length of 10 cm, what is its width?",
+    "reference_answer": "5 cm",
+    "step_by_step_solution": "Area = length \u00d7 width, so 50 = 10 \u00d7 width; width = 50 / 10 = 5 cm.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 324,
+    "algebraic_word_problem": "A recipe uses 2 cups of milk for every 4 cups of flour. How much milk is needed for 10 cups of flour?",
+    "reference_answer": "5 cups of milk",
+    "step_by_step_solution": "Milk per flour = 2/4 = 1/2\nFor 10 cups of flour, milk = (1/2) * 10 = 5 cups.",
+    "predicted_answer": "",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Medium"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 273,
+    "algebraic_word_problem": "A store sells a shirt for $40 after a 20% discount. What was the original price?",
+    "reference_answer": "$50",
+    "step_by_step_solution": "Let the original price be x.\n0.80x = 40\nx = 40 / 0.80 = 50.",
+    "predicted_answer": "",
+    "topic": "Discount Problems",
+    "difficulty": "Medium"
+}

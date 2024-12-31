@@ -1,0 +1,9 @@
+{
+    "question_id": 856,
+    "algebraic_word_problem": "A book was sold for $24 after a 20% discount. What was the original price?",
+    "reference_answer": "$30",
+    "step_by_step_solution": "Let original price = x; 0.8x = 24; x = 24 / 0.8 = 30.",
+    "predicted_answer": "",
+    "topic": "Percentages",
+    "difficulty": "Medium"
+}

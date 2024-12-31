@@ -1,0 +1,9 @@
+{
+    "question_id": 17,
+    "algebraic_word_problem": "Sam is 7 years older than Tom. If Tom is 8 years old, how old is Sam?",
+    "reference_answer": "15 years old",
+    "step_by_step_solution": "Sam = Tom's age + 7 = 8 + 7 = 15 years old",
+    "predicted_answer": "",
+    "topic": "Age Problems (Basic)",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 33,
+    "algebraic_word_problem": "John and Anna have 120 marbles in total. John has twice as many marbles as Anna. How many marbles does each have?",
+    "reference_answer": "John has 80 marbles and Anna has 40 marbles",
+    "step_by_step_solution": "Let Anna's marbles = x\nJohn's marbles = 2x\nx + 2x = 120\n3x = 120\nx = 40\nJohn = 80, Anna = 40",
+    "predicted_answer": "",
+    "topic": "Equations with Two Variables",
+    "difficulty": "Medium"
+}

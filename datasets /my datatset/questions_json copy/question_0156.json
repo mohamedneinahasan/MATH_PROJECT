@@ -1,0 +1,9 @@
+{
+    "question_id": 156,
+    "algebraic_word_problem": "A cyclist travels 15 miles per hour. How far can they travel in 3 hours?",
+    "reference_answer": "45 miles",
+    "step_by_step_solution": "Distance = Speed * Time = 15 miles/hour * 3 hours = 45 miles",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

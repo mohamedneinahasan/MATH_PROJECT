@@ -1,0 +1,9 @@
+{
+    "question_id": 605,
+    "algebraic_word_problem": "The length of a rectangle is increased by 20%, and the width is decreased by 10%. If the original area was 150 square meters, what is the new area?",
+    "reference_answer": "162 square meters",
+    "step_by_step_solution": "Let original length = l and width = w; lw = 150; New area = 1.2l * 0.9w; Substitute lw = 150.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 47,
+    "algebraic_word_problem": "John and Mike together have 90 dollars. John has 20 dollars more than Mike. How much does each have?",
+    "reference_answer": "John has 55 dollars and Mike has 35 dollars",
+    "step_by_step_solution": "Let Mike's dollars = x\nJohn's dollars = x + 20\nx + (x + 20) = 90\n2x + 20 = 90\n2x = 70\nx = 35\nJohn = 55, Mike = 35",
+    "predicted_answer": "",
+    "topic": "Equations with Two Variables",
+    "difficulty": "Medium"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 440,
+    "algebraic_word_problem": "A box contains 5 red balls, 3 green balls, and 2 blue balls. What is the probability of picking a red ball?",
+    "reference_answer": "0.5",
+    "step_by_step_solution": "Total balls = 5 + 3 + 2 = 10. Probability of red = 5/10 = 0.5.",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Hard"
+}

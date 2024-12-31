@@ -1,0 +1,9 @@
+{
+    "question_id": 820,
+    "algebraic_word_problem": "In a triangle, one angle is 40 degrees, and the other two angles are equal. What are the measures of the other two angles?",
+    "reference_answer": "70 degrees each",
+    "step_by_step_solution": "Sum of angles in triangle = 180; Let the other angles be x; 40 + 2x = 180; 2x = 140; x = 70.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

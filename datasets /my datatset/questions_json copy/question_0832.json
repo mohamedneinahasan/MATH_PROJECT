@@ -1,0 +1,9 @@
+{
+    "question_id": 832,
+    "algebraic_word_problem": "If a piece of wood is 12 feet long and is cut into pieces that are 3 feet each, how many pieces can be cut?",
+    "reference_answer": "4 pieces",
+    "step_by_step_solution": "Total length = 12 feet; Length of each piece = 3 feet; Number of pieces = 12 / 3 = 4.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 155,
+    "algebraic_word_problem": "A man is twice as old as his son. If the sum of their ages is 72, how old is each?",
+    "reference_answer": "Father is 48 years old, son is 24 years old",
+    "step_by_step_solution": "Let son's age = x, then father's age = 2x\nx + 2x = 72\n3x = 72\nx = 24\nFather's age = 2 * 24 = 48",
+    "predicted_answer": "",
+    "topic": "Age Problems",
+    "difficulty": "Medium"
+}

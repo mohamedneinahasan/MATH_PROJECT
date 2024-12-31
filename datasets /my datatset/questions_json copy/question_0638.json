@@ -1,0 +1,9 @@
+{
+    "question_id": 638,
+    "algebraic_word_problem": "If a company sells a product for $200, making a profit of 25%, what is the product's cost?",
+    "reference_answer": "$160",
+    "step_by_step_solution": "Let cost = x; Profit = 0.25x; Selling price = x + 0.25x = 1.25x; Solve 1.25x = 200 for x.",
+    "predicted_answer": "",
+    "topic": "Finance",
+    "difficulty": "Easy"
+}

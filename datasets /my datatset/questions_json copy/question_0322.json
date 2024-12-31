@@ -1,0 +1,9 @@
+{
+    "question_id": 322,
+    "algebraic_word_problem": "A store sells a jacket for $80 after a 20% discount. What was the original price?",
+    "reference_answer": "$100",
+    "step_by_step_solution": "Selling price = Cost price * (1 - Discount %)\n80 = Cost price * 0.8\nCost price = 80 / 0.8 = $100.",
+    "predicted_answer": "",
+    "topic": "Discount Problems",
+    "difficulty": "Medium"
+}

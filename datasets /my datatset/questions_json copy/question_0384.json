@@ -1,0 +1,9 @@
+{
+    "question_id": 384,
+    "algebraic_word_problem": "A square has an area of 144 cm\u00b2. What is the length of one side?",
+    "reference_answer": "12 cm",
+    "step_by_step_solution": "Area = side\u00b2. So, side = \u221a144 = 12 cm.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

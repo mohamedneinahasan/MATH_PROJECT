@@ -1,0 +1,9 @@
+{
+    "question_id": 68,
+    "algebraic_word_problem": "Two trains leave a station at the same time, one traveling north at 60 miles per hour and the other traveling east at 80 miles per hour. How far apart are they after 2 hours?",
+    "reference_answer": "100 miles",
+    "step_by_step_solution": "Distance north = 60 * 2 = 120 miles\nDistance east = 80 * 2 = 160 miles\nUse Pythagorean theorem: Distance = sqrt(120^2 + 160^2) = 100 miles",
+    "predicted_answer": "",
+    "topic": "Pythagorean Theorem",
+    "difficulty": "Hard"
+}

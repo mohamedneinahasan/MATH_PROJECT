@@ -1,0 +1,9 @@
+{
+    "question_id": 899,
+    "algebraic_word_problem": "If the total cost of 4 items is $80, what is the cost per item?",
+    "reference_answer": "$20",
+    "step_by_step_solution": "Cost per item = total cost / number of items = 80 / 4 = 20.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

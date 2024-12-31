@@ -1,0 +1,9 @@
+{
+    "question_id": 802,
+    "algebraic_word_problem": "If 2x + 3y = 6 and 4x + 6y = 12, are the equations independent?",
+    "reference_answer": "No, they are dependent.",
+    "step_by_step_solution": "The second equation is a multiple of the first; they represent the same line.",
+    "predicted_answer": "",
+    "topic": "Systems of Equations",
+    "difficulty": "Hard"
+}

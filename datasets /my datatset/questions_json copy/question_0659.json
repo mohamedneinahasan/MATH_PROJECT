@@ -1,0 +1,9 @@
+{
+    "question_id": 659,
+    "algebraic_word_problem": "A runner travels 9 km in 40 minutes. What is their average speed in km/h?",
+    "reference_answer": "13.5 km/h",
+    "step_by_step_solution": "Average speed = Distance / Time = 9 / (40/60) = 13.5 km/h.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

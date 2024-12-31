@@ -1,0 +1,9 @@
+{
+    "question_id": 591,
+    "algebraic_word_problem": "A train leaves city A traveling at 60 km/h. Two hours later, a second train leaves city A traveling at 90 km/h. When will the second train catch up to the first?",
+    "reference_answer": "4 hours after the second train leaves",
+    "step_by_step_solution": "Distance traveled by the first train in 2 hours = 120 km; Let time taken by the second train to catch up = t; 60(2 + t) = 90t; Solve for t.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Hard"
+}

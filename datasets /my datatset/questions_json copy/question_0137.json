@@ -1,0 +1,9 @@
+{
+    "question_id": 137,
+    "algebraic_word_problem": "If 15% of a number is 30, what is the number?",
+    "reference_answer": "200",
+    "step_by_step_solution": "Let the number = x. Then, 0.15x = 30\nx = 30 / 0.15 = 200",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

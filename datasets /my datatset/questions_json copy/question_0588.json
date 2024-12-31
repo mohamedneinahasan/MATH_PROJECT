@@ -1,0 +1,9 @@
+{
+    "question_id": 588,
+    "algebraic_word_problem": "A container holds 200 liters of water. Water is being drained at a rate of 5 liters per hour and added at a rate of 10 liters per hour. How long will it take to fill the container?",
+    "reference_answer": "40 hours",
+    "step_by_step_solution": "Net rate = 10 - 5 = 5 liters/hour; Time = 200 liters / 5 liters/hour = 40 hours.",
+    "predicted_answer": "",
+    "topic": "Work Problems",
+    "difficulty": "Hard"
+}

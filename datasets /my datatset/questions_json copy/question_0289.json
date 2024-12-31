@@ -1,0 +1,9 @@
+{
+    "question_id": 289,
+    "algebraic_word_problem": "A car travels 240 miles on 8 gallons of gas. What is the car's fuel efficiency in miles per gallon?",
+    "reference_answer": "30 MPG",
+    "step_by_step_solution": "MPG = Distance / Gallons = 240 miles / 8 gallons = 30 MPG.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+}

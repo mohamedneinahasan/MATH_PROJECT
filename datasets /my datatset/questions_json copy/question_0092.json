@@ -1,0 +1,9 @@
+{
+    "question_id": 92,
+    "algebraic_word_problem": "A recipe requires 4 cups of flour for 2 loaves of bread. How much flour is needed for 5 loaves?",
+    "reference_answer": "10 cups of flour",
+    "step_by_step_solution": "Flour per loaf = 4 cups / 2 loaves = 2 cups/loaf\nFlour for 5 loaves = 2 cups/loaf * 5 = 10 cups",
+    "predicted_answer": "",
+    "topic": "Proportion Problems",
+    "difficulty": "Easy"
+}

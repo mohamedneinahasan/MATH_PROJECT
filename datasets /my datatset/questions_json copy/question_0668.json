@@ -1,0 +1,9 @@
+{
+    "question_id": 668,
+    "algebraic_word_problem": "If a shirt costs $30 after a 20% discount, what was the original price?",
+    "reference_answer": "$37.50",
+    "step_by_step_solution": "Let x be the original price: x - 0.2x = 30\n0.8x = 30\nx = 30 / 0.8 = $37.50",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 810,
+    "algebraic_word_problem": "If the sum of the first n odd numbers is 121, what is n?",
+    "reference_answer": "11",
+    "step_by_step_solution": "Sum of first n odd numbers = n\u00b2; n\u00b2 = 121; n = 11.",
+    "predicted_answer": "",
+    "topic": "Number Theory",
+    "difficulty": "Medium"
+}

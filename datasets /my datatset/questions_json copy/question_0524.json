@@ -1,0 +1,9 @@
+{
+    "question_id": 524,
+    "algebraic_word_problem": "A store sells 50% more of item A than item B. If item B sells 200 units, how many units of item A are sold?",
+    "reference_answer": "300 units",
+    "step_by_step_solution": "Item A = Item B + 50% of Item B = 200 + (0.5 \u00d7 200) = 300 units.",
+    "predicted_answer": "",
+    "topic": "Proportions",
+    "difficulty": "Medium"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 848,
+    "algebraic_word_problem": "In a classroom, the ratio of boys to girls is 3:4. If there are 28 students in total, how many boys are there?",
+    "reference_answer": "12 boys",
+    "step_by_step_solution": "Let boys = 3x, girls = 4x; 3x + 4x = 28; 7x = 28; x = 4; Boys = 3(4) = 12.",
+    "predicted_answer": "",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Medium"
+}

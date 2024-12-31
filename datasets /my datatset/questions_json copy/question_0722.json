@@ -1,0 +1,9 @@
+{
+    "question_id": 722,
+    "algebraic_word_problem": "Solve the inequality: 3x - 7 > 2.",
+    "reference_answer": "x > 3",
+    "step_by_step_solution": "Add 7 to both sides: 3x > 9; Divide by 3: x > 3.",
+    "predicted_answer": "",
+    "topic": "Inequalities",
+    "difficulty": "Easy"
+}

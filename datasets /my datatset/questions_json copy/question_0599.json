@@ -1,0 +1,9 @@
+{
+    "question_id": 599,
+    "algebraic_word_problem": "If a triangle has two sides measuring 6 cm and 8 cm, what is the range of possible lengths for the third side?",
+    "reference_answer": "2 cm < third side < 14 cm",
+    "step_by_step_solution": "Using triangle inequality: 6 + 8 > third side, 6 + third side > 8, 8 + third side > 6.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}
