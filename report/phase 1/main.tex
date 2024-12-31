@@ -1,0 +1,504 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{fancyhdr}
+\usepackage{cite}
+\usepackage{framed}
+\usepackage{a4wide}
+\usepackage{float}
+\usepackage{blindtext}
+\usepackage{multicol}
+%The below Section make chapter and its name to center of the page
+\usepackage{blindtext}
+\usepackage{xpatch}
+\usepackage{mathptmx}
+\usepackage{geometry}
+ \geometry{
+ right=25mm,
+ left=35mm,
+ top=25mm,
+ bottom=25mm,
+ }
+% \usepackage{fontspec}
+\usepackage{tocloft}
+\makeatletter
+\renewcommand{\cftdot}{}
+\renewcommand{\cftchappresnum}{CHAPTER }
+\renewcommand{\cftchapaftersnum}{:}
+\renewcommand{\cftchapnumwidth}{6.5em}
+\renewcommand\cftfigindent{0pt}
+\renewcommand\cftfigpresnum{Figure\ }
+\renewcommand\cftfigaftersnum{ : }
+\renewcommand{\cftfignumwidth}{5.5em}
+\renewcommand{\cfttabpresnum}{Table\ }
+\renewcommand\cfttabaftersnum{ : }
+\renewcommand{\cfttabnumwidth}{5em}
+\makeatother
+
+
+% \setmainfont{Times New Roman}
+\makeatletter
+\xpatchcmd{\@makeschapterhead}{%
+  \Huge \bfseries  #1\par\nobreak%
+}{%
+  \Huge \bfseries\centering #1\par\nobreak%
+}{\typeout{Patched makeschapterhead}}{\typeout{patching of @makeschapterhead failed}}
+
+
+\xpatchcmd{\@makechapterhead}{%
+  \huge\bfseries \@chapapp\space \thechapter
+}{%
+  \huge\bfseries\centering \@chapapp\space \thechapter
+}{\typeout{Patched @makechapterhead}}{\typeout{Patching of @makechapterhead failed}}
+
+\makeatother
+%The above Section make chapter and its name to center of the page
+%\unwanted packages also included
+\linespread{1.5}
+%\pagestyle{fancy}
+%\fancyhead{}
+%\header and footer section
+%\renewcommand\headrulewidth{0.1pt}
+%\fancyhead[L]{\footnotesize \leftmark}
+%\fancyhead[R]{\footnotesize \thepage}
+%\renewcommand\headrulewidth{0pt}
+%\fancyfoot[R]{\small College of Engineering, Kidangoor}
+%\renewcommand\footrulewidth{0.1pt}
+%\fancyfoot[C]{2019 - 2020}
+%\fancyfoot[L]{\small Name of the project}
+
+
+
+
+\begin{document}
+
+\begin{center}
+{\Large \textbf{Exploring Capabilities Of Large Language Models In Solving Basic Algebraic Equations}}\\
+\vspace{0.5cm}
+
+A PROJECT REPORT\\
+SUBMITTED IN PARTIAL FULFILLMENT OF THE REQUIREMENTS\\
+FOR THE AWARD OF THE DEGREE\\
+OF\\
+MASTERS OF TECHNOLOGY \\
+IN\\
+\textbf{ARTIFICIAL INTELLIGENCE AND DATA SCIENCE} \\
+\vspace{1 cm}
+Submitted by: \\
+
+% \begin{multicols}{3}
+% \vspace{1cm}
+\textbf{Mohamed Neina Hasan}
+% \vspace{0.2cm}
+\textbf{(23011501008)}\\
+% \vspace{0.2cm}
+
+\vspace{1 cm}
+Under the supervision of\\
+
+Prof. (Dr.) K.B. Sundhara Kumar\\
+
+
+\end{center}
+
+% \vspace{4pt}
+\begin{center}
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.8]{SNU-chennai-LOGO-1024x576.jpg}
+    \label{fig:SNUC logo}
+\end{figure}
+
+\textbf{DEPT. OF COMPUTER SCIENCE AND ENGINEERING}\\
+SHIV NADAR UNIVERSITY CHENNAI\\
+Rajiv Gandhi Salai (OMR), Kalavakkam, Chennai-603110 \\
+\textbf{November 2024}\\
+\end{center}
+
+
+\newpage
+
+\pagenumbering{roman}
+
+%\Declaration in this page.
+
+\begin{center}
+\begin{center}
+%\vspace{1.5cm}
+\end{center}
+\vspace{2 cm}
+\textbf{\underline{CANDIDATE’S DECLARATION}}\\
+\addcontentsline{toc}{chapter}{Candidate’s Declaration}
+\end{center}
+\vspace{1.2cm}
+I, Mohamed Neina Hasan student of M.Tech AI\&DS, hereby declare that the Project Dissertation titled ―“Exploring Capabilities Of Large Language Models In Solving Basic Algebraic Equations” which is submitted by us to the Department of Computer Science and Engineering, Shiv Nadar University Chennai in fulfillment of the requirement for awarding of the Master of Technology degree, is not copied from any source without proper citation. This work has not previously formed the basis for the award of any Degree, Diploma, Fellowship or other similar title or recognition.
+
+\noindent \begin{minipage}{4cm}
+\begin{flushleft}
+\vspace{5 cm}
+                         
+Place: Chennai\\
+Date: November 8, 2024\\
+
+\end{flushleft} 
+\end{minipage}
+\hfill
+\begin{minipage}{12cm}
+\begin{flushright}                                      
+\vspace{5 cm}
+ % Changed from 3 to 4 to accommodate one more entry
+\vspace{1cm}
+\textbf{Mohamed Neina Hasan} \\
+\vspace{0.2cm}
+\textbf{(23011501008)}\\
+\vspace{1cm}
+
+
+
+
+\end{flushright} 
+\end{minipage}
+
+% \thispagestyle{empty}
+
+\newpage
+
+\vspace{2cm}
+\begin{center}
+ \textbf{\underline {CERTIFICATE}}
+ \addcontentsline{toc}{chapter}{Certificate}
+\end{center}
+I hereby certify that the Project titled "Exploring Capabilities Of Large Language Models In Solving Basic Algebraic Equations” which is submitted by Mohamed Neina Hasan (23011501008) for fulfillment of the requirements for awarding of the degree of Master of Technology (M.Tech) is a record of the project work carried out by the student under my guidance \& supervision. To the best of my knowledge, this work has not been submitted in any part or fulfillment for any Degree or Diploma to this University or elsewhere.
+
+\noindent \begin{minipage}{4cm}
+\begin{flushleft}
+\vspace{1 cm}
+                         
+Place : Chennai \\
+Date : November 19, 2024 \\
+
+\end{flushleft} 
+\end{minipage}
+\hfill
+\begin{minipage}{10cm}
+\begin{flushright}                                      
+\vspace{2cm}
+
+\vspace{.8cm}
+\textbf{Dr. K.B. Sundhara Kumar}\\
+\textbf{(SUPERVISOR)}\\
+Professor\\
+Department of Computer Science and Engineering\\
+Shiv Nadar University Chennai\\
+\end{flushright} 
+\end{minipage}
+% \thispagestyle{empty}
+\newpage
+% Please remove and edit percentage(%) Symbol, if you want this Acknowledgement page in your report. As per ktu guideline, this page is not necessary. 
+
+% \begin{abstract}
+\begin{center} \textbf{ABSTRACT} \addcontentsline{toc}{chapter}{Abstract} \end{center}
+
+\textbf{Keywords} - Deep Learning, Face Recognition, Photo-Sharing Platform, Event Management, Image Processing, SpotMe, Real-Time Sharing, User-Centric
+
+\vspace{0.8cm}
+
+In today's event-centric culture, capturing and sharing photos is an integral part of the experience, but organizing and distributing these images post-event presents significant challenges. "SpotMe" is a deep learning-based platform that revolutionizes the way event photos are managed and shared. It leverages advanced facial recognition techniques and content-based image retrieval to streamline the aggregation, filtering, and sharing of images among users. By addressing issues like multi-source photo aggregation and decentralized sharing, SpotMe enhances the efficiency and accessibility of event photography distribution.
+
+With a user-friendly interface, SpotMe enables real-time photo sharing via QR codes and personalized galleries, ensuring attendees can easily access and manage their images. The platform integrates seamlessly with existing cloud storage solutions, offering secure and flexible access. Designed to meet the needs of event-goers and organizers alike, SpotMe demonstrates high accuracy in facial recognition, making it an ideal solution for managing large volumes of event images. By reducing the complexity of photo distribution, SpotMe empowers users to enjoy memorable moments with ease and fosters a more connected event experience.
+
+
+\newpage
+\addcontentsline{toc}{chapter}{Acknowledgement}
+
+\chapter*{\centering \large ACKNOWLEDGEMENT\markboth{Acknowledgements}{Acknowledgements}}
+
+The successful completion of any task is incomplete and meaningless without giving due credit to the people who made it possible; without them, the project would not have been successful and would have existed only in theory.
+
+First and foremost, we are grateful to \textbf{Dr. Nagarajan T}, HOD, Department of Computer Science and Engineering, Shiv Nadar University Chennai, and all other faculty members of our department for their constant guidance, motivation, and sincere support throughout this project work. We owe a lot of thanks to our supervisor, \textbf{Dr. K.B. Sundhara Kumar}, Professor, Department of Computer Science and Engineering, Shiv Nadar University Chennai for igniting and constantly motivating us and guiding us in the idea of a creatively and effectively performed Major Project in undertaking this endeavor and challenge. He has always been there whenever we needed his guidance or assistance.
+
+We would also like to take this moment to show our thanks and gratitude to all those who have indirectly or directly contributed their efforts in this challenging task. We feel happy and joyful in expressing our vote of thanks to all those who have helped us and guided us in presenting this project work for our Major project. Last but not least, we thank our well-wishers and parents for always being with us in every sense and constantly supporting us whenever possible.
+
+\vspace{2 cm}                        
+
+\centering
+\textbf{Mohamed Neina Hasan} \\
+\textbf{(23011501008)}\\
+\vspace{0.3cm}
+
+
+
+
+\tableofcontents %This command used for index.
+\newpage
+\listoftables
+
+\addcontentsline{toc}{chapter}{List of Figures}
+
+\newpage
+\listoffigures
+\addcontentsline{toc}{chapter}{List of Tables}
+
+\newpage
+
+
+
+\chapter{INTRODUCTION} \section{Overview} The proliferation of digital photography in the event industry has created new challenges for managing and sharing event photos. Typically, after events, attendees and organizers face difficulties with aggregating and distributing photos from various sources such as cloud storage platforms, messaging applications, and physical transfer methods. This fragmented approach not only complicates the sharing process but also results in issues related to photo filtering and accessibility.
+
+To address these challenges, SpotMe offers an innovative solution that leverages deep learning to create a unified, efficient photo-sharing platform. By employing facial recognition and content-based image retrieval, SpotMe simplifies the organization and sharing of event photos in a structured, user-friendly manner. This platform integrates with existing storage solutions, enhances user experience with real-time sharing capabilities, and ensures privacy with controlled access features.
+
+\section{Problem Formulation}
+
+Event photography is currently managed through a decentralized approach, relying on platforms such as Google Drive, OneDrive, WhatsApp, and physical transfer methods like Bluetooth and USB devices. This practice presents several limitations:
+
+\begin{itemize} \item \textbf{Multi-source Photo Aggregation}: Collecting photos from multiple sources and attendees is cumbersome and time-consuming. \item \textbf{Decentralized Photo Sharing}: Sharing large volumes of photos across multiple channels can lead to issues with organization and redundancy. \item \textbf{Photo Filtering}: Manually sorting through photos to identify specific individuals or groups is inefficient and often leads to errors. \item \textbf{Volume Management}: With the high volume of photos captured at events, managing and processing these images for distribution becomes challenging. \end{itemize}
+
+These challenges highlight the need for an integrated system that can automate image retrieval, enhance accuracy through facial recognition, and support controlled photo-sharing access.
+
+\section{Objectives} \begin{itemize} \item To design a face matching and photo-sharing platform that addresses the issues of decentralized photo sharing by offering a centralized solution. \item To integrate deep learning-based facial recognition for accurate image identification and efficient photo filtering. \item To enable real-time photo sharing at events via QR codes and personalized galleries, ensuring quick and secure access for users. \item To provide seamless integration with existing cloud storage solutions, enhancing the accessibility and usability of the platform. \item To support large-scale photo management with high accuracy in recognition, suitable for both event organizers and attendees. \end{itemize}
+
+\section{Motivation} The motivation behind SpotMe stems from the evolving need for streamlined event photo management solutions. Traditional photo-sharing methods lack organization, efficiency, and user-friendliness, especially when handling large volumes of images. The rise of deep learning and AI-powered facial recognition offers a promising avenue for solving these issues, providing accurate and reliable ways to match faces across multiple images.
+
+Additionally, SpotMe is designed to cater to a broad user base, from event photographers to casual users who want an easy way to access and share event photos. By implementing a centralized platform with cutting-edge image processing and sharing features, SpotMe seeks to redefine the event photo-sharing experience, making it more intuitive, secure, and accessible.
+
+\chapter{BACKGROUND}
+
+\section{What is SpotMe?}
+SpotMe is a deep learning-based face matching and photo-sharing platform specifically designed to simplify the aggregation, organization, and sharing of event photos. Unlike traditional methods that rely on various decentralized sources, SpotMe offers a centralized solution for event photography, streamlining the process and enhancing accessibility. The platform integrates facial recognition technology, enabling efficient and accurate identification of individuals within large photo collections, which reduces the manual effort required for photo sorting and retrieval.
+
+
+\section{Challenges in Event Photo Sharing}
+Managing event photos has traditionally been challenging due to the fragmented nature of photo sharing. Common issues include:
+\begin{itemize}
+    \item \textbf{Multi-source Aggregation}: Photos are often collected from a variety of sources, such as cloud storage platforms (Google Drive, OneDrive), messaging applications (WhatsApp, Telegram), and physical transfers (USB, Bluetooth), making it difficult to maintain a unified collection.
+    \item \textbf{Decentralized Sharing}: Distribution of photos across various channels leads to organization issues and potential duplication.
+    \item \textbf{Photo Filtering and Identification}: Manually filtering and identifying people in photos is inefficient, especially in large event settings.
+    \item \textbf{High Volume Management}: The sheer volume of photos captured at events can be overwhelming to manage, requiring advanced tools for efficient sorting and retrieval.
+\end{itemize}
+
+\section{Comparison of Existing Solutions}
+SpotMe provides unique features that set it apart from other event photo-sharing solutions available in the market. Below is a comparison of some notable competitors in the field based on their key features and functionalities:
+
+\begin{table}[htbp]
+\caption{Comparison of Event Photo Sharing Platforms}
+\vspace{0.5cm}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+Platform & Photo Sharing Facility & Storage Facility & Integration with Apps & Unique Features & Pricing \\
+\hline
+DropEvent     & Cloud galleries, QR codes & Cloud storage & No & Easy event setup & Free basic plan, paid premium options \\
+SpotMyPhotos  & Branded galleries, QR codes & Cloud storage, integration with Google Drive & Yes & Real-time sharing & Custom pricing per event \\
+FotoOwl       & Social media integration & Limited & No & AI-based tagging & Paid plans based on storage size \\
+KwikPic       & Instant sharing & Unlimited storage & Yes & Affordable pricing per photo & \$0.03/photo, annual packages start at ₹3490/year \\
+Memzo         & Customizable galleries & Unlimited, Google Drive & Yes & User-friendly interface & Flexible subscription options \\
+\hline
+\end{tabular}%
+}
+\label{table:platform-comparison}
+\end{table}
+
+
+\section{Technology Stack}
+The development of SpotMe utilizes a robust technology stack that ensures seamless operation, scalability, and security. Key technologies include:
+\begin{itemize}
+    \item \textbf{NextJS}: Used for the frontend interface, allowing a dynamic and responsive user experience.
+    \item \textbf{FastAPI}: Acts as the backend framework, providing efficient handling of API requests.
+    \item \textbf{AWS Cloud Services}: Ensures scalable storage and deployment options.
+    \item \textbf{PostgreSQL}: The chosen database for secure and reliable data management.
+\end{itemize}
+
+\section{Spotting Algorithm}
+SpotMe employs a facial recognition model to accurately identify individuals in event photos. The platform leverages the \textbf{DeepFace} library, which is known for its high accuracy and robustness in varied lighting conditions and poses. This enables SpotMe to maintain reliable facial recognition across diverse image sets, ensuring accurate identification.
+
+\chapter{ARCHITECTURE AND WORKFLOW}
+
+\section{System Architecture}
+The SpotMe application is built using a robust architecture that supports seamless face matching, image retrieval, and real-time photo-sharing capabilities. The system architecture consists of three primary components:
+\begin{itemize}
+    \item \textbf{Frontend (NextJS)}: Provides an interactive user interface for event participants, allowing them to view and share photos through a web-based platform.
+    \item \textbf{Backend (FastAPI)}: Manages requests, processes images, and coordinates the interactions between the frontend, database, and AI models.
+    \item \textbf{Database (PostgreSQL)}: Stores event data, user information, and photo metadata, ensuring secure and efficient data management.
+\end{itemize}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.6]{system_architecture.png}
+    \caption{SpotMe System Architecture}
+    \label{fig:system-architecture}
+\end{figure}
+
+
+\section{Workflow}
+The workflow of SpotMe involves several stages, from image capture to user access, designed to deliver a seamless photo-sharing experience. The high-level workflow is illustrated in Figure \ref{fig:workflow} 
+
+\subsection{High-Level Pipeline}
+The main stages of SpotMe’s workflow include:
+\begin{itemize}
+    \item \textbf{Event Photo Capture}: Photos are captured by event photographers and uploaded to the platform.
+    \item \textbf{Local Storage}: Captured photos are initially stored locally on devices before being processed.
+    \item \textbf{Shared Storage}: Photos are uploaded to a shared storage platform, such as AWS, for centralized access.
+    \item \textbf{Spotting Algorithm}: SpotMe’s facial recognition algorithm is applied to detect and identify faces in photos.
+    \item \textbf{Storage and Organization}: Photos are organized with metadata for efficient search and retrieval.
+    \item \textbf{Sharing and Permission}: Photos are shared with users through QR codes or galleries with specific access permissions.
+\end{itemize}
+
+\begin{figure}[H]
+    \centering
+    \hspace{-8cm} % Adjust this value to move the image to the left
+    
+    \includegraphics[width=1.1\textwidth]{workflow 2.png}
+    \caption{SpotMe Workflow}
+    \label{fig:workflow}
+\end{figure}
+
+\subsubsection{DB Schema}
+The database schema of SpotMe organizes and stores information related to event photos, users, and permissions, facilitating efficient data retrieval and secure access. Figure \ref{fig:db-schema} illustrates the database structure.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{db.png} % Adjust file name and width as needed
+    \caption{SpotMe Database Schema}
+    \label{fig:db-schema}
+\end{figure}
+
+
+
+
+
+\subsubsection{Spotting Algorithm: DeepFace}
+SpotMe utilizes the \textbf{DeepFace} algorithm for facial recognition, leveraging deep learning-based models to accurately identify individuals in photos. DeepFace provides a robust framework for facial recognition, enabling SpotMe to match faces across large sets of images, regardless of variations in lighting, pose, or background.
+
+In our previous method:
+\begin{itemize}
+    \item \textbf{Embedding Generation}: We used DeepFace to generate embeddings and perform face matching by downloading images into the file system.
+    \item \textbf{Performance}: This approach yielded good accuracy but was significantly slow and resource-intensive.
+\end{itemize}
+
+To enhance performance, we have transitioned to a new method:
+\begin{itemize}
+    \item \textbf{Embedding Generation}: We generate embeddings with DeepFace and save them in a JSON file.
+    \item \textbf{Performance}: This allows us to load the JSON file only during face matching, resulting in a process that is \textbf{5x} faster than the previous method while maintaining better accuracy.
+    \item \textbf{Matching Technique}: Face matching is accomplished by computing the Euclidean \(L_2\) distance between the generated embeddings and the reference image embeddings, with all embeddings being \(L_2\) normalized.
+\end{itemize}
+
+\begin{itemize}
+    \item Table \ref{table:spotting-overview} provides an overview of the key metrics and details for the spotting algorithm used in SpotMe.
+\end{itemize}
+
+
+\begin{table}[H]
+    \centering
+    \caption{Overview of Spotting Algorithm}
+    \label{table:spotting-overview}
+    \begin{tabular}{|l|l|}
+        \hline
+        \textbf{Metric} & \textbf{Details} \\
+        \hline
+        \textbf{Dataset:} & LFW (Labeled Faces in the Wild) \\
+        \hline
+        \textbf{Total Images:} & 13,000+ \\
+        \hline
+        \textbf{Total Individuals:} & 5,749 \\
+        \hline
+        \textbf{Variations:} & Pose, lighting \\
+        \hline
+        \textbf{Purpose:} & Facial recognition benchmarking \\
+        \hline
+    \end{tabular}
+\end{table}
+
+\begin{itemize}
+    \item The algorithm utilized two models: one for detection and the other for recognition and embedding. Each combination of the detection model with the recognition and embedding model was tested, and the image presents the accuracy scores for every possible combination. Figure 3.4
+} illustrates the comparison of these models.
+\end{itemize}
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{model comp.png} % Adjust file name and width as needed
+    \caption{SpotMe Model comparison}
+    \label{fig:model-comparison}
+\end{figure}
+
+\chapter{Spot Me: Future Enhancements}
+
+
+The goal of SpotMe is to bridge the gap between event photographers and participants by providing an intuitive and seamless platform where photos can be easily sorted, tagged, and shared. As a result, SpotMe eliminates the burden of manually searching through countless images, providing a more engaging and personalized experience for both photographers and event attendees. The system’s ability to identify faces ensures that users can find their photos quickly and effortlessly, without relying on traditional methods of tagging or searching by keywords.
+
+Despite its promising features, SpotMe is still a work in progress, and several areas have been identified for potential enhancement to improve its functionality, scalability, and user experience. These enhancements will help expand the platform’s capabilities, improve its robustness, and provide better services to users. The following sections outline some of the most promising areas for future development.
+
+\section{Potential Work Areas}
+
+\begin{itemize}
+    \item \textbf{Face Embeddings}: One of the most significant improvements would be to refine the facial recognition model by focusing on more advanced face embedding techniques. These embeddings can be used to generate more accurate and distinct representations of faces, improving both the precision and recall of face matching. Further enhancement of these embeddings could include dealing with variations in facial expressions, angles, lighting conditions, and occlusions, which are commonly present in real-world event photos.
+    
+
+    \item \textbf{Functional Problems}: A variety of functional issues could emerge as the platform scales. For instance, performance bottlenecks, server downtime, or challenges in handling high-resolution images need to be addressed. Improving the backend architecture to support faster image processing and real-time face detection could significantly improve user experience. Additionally, addressing usability concerns related to photo organization, search, and retrieval will enhance platform functionality.
+
+    \item \textbf{Sharing Event Identifier}: A system that accurately identifies and categorizes photos by specific events, ensuring users can easily access their personal images. This could be achieved by implementing event tagging features that allow automatic detection of event-related metadata, such as event location, date, and participants. Enabling users to filter photos based on these identifiers can greatly enhance the search and sorting experience.
+
+    \item \textbf{Ensuring Closed Set Access}: Security is an important consideration for any platform handling personal data. Ensuring that the platform operates within a closed set and provides limited access to photos will be a critical improvement. This could involve adding more robust user authentication methods (e.g., multi-factor authentication) and access control policies. Additionally, integrating features that allow users to control the visibility of their photos or limit access to specific groups will ensure data privacy and security.
+
+   
+\end{itemize}
+
+\newpage
+
+\chapter{CONCLUSION}
+
+The development and implementation of SpotMe represents a significant advancement in the realm of event photography and photo sharing. With the integration of deep learning-based facial recognition technology, SpotMe provides a centralized solution for the aggregation, organization, and sharing of event photos. This approach significantly reduces the manual effort required to sort through large photo collections, allowing users to easily access and share their images based on facial recognition. By focusing on facial embeddings, SpotMe ensures that the identification process is both accurate and efficient, even in large-scale, complex photo datasets.
+
+The platform not only enhances the event experience for photographers and attendees but also addresses key challenges in the digital photo-sharing space. Traditional methods of photo sharing often rely on decentralized sources, making it difficult to locate and organize images. SpotMe, by contrast, centralizes the photo management process, enabling users to quickly find their images based on facial recognition and event tags. This innovation eliminates the time-consuming task of manual tagging and searching, thus providing a more seamless user experience.
+
+While SpotMe has already demonstrated its potential, there are several areas for improvement that will help elevate the platform further. Future enhancements, such as refining the facial embedding techniques, optimizing the spotting algorithm, and ensuring secure and restricted access to sensitive data, will improve the platform’s robustness and scalability. Additionally, by incorporating cloud integration and cross-platform support, SpotMe can become a more versatile tool for users around the world. 
+
+
+In conclusion, SpotMe is a forward-thinking platform that has the potential to revolutionize how event photos are handled, shared, and enjoyed. With ongoing improvements and the integration of advanced features, the platform promises to become an indispensable tool for photographers, event organizers, and attendees alike.
+
+
+
+\newpage
+
+\chapter{Bibliography}
+
+\section*{References}
+
+\begin{itemize}
+    \item \textbf{On the Sociology of Occasions}. Available at: ResearchGate, \texttt{https://www.researchgate.net\\/publication/308757588\_On\_the\_Sociology\_of\_Occasions}
+    
+    \item \textbf{Spotting Algorithm Comparison: DeepFace Benchmarks}. Available at: GitHub, \texttt{https://github.com/serengil/deepface/tree/master/benchmarks}
+\end{itemize}
+
+\end{document}
+
+
+
+\addcontentsline{toc}{chapter}{Appendices}
+\chapter*{\centering \large Appendix\markboth{Appendix}{Appendix}}
+
+\begin{figure}[H]
+\centering
+    \includegraphics[scale=0.40]{SNU-chennai-LOGO-1024x576.jpg}
+    \label{fig:AIS data}
+\end{figure}
+
+\addcontentsline{toc}{chapter}{References}
+
+\begin{thebibliography}{99}
+\bibitem{b1}Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+\bibitem{b2}Lorem Ipsum is simply dummy text of the printing and typesetting
+\bibitem{b3} Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+\end{thebibliography}
+
+\chapter*{\centering \large PAPER ACCEPTANCE PROOF\markboth{PAPER ACCEPTANCE PROOF}{PAPER ACCEPTANCE PROOF}}
+
+
+\chapter*{\centering \large REGISTRATION PROOF\markboth{REGISTRATION PROOF}{REGISTRATION PROOF}}
+
+
+\chapter*{\centering \large SCOPUS INDEXED CONFERENCE PROOF\markboth{SCOPUS INDEXED CONFERENCE PROOF}{SCOPUS INDEXED CONFERENCE PROOF}}
+
+
+\end{document}
+

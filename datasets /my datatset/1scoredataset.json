@@ -1,0 +1,11 @@
+[
+    {
+    "question_id": 7,
+    "algebraic_word_problem": "John takes 4 hours to paint a wall, while Mary takes 6 hours. How long will it take them to paint the wall together?",
+    "reference_answer": "2.4 hours",
+    "step_by_step_solution": "John's rate = 1/4 walls/hour, Mary's rate = 1/6 walls/hour\nTotal rate = 1/4 + 1/6 = 5/12 walls/hour\nTime = 1/(5/12) = 12/5 = 2.4 hours",
+    "predicted_answer": "",
+    "topic": "Work Problems",
+    "difficulty": "Medium"
+  }
+]
