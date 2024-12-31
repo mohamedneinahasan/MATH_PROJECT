@@ -1,0 +1,9 @@
+{
+    "question_id": 298,
+    "algebraic_word_problem": "If a circle has a radius of 4 meters, what is its circumference?",
+    "reference_answer": "8\u03c0 meters",
+    "step_by_step_solution": "Circumference = 2\u03c0 * radius = 2\u03c0 * 4 = 8\u03c0 meters.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

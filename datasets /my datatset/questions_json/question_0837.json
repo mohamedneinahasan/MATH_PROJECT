@@ -1,0 +1,9 @@
+{
+    "question_id": 837,
+    "algebraic_word_problem": "If 4 times a number decreased by 5 equals 15, what is the number?",
+    "reference_answer": "5",
+    "step_by_step_solution": "Let the number be x; 4x - 5 = 15; 4x = 20; x = 5.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Medium"
+}

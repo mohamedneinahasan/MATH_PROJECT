@@ -1,0 +1,9 @@
+{
+    "question_id": 288,
+    "algebraic_word_problem": "A bag contains 5 red balls, 4 green balls, and 3 blue balls. What is the probability of picking a green ball?",
+    "reference_answer": "4/12 or 1/3",
+    "step_by_step_solution": "Total balls = 5 + 4 + 3 = 12\nProbability of green ball = 4 / 12 = 1/3.",
+    "predicted_answer": "",
+    "topic": "Probability Problems",
+    "difficulty": "Medium"
+}

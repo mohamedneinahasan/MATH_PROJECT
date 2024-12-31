@@ -1,0 +1,9 @@
+{
+    "question_id": 831,
+    "algebraic_word_problem": "The ratio of boys to girls in a class is 2:3. If there are 24 students in total, how many girls are in the class?",
+    "reference_answer": "14 girls",
+    "step_by_step_solution": "Let boys = 2x, girls = 3x; 2x + 3x = 24; 5x = 24; x = 4; Girls = 3(4) = 12.",
+    "predicted_answer": "",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Medium"
+}

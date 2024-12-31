@@ -1,0 +1,9 @@
+{
+    "question_id": 603,
+    "algebraic_word_problem": "A coffee blend costs $7 per kilogram for coffee A and $5 per kilogram for coffee B. How many kilograms of each type must be mixed to obtain 100 kg of a blend that costs $6.40 per kilogram?",
+    "reference_answer": "60 kg of coffee A and 40 kg of coffee B",
+    "step_by_step_solution": "Let coffee A = x kg and coffee B = y kg; x + y = 100; 7x + 5y = 640; Solve the system of equations.",
+    "predicted_answer": "",
+    "topic": "Mixture Problems",
+    "difficulty": "Hard"
+}

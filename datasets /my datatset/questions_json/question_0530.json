@@ -1,0 +1,9 @@
+{
+    "question_id": 530,
+    "algebraic_word_problem": "A person has 120 marbles, 30 of which are blue. What fraction of the marbles are blue?",
+    "reference_answer": "1/4",
+    "step_by_step_solution": "Fraction of blue marbles = 30/120 = 1/4.",
+    "predicted_answer": "",
+    "topic": "Fractions",
+    "difficulty": "Easy"
+}

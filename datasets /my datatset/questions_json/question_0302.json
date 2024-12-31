@@ -1,0 +1,9 @@
+{
+    "question_id": 302,
+    "algebraic_word_problem": "If a train travels 120 miles in 2 hours, what is its speed?",
+    "reference_answer": "60 miles per hour",
+    "step_by_step_solution": "Speed = Distance / Time = 120 miles / 2 hours = 60 mph.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

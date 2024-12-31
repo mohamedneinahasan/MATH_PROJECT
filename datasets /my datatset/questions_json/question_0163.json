@@ -1,0 +1,9 @@
+{
+    "question_id": 163,
+    "algebraic_word_problem": "If the price of a TV is reduced by 20% and the new price is $800, what was the original price?",
+    "reference_answer": "$1,000",
+    "step_by_step_solution": "Let original price = x\nNew price = x - 0.20x = 0.80x\n0.80x = 800\nx = 800 / 0.80 = $1,000",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

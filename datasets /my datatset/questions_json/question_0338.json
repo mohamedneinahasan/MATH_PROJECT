@@ -1,0 +1,9 @@
+{
+    "question_id": 338,
+    "algebraic_word_problem": "A fruit basket contains 10 apples, 5 oranges, and 5 bananas. What fraction of the fruits are apples?",
+    "reference_answer": "1/2",
+    "step_by_step_solution": "Total fruits = 10 + 5 + 5 = 20. Fraction of apples = 10 / 20 = 1/2.",
+    "predicted_answer": "",
+    "topic": "Fraction Problems",
+    "difficulty": "Easy"
+}

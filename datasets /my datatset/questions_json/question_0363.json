@@ -1,0 +1,9 @@
+{
+    "question_id": 363,
+    "algebraic_word_problem": "If a car\u2019s value depreciates by 20% each year, how much will it be worth after 3 years if it was initially worth $20,000?",
+    "reference_answer": "$8,000",
+    "step_by_step_solution": "Value after 1 year = 20000 * 0.8 = 16000. After 2 years = 16000 * 0.8 = 12800. After 3 years = 12800 * 0.8 = 10240.",
+    "predicted_answer": "",
+    "topic": "Exponential Decay",
+    "difficulty": "Hard"
+}

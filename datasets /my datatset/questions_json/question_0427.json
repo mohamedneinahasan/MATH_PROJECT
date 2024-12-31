@@ -1,0 +1,9 @@
+{
+    "question_id": 427,
+    "algebraic_word_problem": "The circumference of a circle is 31.4 cm. What is the radius?",
+    "reference_answer": "5 cm",
+    "step_by_step_solution": "Circumference = 2\u03c0r. So, 31.4 = 2\u03c0r. Thus, r = 31.4 / (2\u03c0) = 5 cm.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 541,
+    "algebraic_word_problem": "A farmer has a rectangular field measuring 40 meters by 30 meters. What is the area of the field?",
+    "reference_answer": "1200 m\u00b2",
+    "step_by_step_solution": "Area = length \u00d7 width = 40 \u00d7 30 = 1200 m\u00b2.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

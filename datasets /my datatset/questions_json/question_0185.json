@@ -1,0 +1,9 @@
+{
+    "question_id": 185,
+    "algebraic_word_problem": "A cyclist rides 24 miles in 2 hours. At the same rate, how many miles will he ride in 5 hours?",
+    "reference_answer": "60 miles",
+    "step_by_step_solution": "Rate = 24 miles / 2 hours = 12 miles per hour\nDistance in 5 hours = 12 * 5 = 60 miles",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+}

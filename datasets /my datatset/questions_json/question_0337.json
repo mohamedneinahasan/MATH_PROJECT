@@ -1,0 +1,9 @@
+{
+    "question_id": 337,
+    "algebraic_word_problem": "A car travels 120 miles in 2 hours. How far can it travel in 5 hours at the same speed?",
+    "reference_answer": "300 miles",
+    "step_by_step_solution": "Speed = Distance / Time = 120 miles / 2 hours = 60 mph. Distance in 5 hours = 60 * 5 = 300 miles.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+}

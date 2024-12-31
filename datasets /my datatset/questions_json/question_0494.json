@@ -1,0 +1,9 @@
+{
+    "question_id": 494,
+    "algebraic_word_problem": "If a product's price increases from $80 to $100, what is the percentage increase?",
+    "reference_answer": "25%",
+    "step_by_step_solution": "Increase = 100 - 80 = 20; Percentage increase = (20/80) * 100 = 25%.",
+    "predicted_answer": "",
+    "topic": "Percentage",
+    "difficulty": "Medium"
+}

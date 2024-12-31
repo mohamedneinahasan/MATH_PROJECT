@@ -1,0 +1,9 @@
+{
+    "question_id": 85,
+    "algebraic_word_problem": "A rectangular field has a length of 50 meters and a width of 30 meters. What is the area of the field?",
+    "reference_answer": "1,500 square meters",
+    "step_by_step_solution": "Area = Length * Width = 50 * 30 = 1,500 square meters",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 334,
+    "algebraic_word_problem": "If a car uses 5 gallons of gas to travel 100 miles, how much gas will it use to travel 300 miles?",
+    "reference_answer": "15 gallons",
+    "step_by_step_solution": "Gas used per mile = 5 gallons / 100 miles = 0.05 gallons/mile.\nGas for 300 miles = 0.05 * 300 = 15 gallons.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+}

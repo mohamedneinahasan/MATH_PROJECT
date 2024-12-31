@@ -1,0 +1,9 @@
+{
+    "question_id": 362,
+    "algebraic_word_problem": "A rectangle has a length that is 3 times its width. If the perimeter is 48 cm, what are the dimensions of the rectangle?",
+    "reference_answer": "Width = 6 cm, Length = 18 cm",
+    "step_by_step_solution": "Let width = w, then length = 3w. Perimeter = 2(w + 3w) = 48. Simplifying gives 8w = 48, so w = 6 and length = 3*6 = 18.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

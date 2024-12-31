@@ -1,0 +1,9 @@
+{
+    "question_id": 562,
+    "algebraic_word_problem": "The sum of three times a number and four times another number is 24. If the second number is 2 more than the first, what are the numbers?",
+    "reference_answer": "First number: 4, Second number: 6",
+    "step_by_step_solution": "Let the first number be x and the second number be y; y = x + 2; 3x + 4y = 24; Substitute: 3x + 4(x + 2) = 24; Solve for x = 4, y = 6.",
+    "predicted_answer": "",
+    "topic": "Systems of Equations",
+    "difficulty": "Hard"
+}

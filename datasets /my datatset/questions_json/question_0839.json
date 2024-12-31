@@ -1,0 +1,9 @@
+{
+    "question_id": 839,
+    "algebraic_word_problem": "If x - 4 = 12, what is the value of x?",
+    "reference_answer": "x = 16",
+    "step_by_step_solution": "Add 4 to both sides: x = 12 + 4 = 16.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

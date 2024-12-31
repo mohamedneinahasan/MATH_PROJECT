@@ -1,0 +1,9 @@
+{
+    "question_id": 238,
+    "algebraic_word_problem": "The perimeter of a square is 36 meters. What is the length of each side?",
+    "reference_answer": "9 meters",
+    "step_by_step_solution": "Perimeter of square = 4 * side length\n36 = 4 * side length\nSide length = 36 / 4 = 9 meters",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

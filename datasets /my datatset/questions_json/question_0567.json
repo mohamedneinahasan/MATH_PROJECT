@@ -1,0 +1,9 @@
+{
+    "question_id": 567,
+    "algebraic_word_problem": "In a triangle, the lengths of two sides are 7 cm and 10 cm. What is the range of possible lengths for the third side?",
+    "reference_answer": "3 cm < third side < 17 cm",
+    "step_by_step_solution": "The length of the third side must be less than the sum and greater than the difference of the other two sides: |10 - 7| < third side < 10 + 7.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

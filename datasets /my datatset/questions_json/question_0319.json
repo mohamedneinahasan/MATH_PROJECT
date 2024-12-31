@@ -1,0 +1,9 @@
+{
+    "question_id": 319,
+    "algebraic_word_problem": "If a runner runs 5 kilometers in 25 minutes, what is their speed in km/h?",
+    "reference_answer": "12 km/h",
+    "step_by_step_solution": "Time in hours = 25/60 = 5/12 hours.\nSpeed = Distance / Time = 5 km / (5/12) hours = 12 km/h.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+}

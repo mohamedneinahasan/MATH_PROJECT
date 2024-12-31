@@ -1,0 +1,9 @@
+{
+    "question_id": 658,
+    "algebraic_word_problem": "A storage tank can be filled by Pipe A in 12 hours and by Pipe B in 18 hours. How long will it take to fill the tank if both pipes are opened together?",
+    "reference_answer": "7.2 hours",
+    "step_by_step_solution": "Combined rate = 1/12 + 1/18; Total time = 1 / (1/12 + 1/18).",
+    "predicted_answer": "",
+    "topic": "Work Problems",
+    "difficulty": "Medium"
+}

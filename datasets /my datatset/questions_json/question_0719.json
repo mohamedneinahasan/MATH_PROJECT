@@ -1,0 +1,9 @@
+{
+    "question_id": 719,
+    "algebraic_word_problem": "A truck can carry 2 tons of weight. How many trucks are needed to transport 10 tons?",
+    "reference_answer": "5 trucks",
+    "step_by_step_solution": "Number of trucks = 10 tons \u00f7 2 tons/truck = 5 trucks",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

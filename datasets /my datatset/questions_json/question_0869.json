@@ -1,0 +1,9 @@
+{
+    "question_id": 869,
+    "algebraic_word_problem": "If a product originally priced at $200 is on sale for 25% off, what is the sale price?",
+    "reference_answer": "$150",
+    "step_by_step_solution": "Discount = 25% of 200 = 0.25 \u00d7 200 = 50; Sale price = 200 - 50 = 150.",
+    "predicted_answer": "",
+    "topic": "Percentages",
+    "difficulty": "Medium"
+}

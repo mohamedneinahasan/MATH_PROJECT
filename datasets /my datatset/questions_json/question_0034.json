@@ -1,0 +1,9 @@
+{
+    "question_id": 34,
+    "algebraic_word_problem": "A solution contains 25% alcohol. If there are 12 liters of solution, how much alcohol is in the solution?",
+    "reference_answer": "3 liters of alcohol",
+    "step_by_step_solution": "Amount of alcohol = 25% of 12 liters = 0.25 * 12 = 3 liters",
+    "predicted_answer": "",
+    "topic": "Mixture Problems",
+    "difficulty": "Medium"
+}

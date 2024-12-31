@@ -1,0 +1,9 @@
+{
+    "question_id": 91,
+    "algebraic_word_problem": "A car's fuel efficiency is 25 miles per gallon. If the car has a 15-gallon tank, how many miles can it travel on a full tank?",
+    "reference_answer": "375 miles",
+    "step_by_step_solution": "Distance = Fuel efficiency * Gallons = 25 miles/gallon * 15 gallons = 375 miles",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+}

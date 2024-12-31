@@ -1,0 +1,9 @@
+{
+    "question_id": 886,
+    "algebraic_word_problem": "If a box weighs 5 kg and you have 3 boxes, what is the total weight?",
+    "reference_answer": "15 kg",
+    "step_by_step_solution": "Total weight = weight per box \u00d7 number of boxes = 5 \u00d7 3 = 15.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

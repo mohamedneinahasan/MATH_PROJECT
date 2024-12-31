@@ -1,0 +1,9 @@
+{
+    "question_id": 229,
+    "algebraic_word_problem": "If 5y + 3 = 18, what is the value of y?",
+    "reference_answer": "3",
+    "step_by_step_solution": "5y + 3 = 18\n5y = 18 - 3 = 15\ny = 15 / 5 = 3",
+    "predicted_answer": "",
+    "topic": "Algebraic Equations",
+    "difficulty": "Easy"
+}

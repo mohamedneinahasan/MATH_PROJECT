@@ -1,0 +1,9 @@
+{
+    "question_id": 648,
+    "algebraic_word_problem": "If a company sells 150 items at $20 each and incurs a production cost of $2,000, what is the total profit?",
+    "reference_answer": "$1,000",
+    "step_by_step_solution": "Total revenue = 150 * 20 = 3000; Profit = Revenue - Cost = 3000 - 2000 = $1,000.",
+    "predicted_answer": "",
+    "topic": "Finance",
+    "difficulty": "Easy"
+}

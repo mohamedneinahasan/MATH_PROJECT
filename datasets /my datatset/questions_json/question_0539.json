@@ -1,0 +1,9 @@
+{
+    "question_id": 539,
+    "algebraic_word_problem": "If an item originally costs $120 and is on sale for 15% off, what is the sale price?",
+    "reference_answer": "$102",
+    "step_by_step_solution": "Discount = 0.15 * 120 = 18; Sale price = 120 - 18 = 102.",
+    "predicted_answer": "",
+    "topic": "Discount",
+    "difficulty": "Medium"
+}

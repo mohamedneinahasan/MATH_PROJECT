@@ -1,0 +1,9 @@
+{
+    "question_id": 240,
+    "algebraic_word_problem": "A rectangle has an area of 48 square meters and a width of 6 meters. What is its length?",
+    "reference_answer": "8 meters",
+    "step_by_step_solution": "Area of rectangle = Length * Width\n48 = Length * 6\nLength = 48 / 6 = 8 meters",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

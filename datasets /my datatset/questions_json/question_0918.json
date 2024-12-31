@@ -1,0 +1,9 @@
+{
+    "question_id": 918,
+    "algebraic_word_problem": "What is the volume of a cube with side length 4 cm?",
+    "reference_answer": "64 cm\u00b3",
+    "step_by_step_solution": "Volume = side\u00b3 = 4\u00b3 = 64.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

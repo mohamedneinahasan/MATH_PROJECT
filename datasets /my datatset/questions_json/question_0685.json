@@ -1,0 +1,9 @@
+{
+    "question_id": 685,
+    "algebraic_word_problem": "A jar contains 60 candies. If 15 candies are taken out, what percentage of the candies are left?",
+    "reference_answer": "75%",
+    "step_by_step_solution": "Candies left = 60 - 15 = 45; Percentage left = (45/60) \u00d7 100 = 75%",
+    "predicted_answer": "",
+    "topic": "Percentage",
+    "difficulty": "Medium"
+}

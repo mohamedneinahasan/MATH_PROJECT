@@ -1,0 +1,9 @@
+{
+    "question_id": 266,
+    "algebraic_word_problem": "A student scores 80% on a test with 50 questions. How many questions did he answer correctly?",
+    "reference_answer": "40 questions",
+    "step_by_step_solution": "Correct answers = 80% of 50 = 0.80 * 50 = 40 questions.",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+}

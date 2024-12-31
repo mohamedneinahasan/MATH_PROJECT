@@ -1,0 +1,9 @@
+{
+    "question_id": 432,
+    "algebraic_word_problem": "A student scores 88, 92, 85, and 90 on four tests. What is their average score?",
+    "reference_answer": "88.75",
+    "step_by_step_solution": "Average = (88 + 92 + 85 + 90) / 4 = 355 / 4 = 88.75.",
+    "predicted_answer": "",
+    "topic": "Average",
+    "difficulty": "Hard"
+}

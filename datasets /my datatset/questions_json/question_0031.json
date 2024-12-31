@@ -1,0 +1,9 @@
+{
+    "question_id": 31,
+    "algebraic_word_problem": "Adam is twice as old as Ben. If Ben is 10 years old, how old is Adam?",
+    "reference_answer": "20 years old",
+    "step_by_step_solution": "Adam = 2 * Ben's age = 2 * 10 = 20 years old",
+    "predicted_answer": "",
+    "topic": "Age Problems (Basic)",
+    "difficulty": "Easy"
+}

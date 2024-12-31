@@ -1,0 +1,9 @@
+{
+    "question_id": 736,
+    "algebraic_word_problem": "If 4 times a number is 28, what is the number?",
+    "reference_answer": "7",
+    "step_by_step_solution": "Let the number be x; 4x = 28; x = 28/4 = 7.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

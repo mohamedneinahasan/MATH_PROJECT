@@ -1,0 +1,9 @@
+{
+    "question_id": 875,
+    "algebraic_word_problem": "A factory produces 1,200 widgets in 15 hours. How many widgets does it produce per hour?",
+    "reference_answer": "80 widgets/hour",
+    "step_by_step_solution": "Widgets per hour = total widgets / hours = 1200 / 15 = 80.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

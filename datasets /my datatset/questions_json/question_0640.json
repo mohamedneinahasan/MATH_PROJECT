@@ -1,0 +1,9 @@
+{
+    "question_id": 640,
+    "algebraic_word_problem": "A tank can be filled by two pipes in 6 hours and 8 hours, respectively. How long will it take to fill the tank if both pipes are open?",
+    "reference_answer": "3.43 hours",
+    "step_by_step_solution": "Combined rate = 1/6 + 1/8; Total time = 1 / (1/6 + 1/8).",
+    "predicted_answer": "",
+    "topic": "Work Problems",
+    "difficulty": "Medium"
+}

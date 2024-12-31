@@ -1,0 +1,9 @@
+{
+    "question_id": 779,
+    "algebraic_word_problem": "A train travels 150 miles in 3 hours. If it maintains the same speed, how far will it travel in 7 hours?",
+    "reference_answer": "350 miles",
+    "step_by_step_solution": "Speed = Distance / Time = 150 miles / 3 hours = 50 mph; Distance in 7 hours = 50 \u00d7 7 = 350 miles.",
+    "predicted_answer": "",
+    "topic": "Word Problems",
+    "difficulty": "Easy"
+}

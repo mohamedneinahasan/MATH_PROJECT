@@ -1,0 +1,9 @@
+{
+    "question_id": 35,
+    "algebraic_word_problem": "Two workers can complete a task in 5 hours working together. Worker A alone can complete it in 8 hours. How long will Worker B take to complete the task alone?",
+    "reference_answer": "13.33 hours",
+    "step_by_step_solution": "Rate of Worker A = 1/8 jobs/hour\nLet Worker B's rate = 1/x jobs/hour\nTotal rate = 1/5 jobs/hour\n1/8 + 1/x = 1/5\nSolve for x = 13.33 hours",
+    "predicted_answer": "",
+    "topic": "Work Problems",
+    "difficulty": "Medium"
+}

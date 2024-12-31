@@ -1,0 +1,9 @@
+{
+    "question_id": 752,
+    "algebraic_word_problem": "Find the slope of the line that passes through the points (1, 2) and (3, 4).",
+    "reference_answer": "1",
+    "step_by_step_solution": "Slope = (y2 - y1) / (x2 - x1) = (4 - 2) / (3 - 1) = 2/2 = 1.",
+    "predicted_answer": "",
+    "topic": "Linear Functions",
+    "difficulty": "Medium"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 55,
+    "algebraic_word_problem": "Tom has 3 times as many books as Lisa. Together, they have 80 books. How many books does each have?",
+    "reference_answer": "Tom has 60 books, Lisa has 20 books",
+    "step_by_step_solution": "Let Lisa's books = x\nTom's books = 3x\nx + 3x = 80\n4x = 80\nx = 20, 3x = 60",
+    "predicted_answer": "",
+    "topic": "Equations with Two Variables",
+    "difficulty": "Medium"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 546,
+    "algebraic_word_problem": "If the price of a shirt is $40 and there is a 20% discount, what is the final price?",
+    "reference_answer": "$32",
+    "step_by_step_solution": "Discount = 0.20 * 40 = 8; Final price = 40 - 8 = 32.",
+    "predicted_answer": "",
+    "topic": "Discount",
+    "difficulty": "Medium"
+}

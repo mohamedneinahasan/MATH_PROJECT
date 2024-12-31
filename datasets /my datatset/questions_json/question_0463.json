@@ -1,0 +1,9 @@
+{
+    "question_id": 463,
+    "algebraic_word_problem": "If a circle has a diameter of 10 cm, what is its circumference?",
+    "reference_answer": "31.4 cm",
+    "step_by_step_solution": "Circumference = \u03c0d = \u03c0(10) \u2248 31.4 cm.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

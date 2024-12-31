@@ -1,0 +1,9 @@
+{
+    "question_id": 933,
+    "algebraic_word_problem": "If the ratio of cats to dogs in a shelter is 3:4 and there are 12 cats, how many dogs are there?",
+    "reference_answer": "16 dogs",
+    "step_by_step_solution": "Let the number of dogs be x; 3/4 = 12/x; 3x = 48; x = 16.",
+    "predicted_answer": "",
+    "topic": "Ratios",
+    "difficulty": "Medium"
+}

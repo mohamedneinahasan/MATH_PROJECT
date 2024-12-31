@@ -1,0 +1,9 @@
+{
+    "question_id": 51,
+    "algebraic_word_problem": "A laptop is priced at $900 with a 20% discount. What is the sale price?",
+    "reference_answer": "$720",
+    "step_by_step_solution": "Sale price = $900 * (1 - 0.20) = $900 * 0.80 = $720",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+}

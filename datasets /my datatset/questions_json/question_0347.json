@@ -1,0 +1,9 @@
+{
+    "question_id": 347,
+    "algebraic_word_problem": "A piece of ribbon is 120 cm long. If you cut it into pieces of 15 cm each, how many pieces can you cut?",
+    "reference_answer": "8 pieces",
+    "step_by_step_solution": "Number of pieces = Total length / Length of each piece = 120 / 15 = 8 pieces.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

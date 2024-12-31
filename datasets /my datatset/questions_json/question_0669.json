@@ -1,0 +1,9 @@
+{
+    "question_id": 669,
+    "algebraic_word_problem": "Anna is 3 years older than Ben. If Ben is 10 years old, how old is Anna?",
+    "reference_answer": "13 years old",
+    "step_by_step_solution": "Anna's age = Ben's age + 3 = 10 + 3 = 13",
+    "predicted_answer": "",
+    "topic": "Age Problems",
+    "difficulty": "Easy"
+}

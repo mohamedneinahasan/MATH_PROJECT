@@ -1,0 +1,9 @@
+{
+    "question_id": 804,
+    "algebraic_word_problem": "The sum of a number and its double is 18. What is the number?",
+    "reference_answer": "6",
+    "step_by_step_solution": "Let the number be x; x + 2x = 18; 3x = 18; x = 6.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 905,
+    "algebraic_word_problem": "If a rectangle has an area of 48 m\u00b2 and a length of 12 m, what is its width?",
+    "reference_answer": "4 m",
+    "step_by_step_solution": "Area = length \u00d7 width; 48 = 12 \u00d7 width; width = 48 / 12 = 4.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

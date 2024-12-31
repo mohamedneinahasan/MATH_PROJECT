@@ -1,0 +1,9 @@
+{
+    "question_id": 421,
+    "algebraic_word_problem": "A student scores 85% on a test that has 50 questions. How many questions did he answer correctly?",
+    "reference_answer": "42.5 questions (or 43 questions rounded)",
+    "step_by_step_solution": "Correct answers = 85% of 50 = 0.85 * 50 = 42.5 questions.",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Hard"
+}

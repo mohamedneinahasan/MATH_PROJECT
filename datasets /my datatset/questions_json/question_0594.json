@@ -1,0 +1,9 @@
+{
+    "question_id": 594,
+    "algebraic_word_problem": "A bag contains 4 red balls, 6 blue balls, and 10 green balls. If 3 balls are drawn at random, what is the probability that all three are green?",
+    "reference_answer": "0.061",
+    "step_by_step_solution": "Total balls = 20; Probability of drawing 3 green = (10/20) * (9/19) * (8/18).",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Hard"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 613,
+    "algebraic_word_problem": "A farmer has 500 meters of fencing. He wants to build a rectangular pen with a length twice its width. What are the dimensions to maximize the area?",
+    "reference_answer": "Width = 83.33 meters, Length = 166.67 meters",
+    "step_by_step_solution": "Let width = x and length = 2x; Perimeter = 2x + 2(2x) = 500; Solve for x.",
+    "predicted_answer": "",
+    "topic": "Optimization",
+    "difficulty": "Hard"
+}

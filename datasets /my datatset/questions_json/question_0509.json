@@ -1,0 +1,9 @@
+{
+    "question_id": 509,
+    "algebraic_word_problem": "A factory produces 120 toys in 3 hours. How many toys does it produce in 1 hour?",
+    "reference_answer": "40 toys",
+    "step_by_step_solution": "Toys per hour = 120 toys / 3 hours = 40 toys/hour.",
+    "predicted_answer": "",
+    "topic": "Work Problems",
+    "difficulty": "Medium"
+}

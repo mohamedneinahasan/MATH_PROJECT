@@ -1,0 +1,9 @@
+{
+    "question_id": 612,
+    "algebraic_word_problem": "A person invested part of $1,500 at 6% and the rest at 8%. If the total annual income from both investments is $108, how much was invested at each rate?",
+    "reference_answer": "$900 at 6% and $600 at 8%",
+    "step_by_step_solution": "Let x = amount at 6% and 1500 - x at 8%; 0.06x + 0.08(1500 - x) = 108; Solve for x.",
+    "predicted_answer": "",
+    "topic": "Finance",
+    "difficulty": "Hard"
+}

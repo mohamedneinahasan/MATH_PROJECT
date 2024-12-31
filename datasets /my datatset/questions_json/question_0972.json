@@ -1,0 +1,9 @@
+{
+    "question_id": 972,
+    "algebraic_word_problem": "If a box contains 30 toys and you donate 10, how many toys do you have left?",
+    "reference_answer": "20 toys",
+    "step_by_step_solution": "Toys left = total toys - donated toys = 30 - 10 = 20.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 107,
+    "algebraic_word_problem": "A recipe requires 3 tablespoons of oil for every 2 cups of rice. How many tablespoons of oil are needed for 6 cups of rice?",
+    "reference_answer": "9 tablespoons",
+    "step_by_step_solution": "Ratio of oil to rice = 3:2\nFor 6 cups of rice: (3/2) * 6 = 9 tablespoons of oil",
+    "predicted_answer": "",
+    "topic": "Ratios",
+    "difficulty": "Easy"
+}

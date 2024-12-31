@@ -1,0 +1,9 @@
+{
+    "question_id": 912,
+    "algebraic_word_problem": "What is the value of x if 5x - 7 = 18?",
+    "reference_answer": "x = 5",
+    "step_by_step_solution": "Add 7 to both sides: 5x = 25; Divide by 5: x = 5.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

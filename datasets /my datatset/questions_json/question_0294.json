@@ -1,0 +1,9 @@
+{
+    "question_id": 294,
+    "algebraic_word_problem": "If a bicycle is on sale for $80 after a 20% discount, what was the original price?",
+    "reference_answer": "$100",
+    "step_by_step_solution": "Let the original price be x.\n0.80x = 80\nx = 80 / 0.80 = $100.",
+    "predicted_answer": "",
+    "topic": "Discount Problems",
+    "difficulty": "Medium"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 147,
+    "algebraic_word_problem": "A car travels 240 miles on a trip. If the driver averages 60 miles per hour, how long does the trip take?",
+    "reference_answer": "4 hours",
+    "step_by_step_solution": "Time = Distance / Speed = 240 / 60 = 4 hours",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

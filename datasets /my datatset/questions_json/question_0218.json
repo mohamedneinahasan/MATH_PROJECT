@@ -1,0 +1,9 @@
+{
+    "question_id": 218,
+    "algebraic_word_problem": "A box contains 60 marbles, and 40% of them are red. How many red marbles are in the box?",
+    "reference_answer": "24 red marbles",
+    "step_by_step_solution": "Number of red marbles = 40% of 60 = 0.40 * 60 = 24",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+}

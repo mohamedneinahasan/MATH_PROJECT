@@ -1,0 +1,9 @@
+{
+    "question_id": 891,
+    "algebraic_word_problem": "If the cost of an item is $75 after a 25% discount, what was the original price?",
+    "reference_answer": "$100",
+    "step_by_step_solution": "Let original price = x; 0.75x = 75; x = 75 / 0.75 = 100.",
+    "predicted_answer": "",
+    "topic": "Percentages",
+    "difficulty": "Medium"
+}

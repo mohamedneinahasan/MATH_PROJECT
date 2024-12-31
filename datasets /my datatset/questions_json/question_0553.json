@@ -1,0 +1,9 @@
+{
+    "question_id": 553,
+    "algebraic_word_problem": "If the sum of three consecutive even integers is 54, what are the integers?",
+    "reference_answer": "16, 18, and 20",
+    "step_by_step_solution": "Let the integers be x, x + 2, x + 4; Then x + (x + 2) + (x + 4) = 54; 3x + 6 = 54; 3x = 48; x = 16.",
+    "predicted_answer": "",
+    "topic": "Algebra",
+    "difficulty": "Hard"
+}

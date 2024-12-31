@@ -1,0 +1,9 @@
+{
+    "question_id": 957,
+    "algebraic_word_problem": "If the sum of two numbers is 25 and one number is 10, what is the other number?",
+    "reference_answer": "15",
+    "step_by_step_solution": "Let the other number be x; x + 10 = 25; x = 25 - 10 = 15.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

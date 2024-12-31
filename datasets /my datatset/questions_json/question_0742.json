@@ -1,0 +1,9 @@
+{
+    "question_id": 742,
+    "algebraic_word_problem": "What is the result of simplifying the expression 2(3x + 4) - 5?",
+    "reference_answer": "6x + 3",
+    "step_by_step_solution": "Distribute: 6x + 8 - 5 = 6x + 3.",
+    "predicted_answer": "",
+    "topic": "Algebraic Expressions",
+    "difficulty": "Medium"
+}

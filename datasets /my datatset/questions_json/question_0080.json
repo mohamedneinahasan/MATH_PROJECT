@@ -1,0 +1,9 @@
+{
+    "question_id": 80,
+    "algebraic_word_problem": "A box contains 5 red balls, 8 blue balls, and 7 green balls. What is the probability of drawing a blue ball?",
+    "reference_answer": "0.32",
+    "step_by_step_solution": "Total balls = 5 + 8 + 7 = 20\nProbability of blue = 8 / 20 = 0.32",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Medium"
+}

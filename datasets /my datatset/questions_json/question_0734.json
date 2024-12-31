@@ -1,0 +1,9 @@
+{
+    "question_id": 734,
+    "algebraic_word_problem": "What is the 6th term in the geometric sequence where the first term is 2 and the common ratio is 3?",
+    "reference_answer": "486",
+    "step_by_step_solution": "6th term = first term \u00d7 (common ratio)^(n-1) = 2 \u00d7 3^(6-1) = 2 \u00d7 243 = 486.",
+    "predicted_answer": "",
+    "topic": "Sequences and Series",
+    "difficulty": "Medium"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 84,
+    "algebraic_word_problem": "A product originally priced at $50 is marked down by $10. What is the new price?",
+    "reference_answer": "$40",
+    "step_by_step_solution": "New price = $50 - $10 = $40",
+    "predicted_answer": "",
+    "topic": "Simple Operations",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 180,
+    "algebraic_word_problem": "A train is 400 meters long. It crosses a bridge in 40 seconds at a speed of 30 meters per second. What is the length of the bridge?",
+    "reference_answer": "800 meters",
+    "step_by_step_solution": "Total distance = Train length + Bridge length\nTotal distance = Speed * Time = 30 * 40 = 1200 meters\nBridge length = 1200 - 400 = 800 meters",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Hard"
+}

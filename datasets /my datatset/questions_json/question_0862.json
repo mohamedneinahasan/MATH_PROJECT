@@ -1,0 +1,9 @@
+{
+    "question_id": 862,
+    "algebraic_word_problem": "If x\u00b2 - 4x - 12 = 0, what are the values of x?",
+    "reference_answer": "x = 6 or x = -2",
+    "step_by_step_solution": "Factor: (x - 6)(x + 2) = 0; x = 6, x = -2.",
+    "predicted_answer": "",
+    "topic": "Quadratic Equations",
+    "difficulty": "Hard"
+}

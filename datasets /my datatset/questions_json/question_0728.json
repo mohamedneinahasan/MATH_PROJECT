@@ -1,0 +1,9 @@
+{
+    "question_id": 728,
+    "algebraic_word_problem": "Solve the system of inequalities: y > 2x + 3 and y < -x + 1.",
+    "reference_answer": "Graph the lines and find the solution region.",
+    "step_by_step_solution": "Identify the boundary lines and shade the regions for each inequality.",
+    "predicted_answer": "",
+    "topic": "Systems of Inequalities",
+    "difficulty": "Hard"
+}

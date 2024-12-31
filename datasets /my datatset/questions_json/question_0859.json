@@ -1,0 +1,9 @@
+{
+    "question_id": 859,
+    "algebraic_word_problem": "A cyclist travels 10 km in 20 minutes. What is their speed in km/h?",
+    "reference_answer": "30 km/h",
+    "step_by_step_solution": "Time in hours = 20 / 60 = 1/3 hours; Speed = distance / time = 10 / (1/3) = 30 km/h.",
+    "predicted_answer": "",
+    "topic": "Speed and Distance",
+    "difficulty": "Medium"
+}

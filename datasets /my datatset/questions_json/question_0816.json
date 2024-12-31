@@ -1,0 +1,9 @@
+{
+    "question_id": 816,
+    "algebraic_word_problem": "In a bag, there are 5 red, 7 blue, and 8 green marbles. What is the probability of picking a blue marble?",
+    "reference_answer": "7/20",
+    "step_by_step_solution": "Total marbles = 5 + 7 + 8 = 20; Probability of blue = 7/20.",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Medium"
+}

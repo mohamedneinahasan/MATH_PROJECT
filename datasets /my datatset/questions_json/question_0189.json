@@ -1,0 +1,9 @@
+{
+    "question_id": 189,
+    "algebraic_word_problem": "Two numbers have a product of 72, and one number is 8. What is the other number?",
+    "reference_answer": "9",
+    "step_by_step_solution": "Let the other number = x\nProduct = 72\nx * 8 = 72\nx = 72 / 8 = 9",
+    "predicted_answer": "",
+    "topic": "Multiplication",
+    "difficulty": "Easy"
+}

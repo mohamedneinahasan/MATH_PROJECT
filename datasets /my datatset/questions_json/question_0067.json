@@ -1,0 +1,9 @@
+{
+    "question_id": 67,
+    "algebraic_word_problem": "A car's value decreases by 20% per year. If the car is currently worth $12,000, what will its value be after 3 years?",
+    "reference_answer": "$6,144",
+    "step_by_step_solution": "Value = 12000 * (1 - 0.20)^3 = 12000 * 0.80^3 = $6,144",
+    "predicted_answer": "",
+    "topic": "Depreciation Problems",
+    "difficulty": "Medium"
+}

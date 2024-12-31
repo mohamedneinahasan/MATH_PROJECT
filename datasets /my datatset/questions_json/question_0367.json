@@ -1,0 +1,9 @@
+{
+    "question_id": 367,
+    "algebraic_word_problem": "If a person invests $1,000 at an annual interest rate of 6% compounded annually, how much money will be in the account after 5 years?",
+    "reference_answer": "$1,338.23",
+    "step_by_step_solution": "A = P(1 + r)^t = 1000(1 + 0.06)^5 = 1000(1.338225) = $1,338.23.",
+    "predicted_answer": "",
+    "topic": "Compound Interest",
+    "difficulty": "Hard"
+}

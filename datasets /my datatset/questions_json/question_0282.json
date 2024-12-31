@@ -1,0 +1,9 @@
+{
+    "question_id": 282,
+    "algebraic_word_problem": "A pizza is cut into 8 slices. If you eat 3 slices, what fraction of the pizza is left?",
+    "reference_answer": "5/8",
+    "step_by_step_solution": "Fraction left = Total slices - Slices eaten = 8 - 3 = 5 slices left\nFraction of pizza left = 5/8.",
+    "predicted_answer": "",
+    "topic": "Fraction Problems",
+    "difficulty": "Easy"
+}

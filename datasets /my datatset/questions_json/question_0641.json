@@ -1,0 +1,9 @@
+{
+    "question_id": 641,
+    "algebraic_word_problem": "A cake recipe requires 300 grams of sugar and 200 grams of flour. If a chef wants to make a batch using 900 grams of sugar, how much flour is needed to keep the recipe ratio?",
+    "reference_answer": "600 grams of flour",
+    "step_by_step_solution": "Flour needed = (200/300) * 900.",
+    "predicted_answer": "",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Medium"
+}

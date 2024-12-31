@@ -1,0 +1,9 @@
+{
+    "question_id": 380,
+    "algebraic_word_problem": "A boat travels 60 miles upstream at a speed of 15 mph. How long does it take to travel that distance?",
+    "reference_answer": "4 hours",
+    "step_by_step_solution": "Time = Distance / Speed = 60 / 15 = 4 hours.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Hard"
+}

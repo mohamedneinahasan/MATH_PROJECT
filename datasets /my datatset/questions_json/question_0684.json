@@ -1,0 +1,9 @@
+{
+    "question_id": 684,
+    "algebraic_word_problem": "The difference between two numbers is 7. If one number is 15, what is the other number?",
+    "reference_answer": "8",
+    "step_by_step_solution": "Let the other number be x: 15 - x = 7; x = 15 - 7 = 8",
+    "predicted_answer": "",
+    "topic": "Basic Equations",
+    "difficulty": "Medium"
+}

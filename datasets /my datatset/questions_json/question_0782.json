@@ -1,0 +1,9 @@
+{
+    "question_id": 782,
+    "algebraic_word_problem": "The product of two consecutive integers is 240. What are the integers?",
+    "reference_answer": "15 and 16",
+    "step_by_step_solution": "Let the integers be n and n+1; n(n+1) = 240; n^2 + n - 240 = 0; (n - 15)(n + 16) = 0; n = 15 or n = -16.",
+    "predicted_answer": "",
+    "topic": "Quadratic Functions",
+    "difficulty": "Hard"
+}

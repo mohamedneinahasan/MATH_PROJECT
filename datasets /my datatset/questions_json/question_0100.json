@@ -1,0 +1,9 @@
+{
+    "question_id": 100,
+    "algebraic_word_problem": "A package weighs 8 pounds. If you want to divide it into 4 equal parts, how much does each part weigh?",
+    "reference_answer": "2 pounds",
+    "step_by_step_solution": "Weight per part = 8 pounds / 4 = 2 pounds",
+    "predicted_answer": "",
+    "topic": "Division",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 476,
+    "algebraic_word_problem": "A bag contains 4 red balls and 6 blue balls. What is the probability of picking a red ball?",
+    "reference_answer": "0.4",
+    "step_by_step_solution": "Total balls = 4 + 6 = 10. Probability of red = 4/10 = 0.4.",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Easy"
+}

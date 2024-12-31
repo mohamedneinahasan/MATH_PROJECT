@@ -1,0 +1,9 @@
+{
+    "question_id": 200,
+    "algebraic_word_problem": "If a person walks 4 kilometers in 1 hour, how far will they walk in 3.5 hours?",
+    "reference_answer": "14 kilometers",
+    "step_by_step_solution": "Distance = Speed * Time\nDistance = 4 km/hour * 3.5 hours = 14 kilometers",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 645,
+    "algebraic_word_problem": "If 8 years ago, a father was five times as old as his son and now he is three times as old, what are their current ages?",
+    "reference_answer": "Father is 45 years, son is 15 years",
+    "step_by_step_solution": "Let son's age 8 years ago = x; Father's age = 5x; Present ages = x + 8, 5x + 8; Equation: 5x + 8 = 3(x+8); Solve for x.",
+    "predicted_answer": "",
+    "topic": "Age Problems",
+    "difficulty": "Hard"
+}

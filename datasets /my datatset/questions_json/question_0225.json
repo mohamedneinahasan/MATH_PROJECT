@@ -1,0 +1,9 @@
+{
+    "question_id": 225,
+    "algebraic_word_problem": "A man bought a shirt for $40 and sold it for $50. What was his percentage profit?",
+    "reference_answer": "25%",
+    "step_by_step_solution": "Profit = Selling price - Cost price = 50 - 40 = $10\nPercentage profit = (Profit / Cost price) * 100 = (10 / 40) * 100 = 25%",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

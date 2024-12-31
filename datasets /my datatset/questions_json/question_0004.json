@@ -1,0 +1,9 @@
+{
+    "question_id": 4,
+    "algebraic_word_problem": "A car travels at 30 miles per hour. How far does it travel in 2 hours?",
+    "reference_answer": "60 miles",
+    "step_by_step_solution": "Distance = Speed * Time = 30 miles/hour * 2 hours = 60 miles",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

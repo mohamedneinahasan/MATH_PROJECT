@@ -1,0 +1,9 @@
+{
+    "question_id": 907,
+    "algebraic_word_problem": "A car travels 150 miles on 5 gallons of gas. What is its mileage in miles per gallon?",
+    "reference_answer": "30 mpg",
+    "step_by_step_solution": "Mileage = distance / gallons = 150 / 5 = 30.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

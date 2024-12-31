@@ -1,0 +1,9 @@
+{
+    "question_id": 379,
+    "algebraic_word_problem": "A box has dimensions of 3 cm, 4 cm, and 5 cm. What is its volume?",
+    "reference_answer": "60 cm\u00b3",
+    "step_by_step_solution": "Volume = length * width * height = 3 * 4 * 5 = 60 cm\u00b3.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

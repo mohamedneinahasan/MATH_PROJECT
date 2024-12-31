@@ -1,0 +1,9 @@
+{
+    "question_id": 157,
+    "algebraic_word_problem": "A box contains 12 pencils. If you distribute 3 pencils to each student, how many students receive pencils?",
+    "reference_answer": "4 students",
+    "step_by_step_solution": "Number of students = 12 / 3 = 4",
+    "predicted_answer": "",
+    "topic": "Division",
+    "difficulty": "Easy"
+}

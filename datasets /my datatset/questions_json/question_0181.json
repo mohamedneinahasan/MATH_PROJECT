@@ -1,0 +1,9 @@
+{
+    "question_id": 181,
+    "algebraic_word_problem": "A student scored 85% on a test with 200 total points. How many points did the student score?",
+    "reference_answer": "170 points",
+    "step_by_step_solution": "Points scored = 85% of 200 = 0.85 * 200 = 170 points",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

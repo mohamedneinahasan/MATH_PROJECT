@@ -1,0 +1,9 @@
+{
+    "question_id": 332,
+    "algebraic_word_problem": "A train travels 300 miles in 5 hours. What is its average speed?",
+    "reference_answer": "60 miles per hour",
+    "step_by_step_solution": "Average speed = Total distance / Total time = 300 miles / 5 hours = 60 mph.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

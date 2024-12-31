@@ -1,0 +1,9 @@
+{
+    "question_id": 922,
+    "algebraic_word_problem": "If a person earns $500 a week, how much will they earn in 4 weeks?",
+    "reference_answer": "$2000",
+    "step_by_step_solution": "Total earnings = weekly earnings \u00d7 number of weeks = 500 \u00d7 4 = 2000.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

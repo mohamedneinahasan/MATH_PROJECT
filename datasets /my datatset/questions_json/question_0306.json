@@ -1,0 +1,9 @@
+{
+    "question_id": 306,
+    "algebraic_word_problem": "If a car's fuel tank can hold 15 gallons and it is currently filled to 60% of its capacity, how many gallons of fuel are in the tank?",
+    "reference_answer": "9 gallons",
+    "step_by_step_solution": "Fuel in tank = 60% of 15 gallons = 0.6 * 15 = 9 gallons.",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 636,
+    "algebraic_word_problem": "A rectangle\u2019s length is 8 meters more than its width. If its perimeter is 64 meters, what are its dimensions?",
+    "reference_answer": "Length = 20 meters, Width = 12 meters",
+    "step_by_step_solution": "Let width = x; length = x + 8; Perimeter = 2(x + (x + 8)) = 64; Solve for x.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

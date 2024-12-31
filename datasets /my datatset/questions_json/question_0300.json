@@ -1,0 +1,9 @@
+{
+    "question_id": 300,
+    "algebraic_word_problem": "A bottle is filled with 750 ml of water. If you pour out 250 ml, how much is left?",
+    "reference_answer": "500 ml",
+    "step_by_step_solution": "Remaining water = Initial volume - Volume poured out = 750 ml - 250 ml = 500 ml.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 679,
+    "algebraic_word_problem": "A man invests $2000 at an interest rate of 5% per annum. What will be the total amount after 3 years?",
+    "reference_answer": "$2315.25",
+    "step_by_step_solution": "A = P(1 + r/n)^(nt); A = 2000(1 + 0.05)^3; A = 2000(1.157625) = $2315.25",
+    "predicted_answer": "",
+    "topic": "Investment Problems",
+    "difficulty": "Medium"
+}

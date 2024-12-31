@@ -1,0 +1,9 @@
+{
+    "question_id": 483,
+    "algebraic_word_problem": "If a bike costs $150 after a 25% discount, what was the original price?",
+    "reference_answer": "$200",
+    "step_by_step_solution": "Let original price = x. So, 0.75x = 150; hence x = 150 / 0.75 = 200.",
+    "predicted_answer": "",
+    "topic": "Discount",
+    "difficulty": "Medium"
+}

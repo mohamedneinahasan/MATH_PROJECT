@@ -1,0 +1,9 @@
+{
+    "question_id": 618,
+    "algebraic_word_problem": "A student scored 85% in a test after answering 40 questions correctly. If each correct answer is worth 2 points and the test has a total of 100 points, how many questions did the student answer incorrectly?",
+    "reference_answer": "10 questions",
+    "step_by_step_solution": "Let total questions = x; Correct = 40, Incorrect = x - 40; Score = 40 * 2 / x = 0.85; Solve for x.",
+    "predicted_answer": "",
+    "topic": "Algebra",
+    "difficulty": "Hard"
+}

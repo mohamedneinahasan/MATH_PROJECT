@@ -1,0 +1,9 @@
+{
+    "question_id": 806,
+    "algebraic_word_problem": "If x - 4 = 10, what is the value of x?",
+    "reference_answer": "x = 14",
+    "step_by_step_solution": "Add 4 to both sides: x = 10 + 4; x = 14.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 611,
+    "algebraic_word_problem": "A bridge is constructed with pillars that are each 3 meters wide. If there are 45 pillars along the bridge, spaced 8 meters apart, what is the total length of the bridge?",
+    "reference_answer": "381 meters",
+    "step_by_step_solution": "Each gap between pillars = 8 meters; Total gaps = 44; Total length = (45 * 3) + (44 * 8).",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

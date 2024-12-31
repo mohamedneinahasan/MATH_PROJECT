@@ -1,0 +1,9 @@
+{
+    "question_id": 470,
+    "algebraic_word_problem": "If a recipe requires 2 cups of flour and you have 5 cups, how many cups do you have left after making the recipe?",
+    "reference_answer": "3 cups",
+    "step_by_step_solution": "Remaining flour = 5 - 2 = 3 cups.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

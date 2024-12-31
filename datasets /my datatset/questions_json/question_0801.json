@@ -1,0 +1,9 @@
+{
+    "question_id": 801,
+    "algebraic_word_problem": "The perimeter of a rectangle is 30 cm. If the length is twice the width, what are the dimensions?",
+    "reference_answer": "Length = 10 cm, Width = 5 cm",
+    "step_by_step_solution": "Let width be x; Length = 2x; Perimeter = 2(length + width) = 30; 2(2x + x) = 30; 6x = 30; x = 5; Length = 10.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Medium"
+}

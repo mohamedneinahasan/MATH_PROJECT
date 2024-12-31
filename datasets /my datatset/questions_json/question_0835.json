@@ -1,0 +1,9 @@
+{
+    "question_id": 835,
+    "algebraic_word_problem": "If the sum of two numbers is 30 and one number is twice the other, what are the two numbers?",
+    "reference_answer": "10 and 20",
+    "step_by_step_solution": "Let x = one number; 2x + x = 30; 3x = 30; x = 10; Other number = 20.",
+    "predicted_answer": "",
+    "topic": "Word Problems",
+    "difficulty": "Medium"
+}

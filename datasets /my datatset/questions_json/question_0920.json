@@ -1,0 +1,9 @@
+{
+    "question_id": 920,
+    "algebraic_word_problem": "If x - 3 = 5, what is the value of x?",
+    "reference_answer": "x = 8",
+    "step_by_step_solution": "Add 3 to both sides: x = 5 + 3 = 8.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 694,
+    "algebraic_word_problem": "If 60% of a number is 240, what is the number?",
+    "reference_answer": "400",
+    "step_by_step_solution": "Let the number be x: 0.6x = 240; x = 240/0.6 = 400",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

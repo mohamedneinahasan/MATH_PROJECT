@@ -1,0 +1,9 @@
+{
+    "question_id": 619,
+    "algebraic_word_problem": "A contractor hires two teams to build a wall. Team A can complete the job in 8 hours, and Team B in 12 hours. If Team A starts working alone for 2 hours and then Team B joins, how much longer will they take to finish?",
+    "reference_answer": "3.33 hours",
+    "step_by_step_solution": "Team A's rate = 1/8, Team B's rate = 1/12; Initial 2 hours = 2/8; Remaining = 3/4; Combined rate = 1/8 + 1/12.",
+    "predicted_answer": "",
+    "topic": "Work Problems",
+    "difficulty": "Hard"
+}

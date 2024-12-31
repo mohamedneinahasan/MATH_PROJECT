@@ -1,0 +1,9 @@
+{
+    "question_id": 430,
+    "algebraic_word_problem": "A man is 4 times as old as his son. In 10 years, he will be twice as old as his son. How old are they now?",
+    "reference_answer": "Father is 40, son is 10.",
+    "step_by_step_solution": "Let son's age = x. Father's age = 4x. In 10 years: 4x + 10 = 2(x + 10). Solving gives 4x + 10 = 2x + 20; thus, 2x = 10, so x = 5. Father is 20 and son is 5.",
+    "predicted_answer": "",
+    "topic": "Age Problems",
+    "difficulty": "Hard"
+}

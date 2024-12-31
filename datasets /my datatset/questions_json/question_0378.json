@@ -1,0 +1,9 @@
+{
+    "question_id": 378,
+    "algebraic_word_problem": "A company produces 20,000 units at a fixed cost of $50,000 and a variable cost of $5 per unit. What is the total cost?",
+    "reference_answer": "$150,000",
+    "step_by_step_solution": "Total cost = Fixed cost + (Variable cost * Number of units) = 50000 + (5 * 20000) = $150,000.",
+    "predicted_answer": "",
+    "topic": "Cost Analysis",
+    "difficulty": "Hard"
+}

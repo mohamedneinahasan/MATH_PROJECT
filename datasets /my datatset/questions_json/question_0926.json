@@ -1,0 +1,9 @@
+{
+    "question_id": 926,
+    "algebraic_word_problem": "If a phone costs $600 and is on sale for 20% off, what is the sale price?",
+    "reference_answer": "$480",
+    "step_by_step_solution": "Discount = 20% of 600 = 0.2 \u00d7 600 = 120; Sale price = 600 - 120 = 480.",
+    "predicted_answer": "",
+    "topic": "Percentages",
+    "difficulty": "Medium"
+}

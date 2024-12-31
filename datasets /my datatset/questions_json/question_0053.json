@@ -1,0 +1,9 @@
+{
+    "question_id": 53,
+    "algebraic_word_problem": "Jack buys 3 shirts, each priced at $30. He gets a $15 discount. How much does he pay?",
+    "reference_answer": "$75",
+    "step_by_step_solution": "Total = 3 * $30 = $90\nDiscount = $15\nFinal amount = $90 - $15 = $75",
+    "predicted_answer": "",
+    "topic": "Simple Equations",
+    "difficulty": "Easy"
+}

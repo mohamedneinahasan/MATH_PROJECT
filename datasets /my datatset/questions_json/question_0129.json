@@ -1,0 +1,9 @@
+{
+    "question_id": 129,
+    "algebraic_word_problem": "A shirt originally costs $30 but is on sale for 20% off. What is the sale price?",
+    "reference_answer": "$24",
+    "step_by_step_solution": "Discount = 20% of 30 = 0.20 * 30 = $6\nSale price = 30 - 6 = $24",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

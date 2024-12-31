@@ -1,0 +1,9 @@
+{
+    "question_id": 496,
+    "algebraic_word_problem": "If you roll a standard six-sided die, what is the probability of rolling a number greater than 4?",
+    "reference_answer": "0.33",
+    "step_by_step_solution": "Outcomes greater than 4 = {5, 6}; Total outcomes = 6. Probability = 2/6 = 0.33.",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Medium"
+}

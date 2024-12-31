@@ -1,0 +1,9 @@
+{
+    "question_id": 807,
+    "algebraic_word_problem": "In a class, the ratio of boys to girls is 3:4. If there are 21 boys, how many girls are there?",
+    "reference_answer": "28 girls",
+    "step_by_step_solution": "Let the number of girls be y; 3/4 = 21/y; Cross-multiply: 3y = 84; y = 28.",
+    "predicted_answer": "",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Medium"
+}

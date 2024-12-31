@@ -1,0 +1,9 @@
+{
+    "question_id": 776,
+    "algebraic_word_problem": "If 3 times a number decreased by 4 equals 11, what is the number?",
+    "reference_answer": "5",
+    "step_by_step_solution": "Let the number be x; 3x - 4 = 11; 3x = 15; x = 5.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Medium"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 558,
+    "algebraic_word_problem": "If the product of two consecutive integers is 272, what are the integers?",
+    "reference_answer": "16 and 17",
+    "step_by_step_solution": "Let the integers be x and x + 1; Then x(x + 1) = 272; x\u00b2 + x - 272 = 0. Using the quadratic formula, x = 16, so integers are 16 and 17.",
+    "predicted_answer": "",
+    "topic": "Algebra",
+    "difficulty": "Hard"
+}

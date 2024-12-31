@@ -1,0 +1,9 @@
+{
+    "question_id": 992,
+    "algebraic_word_problem": "If a bike travels 60 miles in 2 hours, what is its average speed?",
+    "reference_answer": "30 mph",
+    "step_by_step_solution": "Speed = distance / time = 60 / 2 = 30.",
+    "predicted_answer": "",
+    "topic": "Speed and Distance",
+    "difficulty": "Easy"
+}

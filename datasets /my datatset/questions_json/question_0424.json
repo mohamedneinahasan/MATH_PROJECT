@@ -1,0 +1,9 @@
+{
+    "question_id": 424,
+    "algebraic_word_problem": "If a box contains 8 red marbles, 4 blue marbles, and 2 green marbles, what is the probability of picking a blue marble?",
+    "reference_answer": "0.2",
+    "step_by_step_solution": "Total marbles = 8 + 4 + 2 = 14. Probability of blue = Number of blue marbles / Total marbles = 4/14 = 0.2.",
+    "predicted_answer": "",
+    "topic": "Probability",
+    "difficulty": "Hard"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 247,
+    "algebraic_word_problem": "If 25% of a number is 50, what is the number?",
+    "reference_answer": "200",
+    "step_by_step_solution": "Let the number be x\n25% of x = 50\n0.25x = 50\nx = 50 / 0.25 = 200",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+}

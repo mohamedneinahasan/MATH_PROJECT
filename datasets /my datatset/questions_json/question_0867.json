@@ -1,0 +1,9 @@
+{
+    "question_id": 867,
+    "algebraic_word_problem": "A rectangle has a length of 12 cm and a width of 9 cm. What is the perimeter of the rectangle?",
+    "reference_answer": "42 cm",
+    "step_by_step_solution": "Perimeter = 2(length + width) = 2(12 + 9) = 42 cm.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 851,
+    "algebraic_word_problem": "A recipe requires 2 cups of sugar for every 3 cups of flour. If you have 6 cups of flour, how much sugar is needed?",
+    "reference_answer": "4 cups of sugar",
+    "step_by_step_solution": "Set up a ratio: 2/3 = x/6; Cross-multiply: 3x = 12; x = 4.",
+    "predicted_answer": "",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Medium"
+}

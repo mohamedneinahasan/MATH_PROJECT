@@ -1,0 +1,9 @@
+{
+    "question_id": 139,
+    "algebraic_word_problem": "A bottle contains 750 ml of soda. If you drink 250 ml, how much soda is left?",
+    "reference_answer": "500 ml",
+    "step_by_step_solution": "Soda left = 750 - 250 = 500 ml",
+    "predicted_answer": "",
+    "topic": "Simple Operations",
+    "difficulty": "Easy"
+}

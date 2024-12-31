@@ -1,0 +1,9 @@
+{
+    "question_id": 813,
+    "algebraic_word_problem": "If a car travels 60 miles in 1 hour and 30 minutes, what is its average speed in miles per hour?",
+    "reference_answer": "40 mph",
+    "step_by_step_solution": "Total time = 1.5 hours; Average speed = distance / time = 60 / 1.5 = 40 mph.",
+    "predicted_answer": "",
+    "topic": "Speed and Distance",
+    "difficulty": "Easy"
+}

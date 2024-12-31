@@ -1,0 +1,9 @@
+{
+    "question_id": 281,
+    "algebraic_word_problem": "If a car covers 180 miles on 3 gallons of gas, what is its miles per gallon (MPG)?",
+    "reference_answer": "60 MPG",
+    "step_by_step_solution": "MPG = Distance / Gallons = 180 miles / 3 gallons = 60 MPG.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+}

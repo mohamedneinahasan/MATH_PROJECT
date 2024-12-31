@@ -1,0 +1,9 @@
+{
+    "question_id": 98,
+    "algebraic_word_problem": "A car can travel 300 miles on 10 gallons of gas. How many miles can it travel on 25 gallons?",
+    "reference_answer": "750 miles",
+    "step_by_step_solution": "Miles per gallon = 300 miles / 10 gallons = 30 miles/gallon\nDistance = 30 miles/gallon * 25 gallons = 750 miles",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+}

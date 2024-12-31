@@ -1,0 +1,9 @@
+{
+    "question_id": 169,
+    "algebraic_word_problem": "The sum of two consecutive even numbers is 56. What are the numbers?",
+    "reference_answer": "28 and 30",
+    "step_by_step_solution": "Let the first number = x, then the second number = x + 2\nx + (x + 2) = 56\n2x + 2 = 56\n2x = 54\nx = 27\nThe numbers are 28 and 30",
+    "predicted_answer": "",
+    "topic": "Algebraic Equations",
+    "difficulty": "Medium"
+}

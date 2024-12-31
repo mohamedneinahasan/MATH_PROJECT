@@ -1,0 +1,9 @@
+{
+    "question_id": 695,
+    "algebraic_word_problem": "A train leaves a station and travels at a speed of 90 km/h. How far will it travel in 2 hours?",
+    "reference_answer": "180 km",
+    "step_by_step_solution": "Distance = speed \u00d7 time = 90 km/h \u00d7 2 h = 180 km",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

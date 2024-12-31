@@ -1,0 +1,9 @@
+{
+    "question_id": 932,
+    "algebraic_word_problem": "If a car's value decreases by 15% each year and it is worth $20,000 now, what will it be worth in one year?",
+    "reference_answer": "$17,000",
+    "step_by_step_solution": "Decrease = 15% of 20000 = 0.15 \u00d7 20000 = 3000; New value = 20000 - 3000 = 17000.",
+    "predicted_answer": "",
+    "topic": "Percentages",
+    "difficulty": "Medium"
+}

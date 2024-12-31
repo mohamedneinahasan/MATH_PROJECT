@@ -1,0 +1,9 @@
+{
+    "question_id": 784,
+    "algebraic_word_problem": "If x + 2y = 10 and y = 3, what is the value of x?",
+    "reference_answer": "x = 4",
+    "step_by_step_solution": "Substituting y: x + 2(3) = 10; x + 6 = 10; x = 4.",
+    "predicted_answer": "",
+    "topic": "Systems of Equations",
+    "difficulty": "Medium"
+}

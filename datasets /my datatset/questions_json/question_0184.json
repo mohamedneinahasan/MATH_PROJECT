@@ -1,0 +1,9 @@
+{
+    "question_id": 184,
+    "algebraic_word_problem": "A man spends $75, which is 30% of his total money. How much money does he have in total?",
+    "reference_answer": "$250",
+    "step_by_step_solution": "Let total money = x\n30% of x = 75\n0.30x = 75\nx = 75 / 0.30 = $250",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

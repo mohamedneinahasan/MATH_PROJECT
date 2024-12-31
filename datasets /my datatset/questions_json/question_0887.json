@@ -1,0 +1,9 @@
+{
+    "question_id": 887,
+    "algebraic_word_problem": "If a shirt costs $40 after a 10% discount, what was the original price?",
+    "reference_answer": "$44.44",
+    "step_by_step_solution": "Let original price = x; 0.9x = 40; x = 40 / 0.9 \u2248 44.44.",
+    "predicted_answer": "",
+    "topic": "Percentages",
+    "difficulty": "Medium"
+}

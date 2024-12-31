@@ -1,0 +1,9 @@
+{
+    "question_id": 845,
+    "algebraic_word_problem": "A car travels 300 miles in 5 hours. What is the average speed of the car?",
+    "reference_answer": "60 mph",
+    "step_by_step_solution": "Average speed = total distance / total time = 300 / 5 = 60 mph.",
+    "predicted_answer": "",
+    "topic": "Speed and Distance",
+    "difficulty": "Easy"
+}

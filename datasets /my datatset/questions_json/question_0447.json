@@ -1,0 +1,9 @@
+{
+    "question_id": 447,
+    "algebraic_word_problem": "A group of friends orders 3 pizzas for $12 each. If they split the total cost evenly among 5 people, how much does each person pay?",
+    "reference_answer": "$7.20",
+    "step_by_step_solution": "Total cost = 3 * 12 = 36; Cost per person = 36 / 5 = 7.20.",
+    "predicted_answer": "",
+    "topic": "Shopping",
+    "difficulty": "Hard"
+}

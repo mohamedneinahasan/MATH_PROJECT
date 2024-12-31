@@ -1,0 +1,9 @@
+{
+    "question_id": 196,
+    "algebraic_word_problem": "The sum of two consecutive odd numbers is 68. What are the numbers?",
+    "reference_answer": "33 and 35",
+    "step_by_step_solution": "Let the first odd number = x\nThe second odd number = x + 2\nx + (x + 2) = 68\n2x + 2 = 68\n2x = 66\nx = 33\nThe numbers are 33 and 35",
+    "predicted_answer": "",
+    "topic": "Algebraic Equations",
+    "difficulty": "Medium"
+}

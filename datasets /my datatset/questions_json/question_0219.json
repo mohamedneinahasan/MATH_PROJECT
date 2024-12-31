@@ -1,0 +1,9 @@
+{
+    "question_id": 219,
+    "algebraic_word_problem": "A man spends $200 on groceries, $150 on rent, and $50 on transportation. What percentage of his total expenses is spent on groceries?",
+    "reference_answer": "50%",
+    "step_by_step_solution": "Total expenses = 200 + 150 + 50 = $400\nPercentage on groceries = (200 / 400) * 100 = 50%",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+}

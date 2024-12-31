@@ -1,0 +1,9 @@
+{
+    "question_id": 112,
+    "algebraic_word_problem": "A store sells pencils for $0.75 each. If you buy 12 pencils, how much do you spend?",
+    "reference_answer": "$9",
+    "step_by_step_solution": "Total cost = 0.75 * 12 = $9",
+    "predicted_answer": "",
+    "topic": "Simple Operations",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 450,
+    "algebraic_word_problem": "If a store sells 60% of its inventory and has 40 items left, how many items were there originally?",
+    "reference_answer": "100 items",
+    "step_by_step_solution": "If 40 items = 40% of the original inventory, then original inventory = 40 / 0.4 = 100.",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Hard"
+}

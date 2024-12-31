@@ -1,0 +1,9 @@
+{
+    "question_id": 59,
+    "algebraic_word_problem": "A chemical solution contains 30% salt. If there are 40 liters of solution, how much salt is present?",
+    "reference_answer": "12 liters of salt",
+    "step_by_step_solution": "Amount of salt = 30% of 40 liters = 0.30 * 40 = 12 liters",
+    "predicted_answer": "",
+    "topic": "Mixture Problems",
+    "difficulty": "Medium"
+}

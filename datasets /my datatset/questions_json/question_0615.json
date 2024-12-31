@@ -1,0 +1,9 @@
+{
+    "question_id": 615,
+    "algebraic_word_problem": "The sum of two numbers is 80. Four times the smaller number is equal to twice the larger. What are the numbers?",
+    "reference_answer": "30 and 50",
+    "step_by_step_solution": "Let x = smaller and y = larger; x + y = 80; 4x = 2y; Solve for x and y.",
+    "predicted_answer": "",
+    "topic": "Algebra",
+    "difficulty": "Hard"
+}

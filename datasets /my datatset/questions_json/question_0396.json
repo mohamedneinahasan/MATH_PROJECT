@@ -1,0 +1,9 @@
+{
+    "question_id": 396,
+    "algebraic_word_problem": "If a car's value decreases by 25% every year, what will it be worth after 2 years if it was originally worth $20,000?",
+    "reference_answer": "$11,250",
+    "step_by_step_solution": "Value after 1 year = 20000 * 0.75 = 15000. Value after 2 years = 15000 * 0.75 = 11250.",
+    "predicted_answer": "",
+    "topic": "Exponential Decay",
+    "difficulty": "Hard"
+}

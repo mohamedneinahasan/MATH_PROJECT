@@ -1,0 +1,9 @@
+{
+    "question_id": 984,
+    "algebraic_word_problem": "If the sum of two numbers is 40 and one number is 12, what is the other number?",
+    "reference_answer": "28",
+    "step_by_step_solution": "Let the other number be x; x + 12 = 40; x = 40 - 12 = 28.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

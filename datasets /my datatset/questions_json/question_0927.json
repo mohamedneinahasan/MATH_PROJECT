@@ -1,0 +1,9 @@
+{
+    "question_id": 927,
+    "algebraic_word_problem": "What is the value of x if 4x + 8 = 32?",
+    "reference_answer": "x = 6",
+    "step_by_step_solution": "Subtract 8 from both sides: 4x = 24; Divide by 4: x = 6.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Easy"
+}

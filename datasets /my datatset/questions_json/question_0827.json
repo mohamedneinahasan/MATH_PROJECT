@@ -1,0 +1,9 @@
+{
+    "question_id": 827,
+    "algebraic_word_problem": "If a recipe calls for 2 cups of flour for every 3 cups of sugar, how many cups of flour are needed for 12 cups of sugar?",
+    "reference_answer": "8 cups of flour",
+    "step_by_step_solution": "Set up a ratio: 2/3 = x/12; Cross-multiply: 3x = 24; x = 8.",
+    "predicted_answer": "",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Medium"
+}

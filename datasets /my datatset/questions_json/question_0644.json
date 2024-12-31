@@ -1,0 +1,9 @@
+{
+    "question_id": 644,
+    "algebraic_word_problem": "The sum of three consecutive odd numbers is 51. What are the numbers?",
+    "reference_answer": "15, 17, and 19",
+    "step_by_step_solution": "Let the numbers be x, x+2, and x+4; Equation: x + (x+2) + (x+4) = 51; Solve for x.",
+    "predicted_answer": "",
+    "topic": "Sequences",
+    "difficulty": "Medium"
+}

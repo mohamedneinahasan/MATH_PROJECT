@@ -1,0 +1,9 @@
+{
+    "question_id": 26,
+    "algebraic_word_problem": "The ratio of dogs to cats in a shelter is 2:3. If there are 75 animals in total, how many are dogs and how many are cats?",
+    "reference_answer": "30 dogs and 45 cats",
+    "step_by_step_solution": "Let dogs = 2x and cats = 3x\nTotal animals = 2x + 3x = 75\n5x = 75\nx = 15\nDogs = 2 * 15 = 30, Cats = 3 * 15 = 45",
+    "predicted_answer": "",
+    "topic": "Ratio and Proportion Problems",
+    "difficulty": "Hard"
+}

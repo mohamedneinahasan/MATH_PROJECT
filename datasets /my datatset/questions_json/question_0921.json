@@ -1,0 +1,9 @@
+{
+    "question_id": 921,
+    "algebraic_word_problem": "If a recipe requires 2 cups of sugar and makes 12 cookies, how much sugar is needed for 30 cookies?",
+    "reference_answer": "5 cups",
+    "step_by_step_solution": "Sugar per cookie = 2 / 12; For 30 cookies = (2 / 12) \u00d7 30 = 5.",
+    "predicted_answer": "",
+    "topic": "Word Problems",
+    "difficulty": "Medium"
+}

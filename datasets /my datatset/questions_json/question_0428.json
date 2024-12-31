@@ -1,0 +1,9 @@
+{
+    "question_id": 428,
+    "algebraic_word_problem": "A store sells 3 types of apples: red, green, and yellow. If 40% are red, 35% are green, and the rest are yellow, what percentage of the apples are yellow?",
+    "reference_answer": "25%",
+    "step_by_step_solution": "Percentage of yellow = 100% - (40% + 35%) = 25%.",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Hard"
+}

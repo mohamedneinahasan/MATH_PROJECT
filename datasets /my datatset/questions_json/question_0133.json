@@ -1,0 +1,9 @@
+{
+    "question_id": 133,
+    "algebraic_word_problem": "A bag of apples costs $3. If you buy 5 bags, how much do you spend?",
+    "reference_answer": "$15",
+    "step_by_step_solution": "Total cost = 3 * 5 = $15",
+    "predicted_answer": "",
+    "topic": "Simple Operations",
+    "difficulty": "Easy"
+}

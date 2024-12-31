@@ -1,0 +1,9 @@
+{
+    "question_id": 234,
+    "algebraic_word_problem": "If a man saves $50 every month, how much will he have saved after 8 months?",
+    "reference_answer": "$400",
+    "step_by_step_solution": "Total savings = 50 * 8 = $400",
+    "predicted_answer": "",
+    "topic": "Multiplication",
+    "difficulty": "Easy"
+}

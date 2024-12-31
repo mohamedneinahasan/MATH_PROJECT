@@ -1,0 +1,9 @@
+{
+    "question_id": 621,
+    "algebraic_word_problem": "A garden has a rectangular shape, with the length twice its width. If the perimeter is 60 meters, what are the dimensions?",
+    "reference_answer": "Length = 20 meters, Width = 10 meters",
+    "step_by_step_solution": "Let width = x; length = 2x; Perimeter = 2(x + 2x) = 60.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

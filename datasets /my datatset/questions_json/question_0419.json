@@ -1,0 +1,9 @@
+{
+    "question_id": 419,
+    "algebraic_word_problem": "A rectangle has a perimeter of 50 cm. If its length is 20 cm, what is its width?",
+    "reference_answer": "5 cm",
+    "step_by_step_solution": "Perimeter = 2(length + width). So, 50 = 2(20 + width). Thus, 25 = 20 + width, so width = 5 cm.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

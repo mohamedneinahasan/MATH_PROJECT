@@ -1,0 +1,9 @@
+{
+    "question_id": 108,
+    "algebraic_word_problem": "A person has $200 and spends 25% of it. How much money do they have left?",
+    "reference_answer": "$150",
+    "step_by_step_solution": "Amount spent = 25% of 200 = 0.25 * 200 = $50\nMoney left = 200 - 50 = $150",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+}

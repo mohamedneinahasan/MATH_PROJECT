@@ -1,0 +1,9 @@
+{
+    "question_id": 635,
+    "algebraic_word_problem": "If a car travels 240 km in 3 hours, what is its average speed?",
+    "reference_answer": "80 km/h",
+    "step_by_step_solution": "Average speed = Distance / Time = 240 / 3 = 80 km/h.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

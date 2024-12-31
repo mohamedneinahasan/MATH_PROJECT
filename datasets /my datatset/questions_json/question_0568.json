@@ -1,0 +1,9 @@
+{
+    "question_id": 568,
+    "algebraic_word_problem": "A 20% increase followed by a 20% decrease results in what percentage change from the original value?",
+    "reference_answer": "4% decrease",
+    "step_by_step_solution": "Let original value = 100; After 20% increase = 120; After 20% decrease = 120 - 24 = 96; Percentage change = (100 - 96) / 100 * 100 = 4% decrease.",
+    "predicted_answer": "",
+    "topic": "Percentage",
+    "difficulty": "Hard"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 674,
+    "algebraic_word_problem": "If a car travels 150 miles in 3 hours, what is its average speed?",
+    "reference_answer": "50 miles per hour",
+    "step_by_step_solution": "Average speed = total distance \u00f7 total time = 150 miles \u00f7 3 hours = 50 miles/hour",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

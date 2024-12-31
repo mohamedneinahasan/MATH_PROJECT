@@ -1,0 +1,9 @@
+{
+    "question_id": 353,
+    "algebraic_word_problem": "If a recipe calls for 3 cups of flour and you want to make half the recipe, how much flour do you need?",
+    "reference_answer": "1.5 cups of flour",
+    "step_by_step_solution": "Flour needed = (3 cups) / 2 = 1.5 cups.",
+    "predicted_answer": "",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Easy"
+}

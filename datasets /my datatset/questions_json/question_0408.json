@@ -1,0 +1,9 @@
+{
+    "question_id": 408,
+    "algebraic_word_problem": "If a plane travels 600 miles in 1.5 hours, what is its average speed in miles per hour?",
+    "reference_answer": "400 mph",
+    "step_by_step_solution": "Average speed = Total distance / Total time = 600 miles / 1.5 hours = 400 mph.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Hard"
+}

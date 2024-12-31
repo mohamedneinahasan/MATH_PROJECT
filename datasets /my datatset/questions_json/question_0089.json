@@ -1,0 +1,9 @@
+{
+    "question_id": 89,
+    "algebraic_word_problem": "A store sells notebooks for $3 each and pens for $2 each. If a student buys 5 notebooks and 4 pens, how much does the student spend?",
+    "reference_answer": "$23",
+    "step_by_step_solution": "Total cost = (5 * 3) + (4 * 2) = 15 + 8 = $23",
+    "predicted_answer": "",
+    "topic": "Simple Operations",
+    "difficulty": "Easy"
+}

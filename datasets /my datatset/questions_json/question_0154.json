@@ -1,0 +1,9 @@
+{
+    "question_id": 154,
+    "algebraic_word_problem": "The ratio of boys to girls in a school is 7:5. If there are 420 boys, how many girls are there?",
+    "reference_answer": "300 girls",
+    "step_by_step_solution": "Boys to girls ratio = 7:5\nLet number of girls = g\n7/5 = 420/g\nCross multiply: 7g = 5 * 420\nSolve for g: g = 300",
+    "predicted_answer": "",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Medium"
+}

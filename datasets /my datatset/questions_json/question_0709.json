@@ -1,0 +1,9 @@
+{
+    "question_id": 709,
+    "algebraic_word_problem": "If a person jogs at a speed of 6 km/h, how long will it take to jog 12 km?",
+    "reference_answer": "2 hours",
+    "step_by_step_solution": "Time = distance \u00f7 speed = 12 km \u00f7 6 km/h = 2 hours",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 965,
+    "algebraic_word_problem": "If a train travels 150 miles in 3 hours, what is its average speed?",
+    "reference_answer": "50 mph",
+    "step_by_step_solution": "Speed = distance / time = 150 / 3 = 50.",
+    "predicted_answer": "",
+    "topic": "Speed and Distance",
+    "difficulty": "Easy"
+}

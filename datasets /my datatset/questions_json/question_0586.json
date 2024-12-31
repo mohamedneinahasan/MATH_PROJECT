@@ -1,0 +1,9 @@
+{
+    "question_id": 586,
+    "algebraic_word_problem": "The ratio of boys to girls in a class is 2:3. If there are 45 students in total, how many boys and girls are there?",
+    "reference_answer": "18 boys and 27 girls",
+    "step_by_step_solution": "Let boys = 2x and girls = 3x; Total students = 2x + 3x = 45; Solve for x to find numbers.",
+    "predicted_answer": "",
+    "topic": "Ratio and Proportion Problems",
+    "difficulty": "Hard"
+}

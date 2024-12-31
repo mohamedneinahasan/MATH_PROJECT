@@ -1,0 +1,9 @@
+{
+    "question_id": 983,
+    "algebraic_word_problem": "If a car travels 300 miles on 10 gallons of gas, what is its fuel efficiency in miles per gallon?",
+    "reference_answer": "30 mpg",
+    "step_by_step_solution": "Fuel efficiency = distance / gallons = 300 / 10 = 30.",
+    "predicted_answer": "",
+    "topic": "Speed and Distance",
+    "difficulty": "Easy"
+}

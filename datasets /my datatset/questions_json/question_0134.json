@@ -1,0 +1,9 @@
+{
+    "question_id": 134,
+    "algebraic_word_problem": "A recipe requires 2 cups of sugar for 3 cakes. How many cups of sugar are needed for 6 cakes?",
+    "reference_answer": "4 cups",
+    "step_by_step_solution": "Sugar for 6 cakes = (2/3) * 6 = 4 cups",
+    "predicted_answer": "",
+    "topic": "Ratios",
+    "difficulty": "Medium"
+}

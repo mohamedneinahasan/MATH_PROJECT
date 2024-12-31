@@ -1,0 +1,9 @@
+{
+    "question_id": 211,
+    "algebraic_word_problem": "A shirt originally costs $60. After a 25% discount, what is the price of the shirt?",
+    "reference_answer": "$45",
+    "step_by_step_solution": "Discount = 25% of 60 = 0.25 * 60 = $15\nDiscounted price = 60 - 15 = $45",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+}

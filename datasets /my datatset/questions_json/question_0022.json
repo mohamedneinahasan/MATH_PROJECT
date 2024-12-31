@@ -1,0 +1,9 @@
+{
+    "question_id": 22,
+    "algebraic_word_problem": "In 4 years, Sarah will be three times as old as she was 2 years ago. How old is Sarah now?",
+    "reference_answer": "6 years old",
+    "step_by_step_solution": "Let Sarah's current age = x\nIn 4 years, Sarah's age = x + 4\n2 years ago, Sarah's age = x - 2\nx + 4 = 3(x - 2)\nx + 4 = 3x - 6\nx = 6",
+    "predicted_answer": "",
+    "topic": "Age Problems (Complex)",
+    "difficulty": "Medium"
+}

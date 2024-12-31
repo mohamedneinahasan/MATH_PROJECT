@@ -1,0 +1,9 @@
+{
+    "question_id": 510,
+    "algebraic_word_problem": "If a 60-inch TV is on sale for 25% off and the original price is $800, what is the sale price?",
+    "reference_answer": "$600",
+    "step_by_step_solution": "Discount = 0.25 * 800 = 200; Sale price = 800 - 200 = 600.",
+    "predicted_answer": "",
+    "topic": "Discount",
+    "difficulty": "Medium"
+}

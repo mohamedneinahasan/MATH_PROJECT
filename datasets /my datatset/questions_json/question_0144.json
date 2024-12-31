@@ -1,0 +1,9 @@
+{
+    "question_id": 144,
+    "algebraic_word_problem": "A group of 50 students goes on a trip. If 80% of them are taking the bus, how many are taking the bus?",
+    "reference_answer": "40 students",
+    "step_by_step_solution": "Students taking the bus = 50 * 0.80 = 40",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Medium"
+}

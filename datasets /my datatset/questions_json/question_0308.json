@@ -1,0 +1,9 @@
+{
+    "question_id": 308,
+    "algebraic_word_problem": "If a rectangular garden has a length of 10 meters and a width of 5 meters, what is its area?",
+    "reference_answer": "50 square meters",
+    "step_by_step_solution": "Area = Length * Width = 10 * 5 = 50 square meters.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Easy"
+}

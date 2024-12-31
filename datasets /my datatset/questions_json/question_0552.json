@@ -1,0 +1,9 @@
+{
+    "question_id": 552,
+    "algebraic_word_problem": "A rectangle has a perimeter of 48 cm. If its length is twice its width, what are the dimensions of the rectangle?",
+    "reference_answer": "Width is 8 cm and length is 16 cm.",
+    "step_by_step_solution": "Let width = x; Then length = 2x; Perimeter = 2(length + width) = 48; 2(2x + x) = 48; 6x = 48; x = 8. Length = 16.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

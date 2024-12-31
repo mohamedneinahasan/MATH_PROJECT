@@ -1,0 +1,9 @@
+{
+    "question_id": 850,
+    "algebraic_word_problem": "A person earns $200 a week. How much will they earn in 8 weeks?",
+    "reference_answer": "$1600",
+    "step_by_step_solution": "Total earnings = weekly earnings \u00d7 number of weeks = 200 \u00d7 8 = 1600.",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

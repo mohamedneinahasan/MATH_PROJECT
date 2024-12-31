@@ -1,0 +1,9 @@
+{
+    "question_id": 348,
+    "algebraic_word_problem": "If a student scores 88 out of 100 on a test, what is the percentage score?",
+    "reference_answer": "88%",
+    "step_by_step_solution": "Percentage = (Score / Total) * 100 = (88 / 100) * 100 = 88%.",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Easy"
+}

@@ -1,0 +1,9 @@
+{
+    "question_id": 805,
+    "algebraic_word_problem": "If the radius of a circle is increased by 50%, how does the area change?",
+    "reference_answer": "Increases by 125%",
+    "step_by_step_solution": "Area = \u03c0r\u00b2; New radius = 1.5r; New area = \u03c0(1.5r)\u00b2 = 2.25\u03c0r\u00b2; Increase = 2.25\u03c0r\u00b2 - \u03c0r\u00b2 = 1.25\u03c0r\u00b2, which is 125% increase.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}

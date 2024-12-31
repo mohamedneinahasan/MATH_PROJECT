@@ -1,0 +1,9 @@
+{
+    "question_id": 661,
+    "algebraic_word_problem": "Lily bought 3 dozen eggs. If she uses 4 eggs each day, how many days will the eggs last?",
+    "reference_answer": "9 days",
+    "step_by_step_solution": "3 dozen = 36 eggs\n36 eggs \u00f7 4 eggs/day = 9 days",
+    "predicted_answer": "",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy"
+}

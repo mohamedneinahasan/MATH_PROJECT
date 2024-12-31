@@ -1,0 +1,9 @@
+{
+    "question_id": 76,
+    "algebraic_word_problem": "A recipe calls for 2 cups of sugar for every 3 cups of flour. How much sugar is needed for 12 cups of flour?",
+    "reference_answer": "8 cups of sugar",
+    "step_by_step_solution": "Ratio of sugar to flour = 2:3\nFor 12 cups of flour: (2/3) * 12 = 8 cups of sugar",
+    "predicted_answer": "",
+    "topic": "Ratios",
+    "difficulty": "Easy"
+}

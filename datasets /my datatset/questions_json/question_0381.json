@@ -1,0 +1,9 @@
+{
+    "question_id": 381,
+    "algebraic_word_problem": "A family of 4 spends $400 on groceries. If they want to budget 25% less next month, how much should they budget?",
+    "reference_answer": "$300",
+    "step_by_step_solution": "25% of $400 = 100. New budget = 400 - 100 = $300.",
+    "predicted_answer": "",
+    "topic": "Percentage Problems",
+    "difficulty": "Hard"
+}

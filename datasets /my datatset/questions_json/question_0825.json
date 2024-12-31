@@ -1,0 +1,9 @@
+{
+    "question_id": 825,
+    "algebraic_word_problem": "A car is bought for $30,000 and depreciates by 20% each year. What is its value after 2 years?",
+    "reference_answer": "$18,720",
+    "step_by_step_solution": "Value after 1 year = 30000 - (0.2 \u00d7 30000) = 24000; Value after 2 years = 24000 - (0.2 \u00d7 24000) = 19200.",
+    "predicted_answer": "",
+    "topic": "Exponential Decay",
+    "difficulty": "Hard"
+}

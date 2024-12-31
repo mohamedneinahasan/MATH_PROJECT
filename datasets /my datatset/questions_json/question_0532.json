@@ -1,0 +1,9 @@
+{
+    "question_id": 532,
+    "algebraic_word_problem": "If a phone originally costs $600 and is now priced at $450, what is the percentage discount?",
+    "reference_answer": "25%",
+    "step_by_step_solution": "Discount = (600 - 450) / 600 \u00d7 100 = 25%.",
+    "predicted_answer": "",
+    "topic": "Percentage",
+    "difficulty": "Medium"
+}

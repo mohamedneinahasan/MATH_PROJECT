@@ -1,0 +1,9 @@
+{
+    "question_id": 111,
+    "algebraic_word_problem": "A truck can carry 2,500 pounds. If each bag of cement weighs 50 pounds, how many bags can the truck carry?",
+    "reference_answer": "50 bags",
+    "step_by_step_solution": "Number of bags = 2500 / 50 = 50 bags",
+    "predicted_answer": "",
+    "topic": "Division",
+    "difficulty": "Easy"
+}

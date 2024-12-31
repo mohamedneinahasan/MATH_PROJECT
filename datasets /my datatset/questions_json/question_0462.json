@@ -1,0 +1,9 @@
+{
+    "question_id": 462,
+    "algebraic_word_problem": "If a student scores 75, 80, and 90 on three tests, what is their average score?",
+    "reference_answer": "81.67",
+    "step_by_step_solution": "Average = (75 + 80 + 90) / 3 = 245 / 3 \u2248 81.67.",
+    "predicted_answer": "",
+    "topic": "Average",
+    "difficulty": "Hard"
+}

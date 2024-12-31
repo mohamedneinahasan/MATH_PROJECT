@@ -1,0 +1,9 @@
+{
+    "question_id": 771,
+    "algebraic_word_problem": "What is the value of x in the equation 7x - 3 = 4x + 6?",
+    "reference_answer": "x = 3",
+    "step_by_step_solution": "Subtract 4x: 3x - 3 = 6; Add 3: 3x = 9; x = 3.",
+    "predicted_answer": "",
+    "topic": "Basic Algebraic Equations",
+    "difficulty": "Medium"
+}

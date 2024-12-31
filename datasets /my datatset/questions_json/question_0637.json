@@ -1,0 +1,9 @@
+{
+    "question_id": 637,
+    "algebraic_word_problem": "A person walks 5 km/h for 2 hours, then 4 km/h for 3 hours. What is the average speed for the entire journey?",
+    "reference_answer": "4.4 km/h",
+    "step_by_step_solution": "Total distance = (5 * 2) + (4 * 3) = 10 + 12 = 22 km; Total time = 2 + 3 = 5 hours; Average speed = 22 / 5 = 4.4 km/h.",
+    "predicted_answer": "",
+    "topic": "Distance-Rate-Time",
+    "difficulty": "Medium"
+}

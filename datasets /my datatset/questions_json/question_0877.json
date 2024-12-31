@@ -1,0 +1,9 @@
+{
+    "question_id": 877,
+    "algebraic_word_problem": "What is the next number in the sequence 5, 10, 20, 40?",
+    "reference_answer": "80",
+    "step_by_step_solution": "Each number is multiplied by 2; Next number = 40 \u00d7 2 = 80.",
+    "predicted_answer": "",
+    "topic": "Sequences and Patterns",
+    "difficulty": "Easy"
+}

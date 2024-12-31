@@ -1,0 +1,9 @@
+{
+    "question_id": 457,
+    "algebraic_word_problem": "If a box has dimensions 2 cm by 3 cm by 4 cm, what is its volume?",
+    "reference_answer": "24 cm\u00b3",
+    "step_by_step_solution": "Volume = length \u00d7 width \u00d7 height = 2 cm \u00d7 3 cm \u00d7 4 cm = 24 cm\u00b3.",
+    "predicted_answer": "",
+    "topic": "Geometry",
+    "difficulty": "Hard"
+}
